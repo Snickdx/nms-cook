@@ -1,0 +1,1392 @@
+{
+  "title": "No Man's Sky Planet Type Taxonomy — Master Scanner Label List",
+  "entry_count": 229,
+  "fields": [
+    "label",
+    "type",
+    "category",
+    "cooking_ingredients"
+  ],
+  "entries": [
+    {
+      "label": "Rainy",
+      "type": "Lush",
+      "category": "Core biome",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Verdant",
+      "type": "Lush",
+      "category": "Core biome",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Tropical",
+      "type": "Lush",
+      "category": "Core biome",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Viridescent",
+      "type": "Lush",
+      "category": "Core biome",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Paradise",
+      "type": "Lush",
+      "category": "Core biome",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Temperate",
+      "type": "Lush",
+      "category": "Core biome",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Humid",
+      "type": "Lush",
+      "category": "Core biome",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Overgrown",
+      "type": "Lush",
+      "category": "Core biome",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Flourishing",
+      "type": "Lush",
+      "category": "Core biome",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Grassy",
+      "type": "Lush",
+      "category": "Core biome",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Bountiful",
+      "type": "Lush",
+      "category": "Core biome",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Barren",
+      "type": "Barren",
+      "category": "Core biome",
+      "cooking_ingredients": "Cactus Flesh; Aloe Flesh; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Desert",
+      "type": "Barren",
+      "category": "Core biome",
+      "cooking_ingredients": "Cactus Flesh; Aloe Flesh; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Rocky",
+      "type": "Barren",
+      "category": "Core biome",
+      "cooking_ingredients": "Cactus Flesh; Aloe Flesh; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Bleak",
+      "type": "Barren",
+      "category": "Core biome",
+      "cooking_ingredients": "Cactus Flesh; Aloe Flesh; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Parched",
+      "type": "Barren",
+      "category": "Core biome",
+      "cooking_ingredients": "Cactus Flesh; Aloe Flesh; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Abandoned",
+      "type": "Barren",
+      "category": "Core biome",
+      "cooking_ingredients": "Cactus Flesh; Aloe Flesh; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Dusty",
+      "type": "Barren",
+      "category": "Core biome",
+      "cooking_ingredients": "Cactus Flesh; Aloe Flesh; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Desolate",
+      "type": "Barren",
+      "category": "Core biome",
+      "cooking_ingredients": "Cactus Flesh; Aloe Flesh; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Wind-swept",
+      "type": "Barren",
+      "category": "Core biome",
+      "cooking_ingredients": "Cactus Flesh; Aloe Flesh; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Charred",
+      "type": "Scorched",
+      "category": "Core biome",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Arid",
+      "type": "Scorched",
+      "category": "Core biome",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Scorched",
+      "type": "Scorched",
+      "category": "Core biome",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Hot",
+      "type": "Scorched",
+      "category": "Core biome",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Fiery",
+      "type": "Scorched",
+      "category": "Core biome",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Boiling",
+      "type": "Scorched",
+      "category": "Core biome",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "High Temperature",
+      "type": "Scorched",
+      "category": "Core biome",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Torrid",
+      "type": "Scorched",
+      "category": "Core biome",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Incandescent",
+      "type": "Scorched",
+      "category": "Core biome",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Scalding",
+      "type": "Scorched",
+      "category": "Core biome",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Lava",
+      "type": "Volcanic",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Fireberry may occur"
+    },
+    {
+      "label": "Magma",
+      "type": "Volcanic",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Fireberry may occur"
+    },
+    {
+      "label": "Erupting",
+      "type": "Volcanic",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Fireberry may occur"
+    },
+    {
+      "label": "Volcanic",
+      "type": "Volcanic",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Fireberry may occur"
+    },
+    {
+      "label": "Ash-Shrouded",
+      "type": "Volcanic",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Fireberry may occur"
+    },
+    {
+      "label": "Ashen",
+      "type": "Volcanic",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Fireberry may occur"
+    },
+    {
+      "label": "Tectonic",
+      "type": "Volcanic",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Fireberry may occur"
+    },
+    {
+      "label": "Unstable",
+      "type": "Volcanic",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Fireberry may occur"
+    },
+    {
+      "label": "Violent",
+      "type": "Volcanic",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Fireberry may occur"
+    },
+    {
+      "label": "Molten",
+      "type": "Volcanic",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Fireberry may occur"
+    },
+    {
+      "label": "Flame-Ruptured",
+      "type": "Volcanic",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Fireberry may occur"
+    },
+    {
+      "label": "Imminent Core Detonation",
+      "type": "Volcanic",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Fireberry may occur"
+    },
+    {
+      "label": "Obsidian Bead",
+      "type": "Volcanic",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Fireberry may occur"
+    },
+    {
+      "label": "Basalt",
+      "type": "Volcanic",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Fireberry may occur"
+    },
+    {
+      "label": "Frozen",
+      "type": "Frozen",
+      "category": "Core biome",
+      "cooking_ingredients": "Frost Crystal → Glass Grains; Frozen Tubers; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Icebound",
+      "type": "Frozen",
+      "category": "Core biome",
+      "cooking_ingredients": "Frost Crystal → Glass Grains; Frozen Tubers; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Arctic",
+      "type": "Frozen",
+      "category": "Core biome",
+      "cooking_ingredients": "Frost Crystal → Glass Grains; Frozen Tubers; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Glacial",
+      "type": "Frozen",
+      "category": "Core biome",
+      "cooking_ingredients": "Frost Crystal → Glass Grains; Frozen Tubers; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Sub-zero",
+      "type": "Frozen",
+      "category": "Core biome",
+      "cooking_ingredients": "Frost Crystal → Glass Grains; Frozen Tubers; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Icy",
+      "type": "Frozen",
+      "category": "Core biome",
+      "cooking_ingredients": "Frost Crystal → Glass Grains; Frozen Tubers; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Frostbound",
+      "type": "Frozen",
+      "category": "Core biome",
+      "cooking_ingredients": "Frost Crystal → Glass Grains; Frozen Tubers; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Freezing",
+      "type": "Frozen",
+      "category": "Core biome",
+      "cooking_ingredients": "Frost Crystal → Glass Grains; Frozen Tubers; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Hiemal",
+      "type": "Frozen",
+      "category": "Core biome",
+      "cooking_ingredients": "Frost Crystal → Glass Grains; Frozen Tubers; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Hyperborean",
+      "type": "Frozen",
+      "category": "Core biome",
+      "cooking_ingredients": "Frost Crystal → Glass Grains; Frozen Tubers; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Toxic",
+      "type": "Toxic",
+      "category": "Core biome",
+      "cooking_ingredients": "Fungal Mould → Non-Toxic Mushroom; Jade Peas; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Poisonous",
+      "type": "Toxic",
+      "category": "Core biome",
+      "cooking_ingredients": "Fungal Mould → Non-Toxic Mushroom; Jade Peas; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Noxious",
+      "type": "Toxic",
+      "category": "Core biome",
+      "cooking_ingredients": "Fungal Mould → Non-Toxic Mushroom; Jade Peas; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Corrosive",
+      "type": "Toxic",
+      "category": "Core biome",
+      "cooking_ingredients": "Fungal Mould → Non-Toxic Mushroom; Jade Peas; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Acidic",
+      "type": "Toxic",
+      "category": "Core biome",
+      "cooking_ingredients": "Fungal Mould → Non-Toxic Mushroom; Jade Peas; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Caustic",
+      "type": "Toxic",
+      "category": "Core biome",
+      "cooking_ingredients": "Fungal Mould → Non-Toxic Mushroom; Jade Peas; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Acrid",
+      "type": "Toxic",
+      "category": "Core biome",
+      "cooking_ingredients": "Fungal Mould → Non-Toxic Mushroom; Jade Peas; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Blighted",
+      "type": "Toxic",
+      "category": "Core biome",
+      "cooking_ingredients": "Fungal Mould → Non-Toxic Mushroom; Jade Peas; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Miasmatic",
+      "type": "Toxic",
+      "category": "Core biome",
+      "cooking_ingredients": "Fungal Mould → Non-Toxic Mushroom; Jade Peas; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Rotting",
+      "type": "Toxic",
+      "category": "Core biome",
+      "cooking_ingredients": "Fungal Mould → Non-Toxic Mushroom; Jade Peas; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Irradiated",
+      "type": "Irradiated",
+      "category": "Core biome",
+      "cooking_ingredients": "Gamma Root → Sievert Beans; Grahberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Radioactive",
+      "type": "Irradiated",
+      "category": "Core biome",
+      "cooking_ingredients": "Gamma Root → Sievert Beans; Grahberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Contaminated",
+      "type": "Irradiated",
+      "category": "Core biome",
+      "cooking_ingredients": "Gamma Root → Sievert Beans; Grahberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Nuclear",
+      "type": "Irradiated",
+      "category": "Core biome",
+      "cooking_ingredients": "Gamma Root → Sievert Beans; Grahberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Isotopic",
+      "type": "Irradiated",
+      "category": "Core biome",
+      "cooking_ingredients": "Gamma Root → Sievert Beans; Grahberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Decaying Nuclear",
+      "type": "Irradiated",
+      "category": "Core biome",
+      "cooking_ingredients": "Gamma Root → Sievert Beans; Grahberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Gamma-Intensive",
+      "type": "Irradiated",
+      "category": "Core biome",
+      "cooking_ingredients": "Gamma Root → Sievert Beans; Grahberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "High Radio Source",
+      "type": "Irradiated",
+      "category": "Core biome",
+      "cooking_ingredients": "Gamma Root → Sievert Beans; Grahberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Supercritical",
+      "type": "Irradiated",
+      "category": "Core biome",
+      "cooking_ingredients": "Gamma Root → Sievert Beans; Grahberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "High Energy",
+      "type": "Irradiated",
+      "category": "Core biome",
+      "cooking_ingredients": "Gamma Root → Sievert Beans; Grahberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Marshy",
+      "type": "Marsh",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Kelp Sac → Kelp Rice where water is present"
+    },
+    {
+      "label": "Swamp",
+      "type": "Marsh",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Kelp Sac → Kelp Rice where water is present"
+    },
+    {
+      "label": "Tropical",
+      "type": "Marsh",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Kelp Sac → Kelp Rice where water is present"
+    },
+    {
+      "label": "Foggy",
+      "type": "Marsh",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Kelp Sac → Kelp Rice where water is present"
+    },
+    {
+      "label": "Misty",
+      "type": "Marsh",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Kelp Sac → Kelp Rice where water is present"
+    },
+    {
+      "label": "Boggy",
+      "type": "Marsh",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Kelp Sac → Kelp Rice where water is present"
+    },
+    {
+      "label": "Endless Morass",
+      "type": "Marsh",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Kelp Sac → Kelp Rice where water is present"
+    },
+    {
+      "label": "Quagmire",
+      "type": "Marsh",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Kelp Sac → Kelp Rice where water is present"
+    },
+    {
+      "label": "Hazy",
+      "type": "Marsh",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Kelp Sac → Kelp Rice where water is present"
+    },
+    {
+      "label": "Cloudy",
+      "type": "Marsh",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Kelp Sac → Kelp Rice where water is present"
+    },
+    {
+      "label": "Vapour",
+      "type": "Marsh",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Kelp Sac → Kelp Rice where water is present"
+    },
+    {
+      "label": "Reeking",
+      "type": "Marsh",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Kelp Sac → Kelp Rice where water is present"
+    },
+    {
+      "label": "Murky",
+      "type": "Marsh",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Kelp Sac → Kelp Rice where water is present"
+    },
+    {
+      "label": "Damp",
+      "type": "Marsh",
+      "category": "Core biome",
+      "cooking_ingredients": "Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh; Kelp Sac → Kelp Rice where water is present"
+    },
+    {
+      "label": "Terraforming Catastrophe",
+      "type": "Dead / Airless",
+      "category": "Core biome",
+      "cooking_ingredients": "None of the standard living-planet wild cooking flora"
+    },
+    {
+      "label": "Dead",
+      "type": "Dead / Airless",
+      "category": "Core biome",
+      "cooking_ingredients": "None of the standard living-planet wild cooking flora"
+    },
+    {
+      "label": "Empty",
+      "type": "Dead / Airless",
+      "category": "Core biome",
+      "cooking_ingredients": "None of the standard living-planet wild cooking flora"
+    },
+    {
+      "label": "Desolate",
+      "type": "Dead / Airless",
+      "category": "Core biome",
+      "cooking_ingredients": "None of the standard living-planet wild cooking flora"
+    },
+    {
+      "label": "Lifeless",
+      "type": "Dead / Airless",
+      "category": "Core biome",
+      "cooking_ingredients": "None of the standard living-planet wild cooking flora"
+    },
+    {
+      "label": "Forsaken",
+      "type": "Dead / Airless",
+      "category": "Core biome",
+      "cooking_ingredients": "None of the standard living-planet wild cooking flora"
+    },
+    {
+      "label": "Life-Incompatible",
+      "type": "Dead / Airless",
+      "category": "Core biome",
+      "cooking_ingredients": "None of the standard living-planet wild cooking flora"
+    },
+    {
+      "label": "Low Atmosphere",
+      "type": "Dead / Airless",
+      "category": "Core biome",
+      "cooking_ingredients": "None of the standard living-planet wild cooking flora"
+    },
+    {
+      "label": "Airless",
+      "type": "Dead / Airless",
+      "category": "Core biome",
+      "cooking_ingredients": "None of the standard living-planet wild cooking flora"
+    },
+    {
+      "label": "Abandoned",
+      "type": "Dead / Airless",
+      "category": "Core biome",
+      "cooking_ingredients": "None of the standard living-planet wild cooking flora"
+    },
+    {
+      "label": "Waterworld",
+      "type": "Waterworld",
+      "category": "Core biome",
+      "cooking_ingredients": "Kelp Sac → Kelp Rice; aquatic fauna ingredients vary"
+    },
+    {
+      "label": "Drowning",
+      "type": "Waterworld",
+      "category": "Core biome",
+      "cooking_ingredients": "Kelp Sac → Kelp Rice; aquatic fauna ingredients vary"
+    },
+    {
+      "label": "Oceanic",
+      "type": "Waterworld",
+      "category": "Core biome",
+      "cooking_ingredients": "Kelp Sac → Kelp Rice; aquatic fauna ingredients vary"
+    },
+    {
+      "label": "Tidal",
+      "type": "Waterworld",
+      "category": "Core biome",
+      "cooking_ingredients": "Kelp Sac → Kelp Rice; aquatic fauna ingredients vary"
+    },
+    {
+      "label": "Waterlocked",
+      "type": "Waterworld",
+      "category": "Core biome",
+      "cooking_ingredients": "Kelp Sac → Kelp Rice; aquatic fauna ingredients vary"
+    },
+    {
+      "label": "Aquatic",
+      "type": "Waterworld",
+      "category": "Core biome",
+      "cooking_ingredients": "Kelp Sac → Kelp Rice; aquatic fauna ingredients vary"
+    },
+    {
+      "label": "Endless Seas",
+      "type": "Waterworld",
+      "category": "Core biome",
+      "cooking_ingredients": "Kelp Sac → Kelp Rice; aquatic fauna ingredients vary"
+    },
+    {
+      "label": "Marine",
+      "type": "Waterworld",
+      "category": "Core biome",
+      "cooking_ingredients": "Kelp Sac → Kelp Rice; aquatic fauna ingredients vary"
+    },
+    {
+      "label": "Gas Giant",
+      "type": "Gas Giant",
+      "category": "Core biome",
+      "cooking_ingredients": "No standard surface-forage cooking flora"
+    },
+    {
+      "label": "Fissured",
+      "type": "Beams / Aurora",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "of Light",
+      "type": "Beams / Aurora",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Breached Light Fissure",
+      "type": "Beams / Aurora",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Rattling",
+      "type": "Bone Spire",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Spined",
+      "type": "Bone Spire",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Skeletal",
+      "type": "Bone Spire",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Bubbling",
+      "type": "Bubble",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Frothing",
+      "type": "Bubble",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Foaming",
+      "type": "Bubble",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Contoured",
+      "type": "Contour",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Cabled",
+      "type": "Contour",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Webbed",
+      "type": "Contour",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Mechanical",
+      "type": "Fract Cube / Nanophage",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Metallic",
+      "type": "Fract Cube / Nanophage",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Metallurgic",
+      "type": "Fract Cube / Nanophage",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Hexagonal",
+      "type": "Hexagon / Hex",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Plated",
+      "type": "Hexagon / Hex",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Scaly",
+      "type": "Hexagon / Hex",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Fungal",
+      "type": "Hydro Garden",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Sporal",
+      "type": "Hydro Garden",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Capped",
+      "type": "Hydro Garden",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Finned",
+      "type": "Irri Shells",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Bladed",
+      "type": "Irri Shells",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Shell-Strewn",
+      "type": "Irri Shells",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Ossified",
+      "type": "M Structure / Mollusc-Virus",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Petrified",
+      "type": "M Structure / Mollusc-Virus",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Calcified",
+      "type": "M Structure / Mollusc-Virus",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Columned",
+      "type": "Shards / Glass",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Sharded",
+      "type": "Shards / Glass",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Pillared",
+      "type": "Shards / Glass",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Shattered",
+      "type": "Wire Cell",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Fractured",
+      "type": "Wire Cell",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Fragmented",
+      "type": "Wire Cell",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Crimson",
+      "type": "Glitch",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Planetary Anomaly",
+      "type": "Glitch",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Malfunctioning",
+      "type": "Glitch",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Breached",
+      "type": "Glitch",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Infected",
+      "type": "Glitch",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "[REDACTED]",
+      "type": "Glitch",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Glassy",
+      "type": "Glitch",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Thirsty",
+      "type": "Glitch",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Doomed",
+      "type": "Glitch",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Erased",
+      "type": "Glitch",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Temporary",
+      "type": "Glitch",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Corrupted",
+      "type": "Glitch",
+      "category": "True Exotic / Weird",
+      "cooking_ingredients": "Hexaberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast may occur on living exotic worlds; Marrow Flesh where caves support Marrow Bulb"
+    },
+    {
+      "label": "Crimson Planetary Anomaly",
+      "type": "Red Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Planetary Anomaly",
+      "type": "Red Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Lost Red",
+      "type": "Red Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "[REDACTED]",
+      "type": "Red Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Stellar Corruption Detected",
+      "type": "Red Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Chromatic Fog",
+      "type": "Red Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Vermillion Globe",
+      "type": "Red Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Scarlet",
+      "type": "Red Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Blood",
+      "type": "Red Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Wine Dark",
+      "type": "Red Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Planetary Anomaly",
+      "type": "Green Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Lost Green",
+      "type": "Green Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "[REDACTED]",
+      "type": "Green Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Stellar Corruption Detected",
+      "type": "Green Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Chromatic Fog",
+      "type": "Green Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Vile Anomaly",
+      "type": "Green Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Toxic Anomaly",
+      "type": "Green Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Doomed Jade",
+      "type": "Green Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Haunted Emeril",
+      "type": "Green Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Deathly Green Anomaly",
+      "type": "Green Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Planetary Anomaly",
+      "type": "Blue Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Lost Blue",
+      "type": "Blue Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "[REDACTED]",
+      "type": "Blue Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Stellar Corruption Detected",
+      "type": "Blue Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Chromatic Fog",
+      "type": "Blue Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Harsh Blue Globe",
+      "type": "Blue Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Frozen Anomaly",
+      "type": "Blue Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Azure",
+      "type": "Blue Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Cerulean",
+      "type": "Blue Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Ultramarine",
+      "type": "Blue Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Infested Paradise",
+      "type": "Lush Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Worm-ridden",
+      "type": "Lush Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Xeno-Colony",
+      "type": "Lush Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "The Nest",
+      "type": "Lush Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Infested",
+      "type": "Toxic Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Fungal Mould → Non-Toxic Mushroom; Jade Peas; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Toxic Horror",
+      "type": "Toxic Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Fungal Mould → Non-Toxic Mushroom; Jade Peas; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Caustic Nightmare",
+      "type": "Toxic Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Fungal Mould → Non-Toxic Mushroom; Jade Peas; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Infested",
+      "type": "Scorched Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Boiling Doom",
+      "type": "Scorched Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Fiery Dreadworld",
+      "type": "Scorched Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Corrupted",
+      "type": "Scorched Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Infested",
+      "type": "Irradiated Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Gamma Root → Sievert Beans; Grahberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Radioactive Abomination",
+      "type": "Irradiated Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Gamma Root → Sievert Beans; Grahberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Mutated",
+      "type": "Irradiated Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Gamma Root → Sievert Beans; Grahberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Infested",
+      "type": "Frozen Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Frost Crystal → Glass Grains; Frozen Tubers; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Icy Abhorrence",
+      "type": "Frozen Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Frost Crystal → Glass Grains; Frozen Tubers; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Frozen Hell",
+      "type": "Frozen Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Frost Crystal → Glass Grains; Frozen Tubers; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Infested",
+      "type": "Barren Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Cactus Flesh; Aloe Flesh; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Tainted",
+      "type": "Barren Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Cactus Flesh; Aloe Flesh; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Infected Dustbowl",
+      "type": "Barren Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Cactus Flesh; Aloe Flesh; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Terrorsphere",
+      "type": "Barren Infested",
+      "category": "Infested",
+      "cooking_ingredients": "Cactus Flesh; Aloe Flesh; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Abandoned Paradise",
+      "type": "Lush Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Overgrown",
+      "type": "Lush Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Overgrown Relic",
+      "type": "Lush Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "The Reliquary",
+      "type": "Lush Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Star Bulb; Impulse Beans; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Abandoned",
+      "type": "Barren Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Cactus Flesh; Aloe Flesh; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Ruined",
+      "type": "Barren Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Cactus Flesh; Aloe Flesh; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Ruined Dustbowl",
+      "type": "Barren Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Cactus Flesh; Aloe Flesh; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Abandoned Desert",
+      "type": "Barren Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Cactus Flesh; Aloe Flesh; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Ruined",
+      "type": "Scorched Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Scorched Relic",
+      "type": "Scorched Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Lost to Fire",
+      "type": "Scorched Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Abandoned Crucible",
+      "type": "Scorched Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Solanium; Fireberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Abandoned",
+      "type": "Frozen Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Frost Crystal → Glass Grains; Frozen Tubers; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Icy Ruin",
+      "type": "Frozen Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Frost Crystal → Glass Grains; Frozen Tubers; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Frozen Relic",
+      "type": "Frozen Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Frost Crystal → Glass Grains; Frozen Tubers; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Abandoned",
+      "type": "Toxic Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Fungal Mould → Non-Toxic Mushroom; Jade Peas; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Bleached Ruin",
+      "type": "Toxic Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Fungal Mould → Non-Toxic Mushroom; Jade Peas; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Decaying Ruin",
+      "type": "Toxic Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Fungal Mould → Non-Toxic Mushroom; Jade Peas; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Ruined",
+      "type": "Irradiated Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Gamma Root → Sievert Beans; Grahberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Claimed By Decay",
+      "type": "Irradiated Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Gamma Root → Sievert Beans; Grahberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Mutating Relic",
+      "type": "Irradiated Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "Gamma Root → Sievert Beans; Grahberry; Heptaploid Wheat; Sweetroot; Pulpy Roots; Wild Yeast; Marrow Bulb → Marrow Flesh"
+    },
+    {
+      "label": "Abandoned",
+      "type": "Dead Ruined",
+      "category": "Reliquary / Ruined",
+      "cooking_ingredients": "None of the standard living-planet wild cooking flora"
+    },
+    {
+      "label": "Red",
+      "type": "Red Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Green",
+      "type": "Green Mega Exotic",
+      "category": "Mega Exotic / Chromatic",
+      "cooking_ingredients": "Hexaberry; general non-dead forageables may occur depending on generated flora; ingredient availability varies by world"
+    },
+    {
+      "label": "Dissonance Detected",
+      "type": "Dissonant",
+      "category": "Dissonant overlay",
+      "cooking_ingredients": "Depends on the underlying biome; Dissonance is an overlay/state rather than a standalone biome"
+    },
+    {
+      "label": "Corrupted Sentinels",
+      "type": "Dissonant",
+      "category": "Dissonant overlay",
+      "cooking_ingredients": "Depends on the underlying biome; Dissonance is an overlay/state rather than a standalone biome"
+    }
+  ],
+  "supplement_notes": [
+    "Supplemented from the provided 2025 Planet Type Quick Reference image.",
+    "Added Red and Green as Chromatic scanner labels.",
+    "Added Dissonance Detected and Corrupted Sentinels as Dissonant overlay/state labels rather than core biome labels.",
+    "Existing newer Waterworld/Aquatic and detailed Exotic subtype entries were retained."
+  ]
+}

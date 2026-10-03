@@ -1,0 +1,9 @@
+# Unpacked game tables (regenerate via scripts/parse-consumable-effects.js)
+data/CONSUMABLEITEMTABLE.MXML
+data/REWARDTABLE.MXML
+data/ingestor-effects.csv
+cooking_raw.json
+product_raw.json
+
+# Local Pages assemble output
+_site/

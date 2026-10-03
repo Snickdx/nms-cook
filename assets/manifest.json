@@ -1,0 +1,3257 @@
+{
+  "title": "NMS Cook asset manifest",
+  "source": "Miraheze wiki + NMS-Handbook icons",
+  "pulledAt": "2026-09-29T17:07:12.177Z",
+  "ingredients": {
+    "Star Bulb": {
+      "file": "star-bulb.png",
+      "path": "assets/ingredients/star-bulb.png",
+      "sourceFile": "SUBSTANCE.PLANT.LUSH.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/7/72/SUBSTANCE.PLANT.LUSH.png",
+      "bytes": 69142
+    },
+    "Cactus Flesh": {
+      "file": "cactus-flesh.png",
+      "path": "assets/ingredients/cactus-flesh.png",
+      "sourceFile": "SUBSTANCE.PLANT.DUSTY.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/7/7f/SUBSTANCE.PLANT.DUSTY.png",
+      "bytes": 62535
+    },
+    "Solanium": {
+      "file": "solanium.png",
+      "path": "assets/ingredients/solanium.png",
+      "sourceFile": "SUBSTANCE.PLANT.HOT.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/f/fa/SUBSTANCE.PLANT.HOT.png",
+      "bytes": 69446
+    },
+    "Frost Crystal": {
+      "file": "frost-crystal.png",
+      "path": "assets/ingredients/frost-crystal.png",
+      "sourceFile": "SUBSTANCE.PLANT.SNOW.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/7/7d/SUBSTANCE.PLANT.SNOW.png",
+      "bytes": 82801
+    },
+    "Fungal Mould": {
+      "file": "fungal-mould.png",
+      "path": "assets/ingredients/fungal-mould.png",
+      "sourceFile": "SUBSTANCE.PLANT.TOXIC.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/c/c6/SUBSTANCE.PLANT.TOXIC.png",
+      "bytes": 73004
+    },
+    "Gamma Root": {
+      "file": "gamma-root.png",
+      "path": "assets/ingredients/gamma-root.png",
+      "sourceFile": "SUBSTANCE.PLANT.RADIO.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/7/7e/SUBSTANCE.PLANT.RADIO.png",
+      "bytes": 76539
+    },
+    "Marrow Bulb": {
+      "file": "marrow-bulb.png",
+      "path": "assets/ingredients/marrow-bulb.png",
+      "sourceFile": "SUBSTANCE.PLANT.CAVE.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/8/8e/SUBSTANCE.PLANT.CAVE.png",
+      "bytes": 95994
+    },
+    "Kelp Sac": {
+      "file": "kelp-sac.png",
+      "path": "assets/ingredients/kelp-sac.png",
+      "sourceFile": "SUBSTANCE.PLANT.WATER.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/8/87/SUBSTANCE.PLANT.WATER.png",
+      "bytes": 77623
+    },
+    "Impulse Beans": {
+      "file": "impulse-beans.png",
+      "path": "assets/ingredients/impulse-beans.png",
+      "sourceFile": "PRODUCT.PLANT.LUSHWILD.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/b/b4/PRODUCT.PLANT.LUSHWILD.png",
+      "bytes": 85702
+    },
+    "Aloe Flesh": {
+      "file": "aloe-flesh.png",
+      "path": "assets/ingredients/aloe-flesh.png",
+      "sourceFile": "PRODUCT.PLANT.DUSTWILD.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/0/0b/PRODUCT.PLANT.DUSTWILD.png",
+      "bytes": 106685
+    },
+    "Fireberry": {
+      "file": "fireberry.png",
+      "path": "assets/ingredients/fireberry.png",
+      "sourceFile": "PRODUCT.PLANT.HOTWILD.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/b/b5/PRODUCT.PLANT.HOTWILD.png",
+      "bytes": 104040
+    },
+    "Frozen Tubers": {
+      "file": "frozen-tubers.png",
+      "path": "assets/ingredients/frozen-tubers.png",
+      "sourceFile": "PRODUCT.PLANT.COLDWILD.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/6/6c/PRODUCT.PLANT.COLDWILD.png",
+      "bytes": 120687
+    },
+    "Jade Peas": {
+      "file": "jade-peas.png",
+      "path": "assets/ingredients/jade-peas.png",
+      "sourceFile": "PRODUCT.PLANT.TOXWILD.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/3/34/PRODUCT.PLANT.TOXWILD.png",
+      "bytes": 85951
+    },
+    "Grahberry": {
+      "file": "grahberry.png",
+      "path": "assets/ingredients/grahberry.png",
+      "sourceFile": "PRODUCT.PLANT.RADWILD.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/e/ef/PRODUCT.PLANT.RADWILD.png",
+      "bytes": 106749
+    },
+    "Hexaberry": {
+      "file": "hexaberry.png",
+      "path": "assets/ingredients/hexaberry.png",
+      "sourceFile": "PRODUCT.PLANT.GLITCHWILD.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/7/7c/PRODUCT.PLANT.GLITCHWILD.png",
+      "bytes": 75877
+    },
+    "Heptaploid Wheat": {
+      "file": "heptaploid-wheat.png",
+      "path": "assets/ingredients/heptaploid-wheat.png",
+      "sourceFile": "PRODUCT.PLANT.ALL1WILD.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/3/3a/PRODUCT.PLANT.ALL1WILD.png",
+      "bytes": 87516
+    },
+    "Sweetroot": {
+      "file": "sweetroot.png",
+      "path": "assets/ingredients/sweetroot.png",
+      "sourceFile": "PRODUCT.PLANT.ALL2WILD.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/3/3b/PRODUCT.PLANT.ALL2WILD.png",
+      "bytes": 93682
+    },
+    "Pulpy Roots": {
+      "file": "pulpy-roots.png",
+      "path": "assets/ingredients/pulpy-roots.png",
+      "sourceFile": "PRODUCT.PLANT.ALL3WILD.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/0/0b/PRODUCT.PLANT.ALL3WILD.png",
+      "bytes": 105817
+    },
+    "Wild Yeast": {
+      "file": "wild-yeast.png",
+      "path": "assets/ingredients/wild-yeast.png",
+      "sourceFile": "PRODUCT.PLANT.POOPWILD.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/e/e4/PRODUCT.PLANT.POOPWILD.png",
+      "bytes": 120064
+    },
+    "Glass Grains": {
+      "file": "glass-grains.png",
+      "path": "assets/ingredients/glass-grains.png",
+      "sourceFile": "PRODUCT.PLANT.COLDFARM.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/e/e4/PRODUCT.PLANT.COLDFARM.png",
+      "bytes": 73716
+    },
+    "Non-Toxic Mushroom": {
+      "file": "non-toxic-mushroom.png",
+      "path": "assets/ingredients/non-toxic-mushroom.png",
+      "sourceFile": "PRODUCT.PLANT.TOXFARM.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/7/79/PRODUCT.PLANT.TOXFARM.png",
+      "bytes": 130951
+    },
+    "Sievert Beans": {
+      "file": "sievert-beans.png",
+      "path": "assets/ingredients/sievert-beans.png",
+      "sourceFile": "PRODUCT.PLANT.RADFARM.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/1/1e/PRODUCT.PLANT.RADFARM.png",
+      "bytes": 88539
+    },
+    "Marrow Flesh": {
+      "file": "marrow-flesh.png",
+      "path": "assets/ingredients/marrow-flesh.png",
+      "sourceFile": "PRODUCT.PLANT.CAVEWILD.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/f/f8/PRODUCT.PLANT.CAVEWILD.png",
+      "bytes": 106624
+    },
+    "Kelp Rice": {
+      "file": "kelp-rice.png",
+      "path": "assets/ingredients/kelp-rice.png",
+      "sourceFile": "PRODUCT.PLANT.WATERWILD.png",
+      "sourceUrl": "https://static.wikitide.net/nomansskywiki/5/57/PRODUCT.PLANT.WATERWILD.png",
+      "bytes": 79346
+    }
+  },
+  "byId": {
+    "FOOD_P_POOP": {
+      "path": "assets/cooking/product.plant.poopwild.png",
+      "name": "Wild Yeast",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.poopwild.png"
+    },
+    "PLANT_POOP": {
+      "path": "assets/cooking/substance.plant.poop.png",
+      "name": "Faecium",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4substances/substance.plant.poop.png"
+    },
+    "FOOD_P_STELLAR": {
+      "path": "assets/cooking/product.plant.stellarwild.png",
+      "name": "Silicon Egg",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.stellarwild.png"
+    },
+    "STELLAR2": {
+      "path": "assets/cooking/substance.stellar.2.png",
+      "name": "Chromatic Metal",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4substances/substance.stellar.2.png"
+    },
+    "FOOD_R_CHOC": {
+      "path": "assets/cooking/product.refined.chocolate.png",
+      "name": "Bittersweet Cocoa",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.chocolate.png"
+    },
+    "FOOD_P_LUSHWILD": {
+      "path": "assets/cooking/product.plant.lushwild.png",
+      "name": "Impulse Beans",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.lushwild.png"
+    },
+    "FOOD_J_HOT": {
+      "path": "assets/cooking/product.sauce.png",
+      "name": "Fire Water",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.sauce.png"
+    },
+    "FOOD_P_HOTWILD": {
+      "path": "assets/cooking/product.plant.hotwild.png",
+      "name": "Fireberry",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.hotwild.png"
+    },
+    "FOOD_R_VEG": {
+      "path": "assets/cooking/product.refined.veg.png",
+      "name": "Steamed Vegetables",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.veg.png"
+    },
+    "FOOD_P_COLDWILD": {
+      "path": "assets/cooking/product.plant.coldwild.png",
+      "name": "Frozen Tubers",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.coldwild.png"
+    },
+    "FOOD_P_TOXWILD": {
+      "path": "assets/cooking/product.plant.toxwild.png",
+      "name": "Jade Peas",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.toxwild.png"
+    },
+    "FOOD_P_GLITCH": {
+      "path": "assets/cooking/product.plant.glitchwild.png",
+      "name": "Hexaberry",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.glitchwild.png"
+    },
+    "FOOD_P_HOTFARM": {
+      "path": "assets/cooking/product.plant.hotfarm.png",
+      "name": "Solartillo",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.hotfarm.png"
+    },
+    "FOOD_P_TOXFARM": {
+      "path": "assets/cooking/product.plant.toxfarm.png",
+      "name": "Non-Toxic Mushroom",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.toxfarm.png"
+    },
+    "FOOD_P_RADFARM": {
+      "path": "assets/cooking/product.plant.radfarm.png",
+      "name": "Sievert Beans",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.radfarm.png"
+    },
+    "FOOD_P_CAVE": {
+      "path": "assets/cooking/product.plant.cavewild.png",
+      "name": "Marrow Flesh",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.cavewild.png"
+    },
+    "FOOD_V_MOLE": {
+      "path": "assets/cooking/product.catfruit.png",
+      "name": "Foraged Mushrooms",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.catfruit.png"
+    },
+    "FOOD_R_FLOUR": {
+      "path": "assets/cooking/product.refined.flour.png",
+      "name": "Refined Flour",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.flour.png"
+    },
+    "FOOD_P_ALL1": {
+      "path": "assets/cooking/product.plant.all1wild.png",
+      "name": "Heptaploid Wheat",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.all1wild.png"
+    },
+    "FOOD_P_COLDFARM": {
+      "path": "assets/cooking/product.plant.coldfarm.png",
+      "name": "Glass Grains",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.coldfarm.png"
+    },
+    "FOOD_P_WATER": {
+      "path": "assets/cooking/product.plant.waterwild.png",
+      "name": "Kelp Rice",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.waterwild.png"
+    },
+    "FOOD_R_SUGAR": {
+      "path": "assets/cooking/product.refined.sugar.png",
+      "name": "Processed Sugar",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.sugar.png"
+    },
+    "FOOD_P_ALL2": {
+      "path": "assets/cooking/product.plant.all2wild.png",
+      "name": "Sweetroot",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.all2wild.png"
+    },
+    "FOOD_P_RADWILD": {
+      "path": "assets/cooking/product.plant.radwild.png",
+      "name": "Grahberry",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.radwild.png"
+    },
+    "FOOD_P_DUSTFARM": {
+      "path": "assets/cooking/product.plant.dustfarm.png",
+      "name": "Cactus Nectar",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.dustfarm.png"
+    },
+    "FOOD_J_ALL3": {
+      "path": "assets/cooking/product.sauce.png",
+      "name": "Root Juice",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.sauce.png"
+    },
+    "FOOD_P_ALL3": {
+      "path": "assets/cooking/product.plant.all3wild.png",
+      "name": "Pulpy Roots",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.all3wild.png"
+    },
+    "FOOD_J_DUST": {
+      "path": "assets/cooking/product.sauce.png",
+      "name": "Refreshing Drink",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.sauce.png"
+    },
+    "FOOD_P_DUSTWILD": {
+      "path": "assets/cooking/product.plant.dustwild.png",
+      "name": "Aloe Flesh",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.dustwild.png"
+    },
+    "FOOD_J_LUSH": {
+      "path": "assets/cooking/product.sauce.png",
+      "name": "Pilgrim's Tonic",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.sauce.png"
+    },
+    "FOOD_P_LUSHFARM": {
+      "path": "assets/cooking/product.plant.lushfarm.png",
+      "name": "Pilgrimberry",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.lushfarm.png"
+    },
+    "PLANT_LUSH": {
+      "path": "assets/cooking/substance.plant.lush.png",
+      "name": "Star Bulb",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4substances/substance.plant.lush.png"
+    },
+    "PLANT_HOT": {
+      "path": "assets/cooking/substance.plant.hot.png",
+      "name": "Solanium",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4substances/substance.plant.hot.png"
+    },
+    "PLANT_SNOW": {
+      "path": "assets/cooking/substance.plant.snow.png",
+      "name": "Frost Crystal",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4substances/substance.plant.snow.png"
+    },
+    "PLANT_TOXIC": {
+      "path": "assets/cooking/substance.plant.toxic.png",
+      "name": "Fungal Mould",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4substances/substance.plant.toxic.png"
+    },
+    "PLANT_RADIO": {
+      "path": "assets/cooking/substance.plant.radio.png",
+      "name": "Gamma Root",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4substances/substance.plant.radio.png"
+    },
+    "PLANT_DUST": {
+      "path": "assets/cooking/substance.plant.dusty.png",
+      "name": "Cactus Flesh",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4substances/substance.plant.dusty.png"
+    },
+    "FOOD_P_DEATH": {
+      "path": "assets/cooking/product.plant.deathwild.png",
+      "name": "Meat Flakes",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.plant.deathwild.png"
+    },
+    "CREATURE1": {
+      "path": "assets/cooking/substance.creature.1.png",
+      "name": "Mordite",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4substances/substance.creature.1.png"
+    },
+    "PLANT_CAVE": {
+      "path": "assets/cooking/substance.plant.cave.png",
+      "name": "Marrow Bulb",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4substances/substance.plant.cave.png"
+    },
+    "PLANT_WATER": {
+      "path": "assets/cooking/substance.plant.water.png",
+      "name": "Kelp Sac",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4substances/substance.plant.water.png"
+    },
+    "FOOD_R_EGGS": {
+      "path": "assets/cooking/product.refined.omlette.png",
+      "name": "Baked Eggs",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.omlette.png"
+    },
+    "FIENDCORE": {
+      "path": "assets/cooking/product.fiendcore.png",
+      "name": "Larval Core",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4products/product.fiendcore.png"
+    },
+    "FOOD_V_EGG": {
+      "path": "assets/cooking/product.egg.png",
+      "name": "Creature Egg",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.egg.png"
+    },
+    "FOOD_V_STRIDER": {
+      "path": "assets/cooking/product.egg.png",
+      "name": "Tall Eggs",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.egg.png"
+    },
+    "FOOD_V_DIPLO": {
+      "path": "assets/cooking/product.egg.png",
+      "name": "Giant Egg",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.egg.png"
+    },
+    "FOOD_R_MERINGUE": {
+      "path": "assets/cooking/product.dough.png",
+      "name": "Delicate Meringue",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.dough.png"
+    },
+    "FOOD_R_GCREAM": {
+      "path": "assets/cooking/product.cream.png",
+      "name": "Proto-Cream",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cream.png"
+    },
+    "FOOD_V_GEK": {
+      "path": "assets/cooking/product.milk.png",
+      "name": "Warm Proto-Milk",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.milk.png"
+    },
+    "FOOD_V_FLYER": {
+      "path": "assets/cooking/product.milk.png",
+      "name": "Craw Milk",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.milk.png"
+    },
+    "FOOD_R_CREAM": {
+      "path": "assets/cooking/product.cream.png",
+      "name": "Cream",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cream.png"
+    },
+    "FOOD_V_COW": {
+      "path": "assets/cooking/product.milk.png",
+      "name": "Fresh Milk",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.milk.png"
+    },
+    "FOOD_V_MILK": {
+      "path": "assets/cooking/product.milk.png",
+      "name": "Wild Milk",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.milk.png"
+    },
+    "FOOD_R_HONEY": {
+      "path": "assets/cooking/product.refined.honey.png",
+      "name": "Synthetic Honey",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.honey.png"
+    },
+    "FOOD_V_BLOB": {
+      "path": "assets/cooking/product.refined.honey.png",
+      "name": "Sticky 'Honey'",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.honey.png"
+    },
+    "FOOD_V_PCAT": {
+      "path": "assets/cooking/product.refined.honey.png",
+      "name": "Syrupy Nectar",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.honey.png"
+    },
+    "FOOD_R_BUTTER": {
+      "path": "assets/cooking/product.refined.butter.png",
+      "name": "Churned Butter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.butter.png"
+    },
+    "FOOD_R_GBUTTER": {
+      "path": "assets/cooking/product.refined.butter.png",
+      "name": "Proto-Butter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.butter.png"
+    },
+    "FOOD_R_OIL": {
+      "path": "assets/cooking/product.cookinggrease.png",
+      "name": "Clarified Oil",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cookinggrease.png"
+    },
+    "FOOD_R_BBUTTER": {
+      "path": "assets/cooking/product.refined.butter.png",
+      "name": "Bone Butter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.butter.png"
+    },
+    "FOOD_R_GOIL": {
+      "path": "assets/cooking/product.cookinggrease.png",
+      "name": "Proto-Oil",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cookinggrease.png"
+    },
+    "FOOD_R_FCUSTARD": {
+      "path": "assets/cooking/product.sauce.png",
+      "name": "Salty Custard",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.sauce.png"
+    },
+    "WATER1": {
+      "path": "assets/cooking/substance.water.1.png",
+      "name": "Salt",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4substances/substance.water.1.png"
+    },
+    "FOOD_R_MCUSTARD": {
+      "path": "assets/cooking/product.sauce.png",
+      "name": "Monstrous Custard",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.sauce.png"
+    },
+    "FOOD_R_CUSTARD": {
+      "path": "assets/cooking/product.sauce.png",
+      "name": "Viscous Custard",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.sauce.png"
+    },
+    "FOOD_R_SCUSTARD": {
+      "path": "assets/cooking/product.sauce.png",
+      "name": "Stellar Custard",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.sauce.png"
+    },
+    "FOOD_R_CHEESE": {
+      "path": "assets/cooking/product.refined.butter.png",
+      "name": "Tangy Cheese",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.butter.png"
+    },
+    "FOOD_R_GCHEESE": {
+      "path": "assets/cooking/product.refined.butter.png",
+      "name": "ProtoCheese",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.butter.png"
+    },
+    "FOOD_R_HONEYBUT": {
+      "path": "assets/cooking/product.refined.butter.png",
+      "name": "Honey Butter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.butter.png"
+    },
+    "FOOD_R_HONEYGEK": {
+      "path": "assets/cooking/product.refined.butter.png",
+      "name": "Honied Proto-Butter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.butter.png"
+    },
+    "FOOD_R_SWEETBUT": {
+      "path": "assets/cooking/product.refined.butter.png",
+      "name": "Sweetened Butter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.butter.png"
+    },
+    "FOOD_R_SWEETGEK": {
+      "path": "assets/cooking/product.refined.butter.png",
+      "name": "Sweetened Proto-Butter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.butter.png"
+    },
+    "FOOD_R_BLOBBUT": {
+      "path": "assets/cooking/product.refined.butter.png",
+      "name": "Gooey Butter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.butter.png"
+    },
+    "FOOD_R_BLOBGEK": {
+      "path": "assets/cooking/product.refined.butter.png",
+      "name": "Gooey ProtoButter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.butter.png"
+    },
+    "FOOD_R_DOUGH": {
+      "path": "assets/cooking/product.dough.png",
+      "name": "Dough",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.dough.png"
+    },
+    "FOOD_R_BREAD": {
+      "path": "assets/cooking/product.bread.png",
+      "name": "Bread",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.bread.png"
+    },
+    "FOOD_R_PASTRY": {
+      "path": "assets/cooking/product.dough.png",
+      "name": "Pastry",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.dough.png"
+    },
+    "FOOD_R_CARAMEL": {
+      "path": "assets/cooking/product.refined.honey.png",
+      "name": "Crunchy Caramel",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.honey.png"
+    },
+    "FOOD_R_DONUT": {
+      "path": "assets/cooking/product.doughnut.png",
+      "name": "Lumpen Doughnut",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.doughnut.png"
+    },
+    "FOOD_R_GONUT": {
+      "path": "assets/cooking/product.doughnut.png",
+      "name": "Proto-Beignet",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.doughnut.png"
+    },
+    "FOOD_DNUT_CUST": {
+      "path": "assets/cooking/product.doughnut.png",
+      "name": "Custard Doughnut",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.doughnut.png"
+    },
+    "FOOD_R_BCUSTARD": {
+      "path": "assets/cooking/product.sauce.png",
+      "name": "Very Thick Custard",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.sauce.png"
+    },
+    "FOOD_DNUT_FCUST": {
+      "path": "assets/cooking/product.doughnut.png",
+      "name": "Salty Doughnut",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.doughnut.png"
+    },
+    "FOOD_DNUT_MCUST": {
+      "path": "assets/cooking/product.doughnut.png",
+      "name": "Monstrous Doughnut",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.doughnut.png"
+    },
+    "FOOD_DNUT_SCUST": {
+      "path": "assets/cooking/product.doughnut.png",
+      "name": "The Stellarator",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.doughnut.png"
+    },
+    "FOOD_DNUT_HON": {
+      "path": "assets/cooking/product.doughnut.png",
+      "name": "Honey Doughnut",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.doughnut.png"
+    },
+    "FOOD_DNUT_HONB": {
+      "path": "assets/cooking/product.doughnut.png",
+      "name": "Honeybutter Doughnut",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.doughnut.png"
+    },
+    "FOOD_DNUT_BLOB": {
+      "path": "assets/cooking/product.doughnut.png",
+      "name": "Gooey ProtoDoughnut",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.doughnut.png"
+    },
+    "FOOD_DNUT_CARM": {
+      "path": "assets/cooking/product.doughnut.png",
+      "name": "Caramel Doughnut",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.doughnut.png"
+    },
+    "FOOD_DNUT_CHOC": {
+      "path": "assets/cooking/product.doughnut.png",
+      "name": "Cocoa Doughnut",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.doughnut.png"
+    },
+    "FOOD_DNUT_MEAT": {
+      "path": "assets/cooking/product.doughnut.png",
+      "name": "Proteinous Doughnut",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.doughnut.png"
+    },
+    "FOOD_M_MEAT": {
+      "path": "assets/cooking/product.meat.raw.png",
+      "name": "Meaty Chunks",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.raw.png"
+    },
+    "FOOD_JAM_GLITCH": {
+      "path": "assets/cooking/product.sauce.png",
+      "name": "Anomalous Jam",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.sauce.png"
+    },
+    "FOOD_JAM_HOT": {
+      "path": "assets/cooking/product.jam.png",
+      "name": "Ever-burning Jam",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.jam.png"
+    },
+    "FOOD_JAM_RAD": {
+      "path": "assets/cooking/product.jam.png",
+      "name": "Grahj'am",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.jam.png"
+    },
+    "FOOD_JAM_DUST": {
+      "path": "assets/cooking/product.jam.png",
+      "name": "Cactus Jelly",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.jam.png"
+    },
+    "FOOD_JAM_CAT": {
+      "path": "assets/cooking/product.jam.png",
+      "name": "Furball Jelly",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.jam.png"
+    },
+    "FOOD_V_CAT": {
+      "path": "assets/cooking/product.catfruit.png",
+      "name": "Leopard-Fruit",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.catfruit.png"
+    },
+    "FOOD_JAM_CRAB": {
+      "path": "assets/cooking/product.jam.png",
+      "name": "Wriggling Jam",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.jam.png"
+    },
+    "FOOD_V_CRAB": {
+      "path": "assets/cooking/product.weirdfruit.png",
+      "name": "Crab 'Apple'",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.weirdfruit.png"
+    },
+    "FOOD_DNUT_AJAM": {
+      "path": "assets/cooking/product.doughnut.png",
+      "name": "Anomalous Doughnut",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.doughnut.png"
+    },
+    "FOOD_DNUT_JAM": {
+      "path": "assets/cooking/product.doughnut.png",
+      "name": "Jam Doughnut",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.doughnut.png"
+    },
+    "FOOD_DNUT_CJAM": {
+      "path": "assets/cooking/product.doughnut.png",
+      "name": "Wriggling Doughnut",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.doughnut.png"
+    },
+    "FOOD_R_SMOKED": {
+      "path": "assets/cooking/product.refined.smokedmeat.png",
+      "name": "Smoked Meat",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.smokedmeat.png"
+    },
+    "FUEL1": {
+      "path": "assets/cooking/substance.fuel.1.png",
+      "name": "Carbon",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4substances/substance.fuel.1.png"
+    },
+    "FUEL2": {
+      "path": "assets/cooking/substance.fuel.2.png",
+      "name": "Condensed Carbon",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4substances/substance.fuel.2.png"
+    },
+    "FOOD_R_MEAT": {
+      "path": "assets/cooking/product.refined.meat.png",
+      "name": "Processed Meat",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meat.png"
+    },
+    "FOOD_M_FLYER": {
+      "path": "assets/cooking/product.meat.raw.png",
+      "name": "Meaty Wings",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.raw.png"
+    },
+    "FOOD_M_FIEND": {
+      "path": "assets/cooking/product.meat.raw.png",
+      "name": "Fiendish Roe",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.raw.png"
+    },
+    "FOOD_M_BLOB": {
+      "path": "assets/cooking/product.meat.offal.png",
+      "name": "Offal Sac",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.offal.png"
+    },
+    "FOOD_M_GEK": {
+      "path": "assets/cooking/product.meat.sausage.png",
+      "name": "ProtoSausage",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.sausage.png"
+    },
+    "FOOD_M_DIPLO": {
+      "path": "assets/cooking/product.meat.raw.png",
+      "name": "Diplo Chunks",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.raw.png"
+    },
+    "FOOD_M_REX": {
+      "path": "assets/cooking/product.meat.raw.png",
+      "name": "Scaly Meat",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.raw.png"
+    },
+    "FOOD_M_CAT": {
+      "path": "assets/cooking/product.meat.offal.png",
+      "name": "Feline Liver",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.offal.png"
+    },
+    "FOOD_M_STRIDER": {
+      "path": "assets/cooking/product.meat.raw.png",
+      "name": "Strider Sausage",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.raw.png"
+    },
+    "FOOD_M_COW": {
+      "path": "assets/cooking/product.meat.raw.png",
+      "name": "Raw Steak",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.raw.png"
+    },
+    "FOOD_M_CRAB": {
+      "path": "assets/cooking/product.meat.raw.png",
+      "name": "Leg Meat",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.raw.png"
+    },
+    "FOOD_M_MOLE": {
+      "path": "assets/cooking/product.meat.offal.png",
+      "name": "Scooped Innards",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.offal.png"
+    },
+    "FOOD_M_BONE": {
+      "path": "assets/cooking/product.meat.offal.png",
+      "name": "Crystal Flesh",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.offal.png"
+    },
+    "FOOD_M_DRILL": {
+      "path": "assets/cooking/product.meat.sausage.png",
+      "name": "Latticed Sinew",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.sausage.png"
+    },
+    "FOOD_M_BEETLE": {
+      "path": "assets/cooking/product.meat.raw.png",
+      "name": "Crunchy Wings",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.raw.png"
+    },
+    "FOOD_M_BALL": {
+      "path": "assets/cooking/product.meat.offal.png",
+      "name": "Lumpy Brainstem",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.offal.png"
+    },
+    "FOOD_M_DIGGER": {
+      "path": "assets/cooking/product.meat.raw.png",
+      "name": "Dirty Meat",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.raw.png"
+    },
+    "FOOD_M_BUG": {
+      "path": "assets/cooking/product.meat.offal.png",
+      "name": "Juicy Thorax",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.offal.png"
+    },
+    "FOOD_R_PIECASE": {
+      "path": "assets/cooking/product.refined.emptypie.png",
+      "name": "Pie Case",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.emptypie.png"
+    },
+    "FOOD_PIE_MEAT": {
+      "path": "assets/cooking/product.refined.meatpie.png",
+      "name": "Mystery Meat Pie",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatpie.png"
+    },
+    "FOOD_PIE_SMEAT": {
+      "path": "assets/cooking/product.refined.meatpie.png",
+      "name": "Smokey Meat Pie",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatpie.png"
+    },
+    "FOOD_PIE_VEG": {
+      "path": "assets/cooking/product.refined.meatpie.png",
+      "name": "High-Fibre Pie",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatpie.png"
+    },
+    "FOOD_PIE_FIEND": {
+      "path": "assets/cooking/product.refined.tartevil.png",
+      "name": "Haunted Pie",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tartevil.png"
+    },
+    "FOOD_PIE_ORGAN": {
+      "path": "assets/cooking/product.refined.meatpie.png",
+      "name": "Chewy Organ Pie",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatpie.png"
+    },
+    "FOOD_PIE_GEK": {
+      "path": "assets/cooking/product.refined.meatpie.png",
+      "name": "Proto-Sausage Pie",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatpie.png"
+    },
+    "FOOD_PIE_CRAB": {
+      "path": "assets/cooking/product.refined.meatpie.png",
+      "name": "'Legs-in-Pastry'",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatpie.png"
+    },
+    "FOOD_PIE_FISH": {
+      "path": "assets/cooking/product.refined.meatpie.png",
+      "name": "Fish Pie",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatpie.png"
+    },
+    "FOOD_M_FISH": {
+      "path": "assets/cooking/product.meat.raw.png",
+      "name": "Salty Chunks",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.raw.png"
+    },
+    "FOOD_PIE_BERRY": {
+      "path": "assets/cooking/product.refined.tart.png",
+      "name": "Fruity Pudding",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tart.png"
+    },
+    "FOOD_PIE_GLOW": {
+      "path": "assets/cooking/product.refined.vegpie.png",
+      "name": "Glowing Pie",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.vegpie.png"
+    },
+    "FOOD_PIE_MUSH": {
+      "path": "assets/cooking/product.refined.tart.png",
+      "name": "Fungal Tart",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tart.png"
+    },
+    "FOOD_PIE_CACTUS": {
+      "path": "assets/cooking/product.refined.tart.png",
+      "name": "Spikey Tart",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tart.png"
+    },
+    "FOOD_PIE_WEIRD": {
+      "path": "assets/cooking/product.refined.tart.png",
+      "name": "Anomalous Tart",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tart.png"
+    },
+    "FOOD_PIE_ROOTS": {
+      "path": "assets/cooking/product.refined.vegpie.png",
+      "name": "Mushed Root Pie",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.vegpie.png"
+    },
+    "FOOD_PIE_HONEY": {
+      "path": "assets/cooking/product.refined.tart.png",
+      "name": "Honey Tart",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tart.png"
+    },
+    "FOOD_PIE_GREASE": {
+      "path": "assets/cooking/product.refined.vegpie.png",
+      "name": "Solidified Grease Pie",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.vegpie.png"
+    },
+    "FOOD_V_REX": {
+      "path": "assets/cooking/product.animalgrease.png",
+      "name": "Regis Grease",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.animalgrease.png"
+    },
+    "FOOD_V_BUG": {
+      "path": "assets/cooking/product.animalgrease.png",
+      "name": "Nourishing Slime",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.animalgrease.png"
+    },
+    "FOOD_PIE_CAT": {
+      "path": "assets/cooking/product.refined.tart.png",
+      "name": "Jellied Fur Tart",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tart.png"
+    },
+    "FOOD_PIE_CRABJ": {
+      "path": "assets/cooking/product.refined.tart.png",
+      "name": "Wriggling Tart",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tart.png"
+    },
+    "FOOD_PIE_JAM": {
+      "path": "assets/cooking/product.refined.tart.png",
+      "name": "Jam Tart",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tart.png"
+    },
+    "FOOD_PIE_CHOC": {
+      "path": "assets/cooking/product.refined.tart.png",
+      "name": "Cocoa Tart",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tart.png"
+    },
+    "FOOD_PIE_CREAM": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Creamy Treat",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_R_BCREAM": {
+      "path": "assets/cooking/product.cream.png",
+      "name": "Bone Cream",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cream.png"
+    },
+    "FOOD_PIE_CUST": {
+      "path": "assets/cooking/product.refined.tart.png",
+      "name": "Custard Tart",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tart.png"
+    },
+    "FOOD_PIE_MCUST": {
+      "path": "assets/cooking/product.refined.tartevil.png",
+      "name": "The Spawning Tart",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tartevil.png"
+    },
+    "FOOD_PIE_SCUST": {
+      "path": "assets/cooking/product.refined.tart.png",
+      "name": "Stellar Custard Tart",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tart.png"
+    },
+    "FOOD_PIE_CHEESE": {
+      "path": "assets/cooking/product.refined.tart.png",
+      "name": "Baked Cheese Tart",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tart.png"
+    },
+    "FOOD_R_BCHEESE": {
+      "path": "assets/cooking/product.refined.butter.png",
+      "name": "Bone Cheese",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.butter.png"
+    },
+    "FOOD_PIE_CARM": {
+      "path": "assets/cooking/product.refined.tart.png",
+      "name": "Caramel Tart",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tart.png"
+    },
+    "FOOD_PIE_VCHEE": {
+      "path": "assets/cooking/product.refined.vegpie.png",
+      "name": "Cheesy Vegetable Pie",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.vegpie.png"
+    },
+    "FOOD_EGGPIE_M": {
+      "path": "assets/cooking/product.refined.omlette.png",
+      "name": "Whispering Omelette",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.omlette.png"
+    },
+    "FOOD_EGGPIE": {
+      "path": "assets/cooking/product.refined.omlette.png",
+      "name": "Omelette",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.omlette.png"
+    },
+    "FOOD_EGGPIE_GM": {
+      "path": "assets/cooking/product.refined.omlette.png",
+      "name": "Parasitic Omelette",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.omlette.png"
+    },
+    "FOOD_EGGPIE_G": {
+      "path": "assets/cooking/product.refined.omlette.png",
+      "name": "Proto-Omelette",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.omlette.png"
+    },
+    "FOOD_MEAT_STEW": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "Mystery Meat Stew",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_ORGAN_STEW": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "Stewed Organs",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_VEG_STEW": {
+      "path": "assets/cooking/product.refined.vegstew.png",
+      "name": "Fibrous Stew",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.vegstew.png"
+    },
+    "FOOD_S_VEG": {
+      "path": "assets/cooking/product.sauce.png",
+      "name": "Flavoursome Sauce",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.sauce.png"
+    },
+    "FOOD_S_HOT": {
+      "path": "assets/cooking/product.sauce.png",
+      "name": "Scorching Sauce",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.sauce.png"
+    },
+    "FOOD_S_CREAM": {
+      "path": "assets/cooking/product.sauce.png",
+      "name": "Creamy Sauce",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.sauce.png"
+    },
+    "FOOD_S_CHEESE": {
+      "path": "assets/cooking/product.sauce.png",
+      "name": "Partially-Liquid Cheese",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.sauce.png"
+    },
+    "FOOD_STEW_O_CH": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "Tangy Organ Surprise",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_STEW_BONE": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "Crystalline Soup",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_STEW_BEET": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "Gelatinous Goop",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_STEW_BALL": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "Chewy 'Dumpling' Stew",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_STEW_V_CH": {
+      "path": "assets/cooking/product.refined.vegstew.png",
+      "name": "Tangy Vegetable Stew",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.vegstew.png"
+    },
+    "FOOD_STEW_M_CH": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "Cheese-and-Flesh Stew",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_STEW_DRILL": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "Well-Stirred Stew",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_STEW_DIG": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "Soiled Soup",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_STEW_O_CR": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "Creamed Organ Soup",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_STEW_V_CR": {
+      "path": "assets/cooking/product.refined.vegstew.png",
+      "name": "Cream of Vegetable Soup",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.vegstew.png"
+    },
+    "FOOD_STEW_M_CR": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "Thick Meat Stew",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_STEW_O_HOT": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "Devilled Organs",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_STEW_V_HOT": {
+      "path": "assets/cooking/product.refined.vegstew.png",
+      "name": "Fiery Vegetable Stew",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.vegstew.png"
+    },
+    "FOOD_STEW_M_HOT": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "Spicy Fleshballs",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_STEW_O_VEG": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "Flavoursome Organs",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_STEW_V_VEG": {
+      "path": "assets/cooking/product.refined.vegstew.png",
+      "name": "Delicious Vegetable Stew",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.vegstew.png"
+    },
+    "FOOD_STEW_M_VEG": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "Herb-Encrusted Flesh",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_R_CAKEMIX": {
+      "path": "assets/cooking/product.batter.png",
+      "name": "Cake Batter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.batter.png"
+    },
+    "FOOD_R_GCAKEMIX": {
+      "path": "assets/cooking/product.batter.png",
+      "name": "Proto-Batter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.batter.png"
+    },
+    "FOOD_R_BCAKEMIX": {
+      "path": "assets/cooking/product.batter.png",
+      "name": "Thick, Sweet Batter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.batter.png"
+    },
+    "FOOD_R_MCAKEMIX": {
+      "path": "assets/cooking/product.batter.png",
+      "name": "Wailing Batter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.batter.png"
+    },
+    "FOOD_R_PCATBUT": {
+      "path": "assets/cooking/product.refined.butter.png",
+      "name": "Butter Syrup",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.butter.png"
+    },
+    "FOOD_R_MERMIX": {
+      "path": "assets/cooking/product.batter.png",
+      "name": "Extra-Fluffy Batter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.batter.png"
+    },
+    "FOOD_R_MMERMIX": {
+      "path": "assets/cooking/product.batter.png",
+      "name": "Writhing, Roiling Batter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.batter.png"
+    },
+    "FOOD_CK_HONEY": {
+      "path": "assets/cooking/product.refined.cake.png",
+      "name": "Glittering Honey Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cake.png"
+    },
+    "FOOD_CK_BLOBBUT": {
+      "path": "assets/cooking/product.refined.cake.png",
+      "name": "Questionably Sweet Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cake.png"
+    },
+    "FOOD_CK_CREAM": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Cream Buns",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_CK_CHOC": {
+      "path": "assets/cooking/product.refined.cake.png",
+      "name": "Chocolate Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cake.png"
+    },
+    "FOOD_CK_CARM": {
+      "path": "assets/cooking/product.refined.cake.png",
+      "name": "Caramel-Encrusted Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cake.png"
+    },
+    "FOOD_CK_APPLE": {
+      "path": "assets/cooking/product.refined.cake.png",
+      "name": "Spiced 'Apple' Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cake.png"
+    },
+    "FOOD_CK_CACTUS": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Esophageal Surprise",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_CK_JGLITCH": {
+      "path": "assets/cooking/product.refined.cake.png",
+      "name": "Perpetual Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cake.png"
+    },
+    "FOOD_CK_JHOT": {
+      "path": "assets/cooking/product.refined.cake.png",
+      "name": "Ever-Boiling Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cake.png"
+    },
+    "FOOD_CK_JAM": {
+      "path": "assets/cooking/product.refined.cake.png",
+      "name": "Traditional Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cake.png"
+    },
+    "FOOD_CK_CUST": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Custard Fancy",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_CK_FCUST": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Briney Delight",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_CK_MCUST": {
+      "path": "assets/cooking/product.cupcakeevil.png",
+      "name": "Horrifying, Gooey Delight",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcakeevil.png"
+    },
+    "FOOD_CK_SCUST": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Interstellar Fancy",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_CG_BLOB": {
+      "path": "assets/cooking/product.refined.cakegek.png",
+      "name": "Most Curious Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakegek.png"
+    },
+    "FOOD_CG_CREAM": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Cream Curiosity",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_CG_CHOC": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Chocolate Curiosity",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_CG_CARM": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Caramel Curiosity",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_CG_HONEY": {
+      "path": "assets/cooking/product.refined.cake.png",
+      "name": "Honied Proto-Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cake.png"
+    },
+    "FOOD_CG_APPLE": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "'Apple' Curiosity",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_CG_CACTUS": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Prickly Curiosity",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_CG_JGLITCH": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Unsolvable Jam Turnover",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_CG_JHOT": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Startling Fancy",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_CG_JAM": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Jam Curiosity",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_CG_CUST": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Custard Curiosity",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_CG_FCUST": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Salty Surprise",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_CG_SCUST": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Interstellar Curiosity",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_CB_CREAM": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Sweet Cream Dreams",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CB_CHOC": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Gooey Chocolate Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CB_CARM": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Gooey Caramel Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CB_HONEY": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Honey-Soaked Fancy",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CB_APPLE": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Gooey Fruit Surprise",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CB_CACTUS": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Honied Throat-Sticker",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CB_JGLITCH": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Perpetual Honeycake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CB_JHOT": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Gooey Mouthburner",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CB_JAM": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Jam Oozers",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CB_CUST": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Gooey Custard Fancy",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CB_FCUST": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Salt-Laced Honey Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CM_BLOBBUT": {
+      "path": "assets/cooking/product.cupcakeevil.png",
+      "name": "Gooey Screamer",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcakeevil.png"
+    },
+    "FOOD_CB_SCUST": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Starbirth Delight",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CM_CREAM": {
+      "path": "assets/cooking/product.refined.ccakeevil.png",
+      "name": "Doomed Cream Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.ccakeevil.png"
+    },
+    "FOOD_CM_CHOC": {
+      "path": "assets/cooking/product.cupcakeevil.png",
+      "name": "Haunted Chocolate Dreams",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcakeevil.png"
+    },
+    "FOOD_CM_CARM": {
+      "path": "assets/cooking/product.refined.ccakeevil.png",
+      "name": "Wailing Caramel Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.ccakeevil.png"
+    },
+    "FOOD_CM_HONEY": {
+      "path": "assets/cooking/product.refined.cake.png",
+      "name": "Monstrous Honey Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cake.png"
+    },
+    "FOOD_CM_APPLE": {
+      "path": "assets/cooking/product.refined.ccakeevil.png",
+      "name": "'Apple' Cake of Lost Souls",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.ccakeevil.png"
+    },
+    "FOOD_CM_CACTUS": {
+      "path": "assets/cooking/product.refined.ccakeevil.png",
+      "name": "Choking Monstrosity Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.ccakeevil.png"
+    },
+    "FOOD_CM_JGLITCH": {
+      "path": "assets/cooking/product.refined.ccakeevil.png",
+      "name": "Cake of Glass",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.ccakeevil.png"
+    },
+    "FOOD_CM_JHOT": {
+      "path": "assets/cooking/product.refined.ccakeevil.png",
+      "name": "Cake of Burning Dread",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.ccakeevil.png"
+    },
+    "FOOD_CM_JAM": {
+      "path": "assets/cooking/product.refined.ccakeevil.png",
+      "name": "Appalling Jam Sponge",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.ccakeevil.png"
+    },
+    "FOOD_MC_BLOB": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Gooey Honey Puff",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_MC_CREAM": {
+      "path": "assets/cooking/product.refined.cake.png",
+      "name": "Extra-Fluffy Cream Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cake.png"
+    },
+    "FOOD_MC_CHOC": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Chocolate Dream",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_MC_CARM": {
+      "path": "assets/cooking/product.refined.cake.png",
+      "name": "Fluffy Caramel Delight",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cake.png"
+    },
+    "FOOD_MC_HONEY": {
+      "path": "assets/cooking/product.refined.cake.png",
+      "name": "Honied Angel Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cake.png"
+    },
+    "FOOD_MC_APPLE": {
+      "path": "assets/cooking/product.refined.cake.png",
+      "name": "Angelic Fruitcake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cake.png"
+    },
+    "FOOD_MC_CACTUS": {
+      "path": "assets/cooking/product.cupcakefluffy.png",
+      "name": "Soft and Spiky Surprise",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcakefluffy.png"
+    },
+    "FOOD_MC_JGLITCH": {
+      "path": "assets/cooking/product.cupcakefluffy.png",
+      "name": "Perpetual Jam Fluffer",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcakefluffy.png"
+    },
+    "FOOD_MC_JHOT": {
+      "path": "assets/cooking/product.cupcakefluffy.png",
+      "name": "Burning Jam Fluffer",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcakefluffy.png"
+    },
+    "FOOD_MC_JAM": {
+      "path": "assets/cooking/product.cupcakefluffy.png",
+      "name": "Jam Fluffer",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcakefluffy.png"
+    },
+    "FOOD_MC_CUST": {
+      "path": "assets/cooking/product.cupcakefluffy.png",
+      "name": "Soft Custard Fancy",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcakefluffy.png"
+    },
+    "FOOD_MM_BLOB": {
+      "path": "assets/cooking/product.refined.ccakeevil.png",
+      "name": "Itching, Creeping Honey Sponge",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.ccakeevil.png"
+    },
+    "FOOD_MM_CREAM": {
+      "path": "assets/cooking/product.cupcakeevil.png",
+      "name": "Unbound Cream Horn",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcakeevil.png"
+    },
+    "FOOD_MM_CHOC": {
+      "path": "assets/cooking/product.cupcakeevil.png",
+      "name": "Volatile Chocolate Fancy",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcakeevil.png"
+    },
+    "FOOD_MM_CARM": {
+      "path": "assets/cooking/product.refined.tartevil.png",
+      "name": "Caramelised Nightmare",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tartevil.png"
+    },
+    "FOOD_MM_HONEY": {
+      "path": "assets/cooking/product.refined.ccakeevil.png",
+      "name": "Tortured Honey Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.ccakeevil.png"
+    },
+    "FOOD_MM_APPLE": {
+      "path": "assets/cooking/product.refined.ccakeevil.png",
+      "name": "Cake of Sin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.ccakeevil.png"
+    },
+    "FOOD_MM_CACTUS": {
+      "path": "assets/cooking/product.cupcakeevil.png",
+      "name": "Fluffy Throatripper",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcakeevil.png"
+    },
+    "FOOD_MM_JGLITCH": {
+      "path": "assets/cooking/product.refined.tartevil.png",
+      "name": "Unbound Monstrosity",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tartevil.png"
+    },
+    "FOOD_MM_JHOT": {
+      "path": "assets/cooking/product.refined.tart.png",
+      "name": "Burning Jam Surprise",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tart.png"
+    },
+    "FOOD_MM_JAM": {
+      "path": "assets/cooking/product.cupcakeevil.png",
+      "name": "Writhing Jam Puff",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcakeevil.png"
+    },
+    "FOOD_MM_CUST": {
+      "path": "assets/cooking/product.refined.ccakeevil.png",
+      "name": "Cake of the Lost",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.ccakeevil.png"
+    },
+    "FOOD_R_EYEBALLS": {
+      "path": "assets/cooking/product.fiendcore.png",
+      "name": "Horrifying Mush",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4products/product.fiendcore.png"
+    },
+    "EYEBALL": {
+      "path": "assets/cooking/product.eyeball.png",
+      "name": "Hypnotic Eye",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4products/product.eyeball.png"
+    },
+    "F_ODD_LEG_S1": {
+      "path": "assets/cooking/product.fishcore.png",
+      "name": "Abyssal Horror Egg",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4products/product.fishcore.png"
+    },
+    "FOOD_R_EYESTEW": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "Abyssal Stew",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_V_BONE": {
+      "path": "assets/cooking/product.weirdfruit.png",
+      "name": "Bone Nuggets",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.weirdfruit.png"
+    },
+    "FOOD_R_EYEICE": {
+      "path": "assets/cooking/product.icecream.png",
+      "name": "Iced Screams",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.icecream.png"
+    },
+    "FOOD_ICE": {
+      "path": "assets/cooking/product.icecream.png",
+      "name": "Ice Cream",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.icecream.png"
+    },
+    "FOOD_ICE_FISH": {
+      "path": "assets/cooking/product.icecream.png",
+      "name": "Briney Rime",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.icecream.png"
+    },
+    "FOOD_ICE_FIEND": {
+      "path": "assets/cooking/product.icecream.png",
+      "name": "Deathly-Cold Ice Cream",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.icecream.png"
+    },
+    "FOOD_ICE_STAR": {
+      "path": "assets/cooking/product.icecream.png",
+      "name": "Stellar Ice Cream",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.icecream.png"
+    },
+    "FOOD_ICE_CHOC": {
+      "path": "assets/cooking/product.icecream.png",
+      "name": "Chocolate Ice Cream",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.icecream.png"
+    },
+    "FOOD_ICE_CARM": {
+      "path": "assets/cooking/product.icecream.png",
+      "name": "Caramel Ice Cream",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.icecream.png"
+    },
+    "FOOD_ICE_APPLE": {
+      "path": "assets/cooking/product.icecream.png",
+      "name": "'Apple' Ice Cream",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.icecream.png"
+    },
+    "FOOD_ICE_HONEY": {
+      "path": "assets/cooking/product.icecream.png",
+      "name": "Honey Ice Cream",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.icecream.png"
+    },
+    "FOOD_ICE_GLITCH": {
+      "path": "assets/cooking/product.icecream.png",
+      "name": "Perpetual Ice Cream",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.icecream.png"
+    },
+    "FOOD_ICE_GRAH": {
+      "path": "assets/cooking/product.icecream.png",
+      "name": "Vy'ice Cream",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.icecream.png"
+    },
+    "FOOD_ICE_HOT": {
+      "path": "assets/cooking/product.icecream.png",
+      "name": "Spiced Ice",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.icecream.png"
+    },
+    "FOOD_ICE_FRUIT": {
+      "path": "assets/cooking/product.icecream.png",
+      "name": "Fruity Ice Cream",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.icecream.png"
+    },
+    "BAIT_BASIC": {
+      "path": "assets/cooking/product.bait.pellets.png",
+      "name": "Creature Pellets",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.bait.pellets.png"
+    },
+    "NANOTUBES": {
+      "path": "assets/cooking/product.nanotubes.png",
+      "name": "Carbon Nanotubes",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4products/product.nanotubes.png"
+    },
+    "BAIT_VEG_1": {
+      "path": "assets/cooking/product.bait.herbs.png",
+      "name": "Scented Herbs",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.bait.herbs.png"
+    },
+    "BAIT_VEG_2": {
+      "path": "assets/cooking/product.bait.fluid.png",
+      "name": "Enzyme Fluid",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.bait.fluid.png"
+    },
+    "BAIT_VEG_3": {
+      "path": "assets/cooking/product.bait.fruit.png",
+      "name": "Fermented Fruit",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.bait.fruit.png"
+    },
+    "FOOD_J_SALT": {
+      "path": "assets/cooking/product.sauce.png",
+      "name": "Salty Juice",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.sauce.png"
+    },
+    "FOOD_R_BONEMILK": {
+      "path": "assets/cooking/product.milk.png",
+      "name": "Bone Milk",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.milk.png"
+    },
+    "ANY_BONE": {
+      "path": "assets/cooking/product.refined.bones.png",
+      "name": "Any Edible Bone",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.bones.png"
+    },
+    "FOOD_ICE_BONE": {
+      "path": "assets/cooking/product.icecream.png",
+      "name": "Icey Marrow",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.icecream.png"
+    },
+    "FOOD_EGGPIE_B": {
+      "path": "assets/cooking/product.refined.omlette.png",
+      "name": "Scrambled Marrow",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.omlette.png"
+    },
+    "FOOD_EGGPIE_MU": {
+      "path": "assets/cooking/product.refined.omlette.png",
+      "name": "Fungal Omelette",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.omlette.png"
+    },
+    "FOOD_PIE_MOLE": {
+      "path": "assets/cooking/product.refined.vegpie.png",
+      "name": "Earthy Pie",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.vegpie.png"
+    },
+    "FOOD_PIE_BONE": {
+      "path": "assets/cooking/product.refined.tartevil.png",
+      "name": "The Toothbreaker",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tartevil.png"
+    },
+    "FOOD_PIE_DRILL": {
+      "path": "assets/cooking/product.refined.meatpie.png",
+      "name": "Gristle Pie",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatpie.png"
+    },
+    "FOOD_PIE_BEET": {
+      "path": "assets/cooking/product.refined.meatpie.png",
+      "name": "Leathery Tart",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatpie.png"
+    },
+    "FOOD_PIE_BALL": {
+      "path": "assets/cooking/product.refined.meatpie.png",
+      "name": "Gritty Meat Pie",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatpie.png"
+    },
+    "FOOD_PIE_DIG": {
+      "path": "assets/cooking/product.refined.meatpie.png",
+      "name": "The Pie Of Knowledge",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatpie.png"
+    },
+    "FOOD_V_ROBOT": {
+      "path": "assets/cooking/product.bait.worms.png",
+      "name": "Chewy Wires",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.bait.worms.png"
+    },
+    "FOOD_W_CASE": {
+      "path": "assets/cooking/product.meat.sausage.png",
+      "name": "Gelatinous Membrane",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.sausage.png"
+    },
+    "WORMCORE": {
+      "path": "assets/cooking/wormcore.png",
+      "name": "Flesh Rope",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/products/wormcore.png"
+    },
+    "FOOD_W_MEAT": {
+      "path": "assets/cooking/product.meat.offal.png",
+      "name": "Nightmare Sausage",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.offal.png"
+    },
+    "FISHCORE": {
+      "path": "assets/cooking/product.fishcore.png",
+      "name": "Hadal Core",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/u4products/product.fishcore.png"
+    },
+    "FOOD_W_SWEETM": {
+      "path": "assets/cooking/product.refined.evilstew.png",
+      "name": "Syrupy Viscera",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.evilstew.png"
+    },
+    "FOOD_B_DOUGH": {
+      "path": "assets/cooking/product.dough.png",
+      "name": "Sugar Dough",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.dough.png"
+    },
+    "FOOD_B_PLAIN": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Simple Biscuit",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_SALT": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Salty Cruncher",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_JAM": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Jammy Rounds",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_CAT": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Cough Biscuits",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_HOT": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Burning Surprise",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_WEIRD": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Baked Anomaly",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_CHEESE": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Curdy Cracker",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_WORM": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Wriggling Tack",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_FISH": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Fish Biscuit",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "ANY_FISH": {
+      "path": "assets/cooking/product.fish.default.png",
+      "name": "Any Seafood",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.default.png"
+    },
+    "FOOD_B_CACTUS": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Tooth Pickers",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_FIEND": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Haunted Wafer",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_MUSHROOM": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Spore Dunkers",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_CHOCO": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Cocoa Creams",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_CARAMEL": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Sticky Finger",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_CREAM": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Cream Fingers",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_MILK": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Enriched Biscuit",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_APPLE": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "'Apple' Roll",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_HONEY": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Honey Waffle",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_HERB": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Herbal Crunchie",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "TRA_CURIO2": {
+      "path": "assets/cooking/product.geknip.png",
+      "name": "GekNip",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/products/product.geknip.png"
+    },
+    "NIPNIPBUDS": {
+      "path": "assets/cooking/product.nipbud.png",
+      "name": "NipNip Buds",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/update1/product.nipbud.png"
+    },
+    "FOOD_B_VEG": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Healthy Wheatblock",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_FLOWER": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Floral Wafer",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_MEAT": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Questionable Biscuit",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_BURN": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Well-Smoked Biscuit",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_B_BUG": {
+      "path": "assets/cooking/product.refined.biscuit.png",
+      "name": "Chewy Biscuit",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.biscuit.png"
+    },
+    "FOOD_JAM_BUG": {
+      "path": "assets/cooking/product.jam.png",
+      "name": "Sweetened Mucous",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.jam.png"
+    },
+    "FOOD_DNUT_BJAM": {
+      "path": "assets/cooking/product.doughnut.png",
+      "name": "Mucal Doughnut",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.doughnut.png"
+    },
+    "FOOD_MM_BUGJAM": {
+      "path": "assets/cooking/product.cupcakeevil.png",
+      "name": "Squirming Fancy",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcakeevil.png"
+    },
+    "FOOD_MC_BUGJAM": {
+      "path": "assets/cooking/product.cupcakefluffy.png",
+      "name": "Frosted Mire",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcakefluffy.png"
+    },
+    "FOOD_CM_BUGJAM": {
+      "path": "assets/cooking/product.refined.ccakeevil.png",
+      "name": "Primordial Sponge",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.ccakeevil.png"
+    },
+    "FOOD_CB_BUGJAM": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Nourishing Oozer",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CG_BUGJAM": {
+      "path": "assets/cooking/product.cupcake.png",
+      "name": "Mucal Curiosity",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcake.png"
+    },
+    "FOOD_CK_BUGJAM": {
+      "path": "assets/cooking/product.refined.cake.png",
+      "name": "Gelatinous Sponge",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cake.png"
+    },
+    "FOOD_ICE_BUG": {
+      "path": "assets/cooking/product.icecream.png",
+      "name": "Slime Pop",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.icecream.png"
+    },
+    "FOOD_PIE_BUGJAM": {
+      "path": "assets/cooking/product.refined.vegpie.png",
+      "name": "Muculent Tart",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.vegpie.png"
+    },
+    "FOOD_PIE_BMEAT": {
+      "path": "assets/cooking/product.refined.meatpie.png",
+      "name": "Seeping Pie",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatpie.png"
+    },
+    "FOOD_STEW_BUG": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "Popping Stew",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_EGGPIE_BUG": {
+      "path": "assets/cooking/product.refined.omlette.png",
+      "name": "Bugs-in-a-Blanket",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.omlette.png"
+    },
+    "FOOD_MM_PCAT": {
+      "path": "assets/cooking/product.refined.ccakeevil.png",
+      "name": "Ambrosial Curse",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.ccakeevil.png"
+    },
+    "FOOD_MC_PCAT": {
+      "path": "assets/cooking/product.cupcakefluffy.png",
+      "name": "Nectar Islands",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcakefluffy.png"
+    },
+    "FOOD_CM_PCATBUT": {
+      "path": "assets/cooking/product.cupcakeevil.png",
+      "name": "Cake of Eternal Sleep",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.cupcakeevil.png"
+    },
+    "FOOD_R_PCAKEMIX": {
+      "path": "assets/cooking/product.batter.png",
+      "name": "Syrupy Batter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.batter.png"
+    },
+    "FOOD_CK_PCATBUT": {
+      "path": "assets/cooking/product.refined.cake.png",
+      "name": "Syrup-Drenched Delight",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cake.png"
+    },
+    "FOOD_CG_PCAT": {
+      "path": "assets/cooking/product.refined.cakegek.png",
+      "name": "Nectar Sponge Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakegek.png"
+    },
+    "FOOD_R_PCATGEK": {
+      "path": "assets/cooking/product.refined.butter.png",
+      "name": "Syrupy Proto-Butter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.butter.png"
+    },
+    "FOOD_DNUT_PCAT": {
+      "path": "assets/cooking/product.doughnut.png",
+      "name": "Pollen Puffball",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.doughnut.png"
+    },
+    "FOOD_CP_CREAM": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Creamy Clouds of Nectar",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CP_CHOC": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Chocolate Oozer",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CP_CARM": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Syrupy Caramel Slice",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CP_HONEY": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Ambrosial Wonder",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CP_APPLE": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Candied 'Apples'",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CP_CACTUS": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Hybrid Cake",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CP_JGLITCH": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Xeno-Sponge",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CP_JHOT": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Syrupy Tingler",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CP_JAM": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Jammy Burster",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CP_CUST": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Sponge of Ambrosia",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CP_FCUST": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Sweet and Salty Puff",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CP_SCUST": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Starpollen Surprise",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_CP_BUGJAM": {
+      "path": "assets/cooking/product.refined.cakeblob.png",
+      "name": "Splicer's Delight",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.cakeblob.png"
+    },
+    "FOOD_M_GRUB": {
+      "path": "assets/cooking/product.buggrub.png",
+      "name": "Juicy Grub",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/products/product.buggrub.png"
+    },
+    "FOOD_R_HORROR": {
+      "path": "assets/cooking/product.refined.meat.png",
+      "name": "Purged Ribs",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meat.png"
+    },
+    "FOOD_M_HORROR": {
+      "path": "assets/cooking/product.meat.sausage.png",
+      "name": "Rancid Flesh",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.meat.sausage.png"
+    },
+    "FOOD_STEW_EVIL": {
+      "path": "assets/cooking/product.refined.meatstew.png",
+      "name": "The Worst Stew",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.meatstew.png"
+    },
+    "FOOD_F_SMALL1": {
+      "path": "assets/cooking/product.fish.prawn.png",
+      "name": "Fish Fry",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.prawn.png"
+    },
+    "F_ALL_COM_S1": {
+      "path": "assets/cooking/product.fish.default.png",
+      "name": "Tiny Scuttlefish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.default.png"
+    },
+    "F_TOX_COM_S2": {
+      "path": "assets/cooking/product.fish.big.2.png",
+      "name": "Venomous Triggerfin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.big.2.png"
+    },
+    "F_RAD_COM_S2": {
+      "path": "assets/cooking/product.fish.small.1.png",
+      "name": "Spotted Protofin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.small.1.png"
+    },
+    "F_HOT_COM_S1": {
+      "path": "assets/cooking/product.fish.big.3.png",
+      "name": "Oilfin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.big.3.png"
+    },
+    "F_HOT_RARE_S2": {
+      "path": "assets/cooking/product.fish.small.2.png",
+      "name": "Pyrefin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.small.2.png"
+    },
+    "F_COLD_EPIC_S1": {
+      "path": "assets/cooking/product2.fish.xl.2.png",
+      "name": "Rimescale Snapper",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.xl.2.png"
+    },
+    "F_LUSH_COM_S3": {
+      "path": "assets/cooking/product.fish.small.1.png",
+      "name": "Common Shimmertail",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.small.1.png"
+    },
+    "F_DUST_COM_S1": {
+      "path": "assets/cooking/product.fish.small.1.png",
+      "name": "Fool's Goldfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.small.1.png"
+    },
+    "F_DUST_LEG_S1": {
+      "path": "assets/cooking/product.fish.small.3.png",
+      "name": "Fragile Icthyoscale",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.small.3.png"
+    },
+    "F_DEEP_COM_S2": {
+      "path": "assets/cooking/product.fish.small.3.png",
+      "name": "Deepwater Minnow",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.small.3.png"
+    },
+    "FOOD_F_CRAB": {
+      "path": "assets/cooking/product.fish.scallop.png",
+      "name": "Peeled Claws",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.scallop.png"
+    },
+    "F_ALL_COM_S2": {
+      "path": "assets/cooking/product.fish.crab.png",
+      "name": "Mud Crab",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.crab.png"
+    },
+    "F_HOT_LEG_S1": {
+      "path": "assets/cooking/product3.fish.crab.png",
+      "name": "Starshell Crab",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product3.fish.crab.png"
+    },
+    "F_COLD_COM_XL": {
+      "path": "assets/cooking/product2.fish.crab.png",
+      "name": "Giant Hairy Crab",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.crab.png"
+    },
+    "F_DUST_RARE_M2": {
+      "path": "assets/cooking/product.fish.crab.png",
+      "name": "Silicate Crab",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.crab.png"
+    },
+    "F_ODD_EPIC_M1": {
+      "path": "assets/cooking/product5.fish.crab.png",
+      "name": "Screaming Crab",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.crab.png"
+    },
+    "F_ODD_LEG_M1": {
+      "path": "assets/cooking/product5.fish.crab.png",
+      "name": "Atlantidian Crab",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.crab.png"
+    },
+    "F_GAS_EPIC_M1": {
+      "path": "assets/cooking/product5.fish.crab.png",
+      "name": "Quartzshell Crab",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.crab.png"
+    },
+    "F_DEEP_EPIC_M1": {
+      "path": "assets/cooking/product2.fish.crab.png",
+      "name": "Abyssal Crab",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.crab.png"
+    },
+    "F_DEEP_LEG_S1": {
+      "path": "assets/cooking/product.fish.crab.png",
+      "name": "Sentient Crab",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.crab.png"
+    },
+    "FOOD_F_SMALL2": {
+      "path": "assets/cooking/product.fish.prawn.png",
+      "name": "Whitebait",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.prawn.png"
+    },
+    "F_ALL_COM_S3": {
+      "path": "assets/cooking/product.fish.small.1.png",
+      "name": "Pondskipper",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.small.1.png"
+    },
+    "F_TOX_EPIC_S1": {
+      "path": "assets/cooking/product.fish.big.2.png",
+      "name": "Waspfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.big.2.png"
+    },
+    "F_RAD_COM_S3": {
+      "path": "assets/cooking/product5.fish.small.3.png",
+      "name": "Field's Dartfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.small.3.png"
+    },
+    "F_HOT_COM_S2": {
+      "path": "assets/cooking/product.fish.medium.3.png",
+      "name": "Common Sunfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.medium.3.png"
+    },
+    "F_COLD_COM_S1": {
+      "path": "assets/cooking/product2.small.3.png",
+      "name": "Ice Darter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.small.3.png"
+    },
+    "F_LUSH_COM_S1": {
+      "path": "assets/cooking/product.fish.small.2.png",
+      "name": "Shadowfin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.small.2.png"
+    },
+    "F_LUSH_RARE_S1": {
+      "path": "assets/cooking/product.fish.small.3.png",
+      "name": "Sweetwater Minnow",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.small.3.png"
+    },
+    "F_DUST_COM_S2": {
+      "path": "assets/cooking/product.fish.small.2.png",
+      "name": "Lesser Dustfin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.small.2.png"
+    },
+    "F_ODD_COM_S1": {
+      "path": "assets/cooking/product5.fish.small.1.png",
+      "name": "Vectorfin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.small.1.png"
+    },
+    "F_DEEP_RARE_S1": {
+      "path": "assets/cooking/product5.fish.default.png",
+      "name": "Spratfin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.default.png"
+    },
+    "FOOD_F_EEL": {
+      "path": "assets/cooking/product.fish.squid.png",
+      "name": "Fleshy Cylinder",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.squid.png"
+    },
+    "F_ALL_COM_M1": {
+      "path": "assets/cooking/product.fish.eel.png",
+      "name": "Reef Eel",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.eel.png"
+    },
+    "F_TOX_COM_M1": {
+      "path": "assets/cooking/product4.fish.eel.png",
+      "name": "Blistering Eel",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.eel.png"
+    },
+    "F_TOX_EPIC_XL": {
+      "path": "assets/cooking/product.fish.eel.png",
+      "name": "Viper Eel",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.eel.png"
+    },
+    "F_RAD_EPIC_L1": {
+      "path": "assets/cooking/product.fish.eel.png",
+      "name": "Cyclopic Eel",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.eel.png"
+    },
+    "F_HOT_RARE_M1": {
+      "path": "assets/cooking/product3.fish.eel.png",
+      "name": "Flashfire Eel",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product3.fish.eel.png"
+    },
+    "F_COLD_COM_M1": {
+      "path": "assets/cooking/product2.fish.eel.png",
+      "name": "Midnight Eel",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.eel.png"
+    },
+    "F_LUSH_COM_XL": {
+      "path": "assets/cooking/product.fish.eel.png",
+      "name": "Warden Eel",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.eel.png"
+    },
+    "F_LUSH_LEG_M1": {
+      "path": "assets/cooking/product5.fish.eel.png",
+      "name": "Mist Serpent",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.eel.png"
+    },
+    "F_DUST_RARE_M1": {
+      "path": "assets/cooking/product.fish.eel.png",
+      "name": "Electric Eel",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.eel.png"
+    },
+    "F_ODD_RARE_XL": {
+      "path": "assets/cooking/product3.fish.eel.png",
+      "name": "Sunspot Eel",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product3.fish.eel.png"
+    },
+    "F_GAS_COM_XL": {
+      "path": "assets/cooking/product4.fish.eel.png",
+      "name": "Cyclonic Eel",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.eel.png"
+    },
+    "F_DEEP_RARE_M1": {
+      "path": "assets/cooking/product.fish.medium.2.png",
+      "name": "Bloated Eel",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.medium.2.png"
+    },
+    "FOOD_F_MED1": {
+      "path": "assets/cooking/product.fish.tuna.png",
+      "name": "Edible Chum",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.tuna.png"
+    },
+    "F_ALL_COM_M2": {
+      "path": "assets/cooking/product.fish.medium.3.png",
+      "name": "Rockfin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.medium.3.png"
+    },
+    "F_TOX_RARE_M2": {
+      "path": "assets/cooking/product4.fish.default.png",
+      "name": "Toxic Stonefish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.default.png"
+    },
+    "F_RAD_COM_M2": {
+      "path": "assets/cooking/product.fish.medium.2.png",
+      "name": "Inverted Snapper",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.medium.2.png"
+    },
+    "F_RAD_EPIC_M1": {
+      "path": "assets/cooking/product.fish.big.3.png",
+      "name": "Immortal Flatfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.big.3.png"
+    },
+    "F_HOT_RARE_M2": {
+      "path": "assets/cooking/product.fish.medium.2.png",
+      "name": "Solar Roach",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.medium.2.png"
+    },
+    "F_COLD_RARE_M1": {
+      "path": "assets/cooking/product2.fish.medium.3.png",
+      "name": "Brineskipper",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.medium.3.png"
+    },
+    "F_LUSH_COM_M1": {
+      "path": "assets/cooking/product5.fish.medium.3.png",
+      "name": "Wandering Kelpfin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.medium.3.png"
+    },
+    "F_LUSH_RARE_M2": {
+      "path": "assets/cooking/product.fish.big.1.png",
+      "name": "Jungle Redfin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.big.1.png"
+    },
+    "F_DUST_COM_M2": {
+      "path": "assets/cooking/product.fish.medium.3.png",
+      "name": "Sweeperfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.medium.3.png"
+    },
+    "F_ODD_COM_M1": {
+      "path": "assets/cooking/product5.fish.small.2.png",
+      "name": "Murmurfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.small.2.png"
+    },
+    "F_DEEP_COM_M1": {
+      "path": "assets/cooking/product2.fish.big.1.png",
+      "name": "Silent Angler",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.big.1.png"
+    },
+    "FOOD_F_LARGE1": {
+      "path": "assets/cooking/product.fish.tuna.png",
+      "name": "Marine Steak",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.tuna.png"
+    },
+    "F_ALL_COM_L1": {
+      "path": "assets/cooking/product4.fish.xl.1.png",
+      "name": "Greenscale Bloater",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.xl.1.png"
+    },
+    "F_TOX_RARE_L1": {
+      "path": "assets/cooking/product.fish.big.1.png",
+      "name": "Venomtooth Wriggler",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.big.1.png"
+    },
+    "F_RAD_COM_L1": {
+      "path": "assets/cooking/product4.fish.big.1.png",
+      "name": "Glowing Catfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.big.1.png"
+    },
+    "F_HOT_RARE_L1": {
+      "path": "assets/cooking/product5.fish.ray.png",
+      "name": "Fumarole Gulper",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.ray.png"
+    },
+    "F_COLD_RARE_L1": {
+      "path": "assets/cooking/product2.fish.big.1.png",
+      "name": "Frozen Knifejaw",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.big.1.png"
+    },
+    "F_LUSH_COM_L1": {
+      "path": "assets/cooking/product.fish.big.2.png",
+      "name": "Flourishing Shalefish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.big.2.png"
+    },
+    "F_LUSH_LEG_L1": {
+      "path": "assets/cooking/product5.fish.big.1.png",
+      "name": "Reef Guardian",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.big.1.png"
+    },
+    "F_DUST_EPIC_L1": {
+      "path": "assets/cooking/product.fish.medium.2.png",
+      "name": "Ferrite Bowfin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.medium.2.png"
+    },
+    "F_ODD_RARE_L1": {
+      "path": "assets/cooking/product5.fish.medium.3.png",
+      "name": "Non-Euclidean Flatfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.medium.3.png"
+    },
+    "F_GAS_EPIC_L1": {
+      "path": "assets/cooking/product2.fish.octopus.png",
+      "name": "Tendrilla",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.octopus.png"
+    },
+    "F_DEEP_RARE_L1": {
+      "path": "assets/cooking/product5.fish.ray.png",
+      "name": "Shrieking Flatfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.ray.png"
+    },
+    "FOOD_F_XL1": {
+      "path": "assets/cooking/product.fish.tuna.png",
+      "name": "Fishy Slab",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.tuna.png"
+    },
+    "F_ALL_COM_XL": {
+      "path": "assets/cooking/product.fish.shark.png",
+      "name": "Stonescale Shark",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.shark.png"
+    },
+    "F_ALL_LEG_XL": {
+      "path": "assets/cooking/product.fish.xl.2.png",
+      "name": "The Lunker",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.2.png"
+    },
+    "F_TOX_LEG_XL": {
+      "path": "assets/cooking/product.fish.xl.1.png",
+      "name": "Translucent Gulper",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.1.png"
+    },
+    "F_RAD_LEG_XL": {
+      "path": "assets/cooking/product.fish.big.2.png",
+      "name": "Helix Sawfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.big.2.png"
+    },
+    "F_HOT_EPIC_XL": {
+      "path": "assets/cooking/product.fish.big.2.png",
+      "name": "Hellion Bass",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.big.2.png"
+    },
+    "F_COLD_EPIC_XL": {
+      "path": "assets/cooking/product2.fish.shark.png",
+      "name": "Black-Eyed Shark",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.shark.png"
+    },
+    "F_LUSH_LEG_XL": {
+      "path": "assets/cooking/product.fish.xl.1.png",
+      "name": "Blind Titancore",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.1.png"
+    },
+    "F_DUST_EPIC_XL": {
+      "path": "assets/cooking/product.fish.big.1.png",
+      "name": "Cave Prowler",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.big.1.png"
+    },
+    "F_GAS_LEG_XL": {
+      "path": "assets/cooking/product.fish.xl.1.png",
+      "name": "The Maw of Titan",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.1.png"
+    },
+    "FOOD_F_SMALL3": {
+      "path": "assets/cooking/product.fish.trout.png",
+      "name": "Pickled Fish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.trout.png"
+    },
+    "F_ALL_RARE_S1": {
+      "path": "assets/cooking/product.fish.big.2.png",
+      "name": "Needlefish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.big.2.png"
+    },
+    "F_RAD_COM_S1": {
+      "path": "assets/cooking/product.fish.medium.1.png",
+      "name": "Bulging Snapper",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.medium.1.png"
+    },
+    "F_RAD_RARE_S2": {
+      "path": "assets/cooking/product.fish.medium.3.png",
+      "name": "Nucleic Skipper",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.medium.3.png"
+    },
+    "F_HOT_RARE_S1": {
+      "path": "assets/cooking/product.fish.ray.png",
+      "name": "Lamptip Ray",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.ray.png"
+    },
+    "F_COLD_COM_S3": {
+      "path": "assets/cooking/product2.fish.medium.2.png",
+      "name": "Frostscale Trout",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.medium.2.png"
+    },
+    "F_LUSH_COM_S2": {
+      "path": "assets/cooking/product.fish.medium.1.png",
+      "name": "Warty Frogfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.medium.1.png"
+    },
+    "F_LUSH_EPIC_S1": {
+      "path": "assets/cooking/product.fish.default.png",
+      "name": "Wispscale Darter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.default.png"
+    },
+    "F_DUST_RARE_S1": {
+      "path": "assets/cooking/product.fish.medium.1.png",
+      "name": "Bladdersac",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.medium.1.png"
+    },
+    "F_ODD_COM_S2": {
+      "path": "assets/cooking/product5.fish.small.3.png",
+      "name": "Hexscale Minnow",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.small.3.png"
+    },
+    "F_DEEP_COM_S3": {
+      "path": "assets/cooking/product.fish.small.1.png",
+      "name": "Sac-fish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.small.1.png"
+    },
+    "F_DEEP_EPIC_S1": {
+      "path": "assets/cooking/product2.small.3.png",
+      "name": "Ghost Skipper",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.small.3.png"
+    },
+    "FOOD_F_STARFISH": {
+      "path": "assets/cooking/product.fish.octopus.png",
+      "name": "Delicate Legs",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.octopus.png"
+    },
+    "F_ALL_RARE_S2": {
+      "path": "assets/cooking/product.fish.starfish.png",
+      "name": "Spiny Starfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.starfish.png"
+    },
+    "F_TOX_RARE_S1": {
+      "path": "assets/cooking/product4.fish.starfish.png",
+      "name": "Caustic Urchin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.starfish.png"
+    },
+    "F_TOX_LEG_S1": {
+      "path": "assets/cooking/product4.fish.starfish.png",
+      "name": "Emeril Sunstar",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.starfish.png"
+    },
+    "F_DUST_RARE_S2": {
+      "path": "assets/cooking/product5.fish.starfish.png",
+      "name": "Shalebound Starfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.starfish.png"
+    },
+    "F_DUST_EPIC_S1": {
+      "path": "assets/cooking/product3.fish.starfish.png",
+      "name": "Golden Urchin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product3.fish.starfish.png"
+    },
+    "F_ODD_RARE_S1": {
+      "path": "assets/cooking/product2.fish.starfish.png",
+      "name": "Anemone Anomaly",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.starfish.png"
+    },
+    "F_GAS_RARE_S2": {
+      "path": "assets/cooking/product3.fish.starfish.png",
+      "name": "Pulp Urchin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product3.fish.starfish.png"
+    },
+    "F_DEEP_EPIC_L1": {
+      "path": "assets/cooking/product.fish.starfish.png",
+      "name": "Ocean's Star",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.starfish.png"
+    },
+    "FOOD_F_OCTOPUS": {
+      "path": "assets/cooking/product.fish.octopus.png",
+      "name": "Grilled Tentacle",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.octopus.png"
+    },
+    "F_ALL_RARE_M1": {
+      "path": "assets/cooking/product.fish.octopus.png",
+      "name": "Hypnotic Octopus",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.octopus.png"
+    },
+    "F_TOX_COM_L1": {
+      "path": "assets/cooking/product4.fish.octopus.png",
+      "name": "Green-Ring Octopus",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.octopus.png"
+    },
+    "F_HOT_EPIC_M1": {
+      "path": "assets/cooking/product5.fish.octopus.png",
+      "name": "Candelabra Octopus",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.octopus.png"
+    },
+    "F_GAS_EPIC_XL": {
+      "path": "assets/cooking/product.fish.xl.3.png",
+      "name": "Wrackjaw",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.3.png"
+    },
+    "F_DEEP_COM_XL": {
+      "path": "assets/cooking/product2.fish.octopus.png",
+      "name": "Bleached Octopus",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.octopus.png"
+    },
+    "FOOD_F_MED2": {
+      "path": "assets/cooking/product.fish.salmon.png",
+      "name": "Grilled Fillet",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.salmon.png"
+    },
+    "F_ALL_RARE_M2": {
+      "path": "assets/cooking/product.fish.medium.2.png",
+      "name": "Longjaw Snapper",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.medium.2.png"
+    },
+    "F_TOX_EPIC_M1": {
+      "path": "assets/cooking/product.fish.small.1.png",
+      "name": "Scorpionfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.small.1.png"
+    },
+    "F_RAD_RARE_M1": {
+      "path": "assets/cooking/product.fish.xl.2.png",
+      "name": "Twisted Gulper",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.2.png"
+    },
+    "F_RAD_LEG_M1": {
+      "path": "assets/cooking/product5.fish.ray.png",
+      "name": "Aberrant Duskfin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.ray.png"
+    },
+    "F_HOT_LEG_M1": {
+      "path": "assets/cooking/product5.fish.small.1.png",
+      "name": "Mirrorscale Skipper",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.small.1.png"
+    },
+    "F_COLD_RARE_M2": {
+      "path": "assets/cooking/product2.small.2.png",
+      "name": "Pale Snowtail",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.small.2.png"
+    },
+    "F_LUSH_COM_M2": {
+      "path": "assets/cooking/product.fish.big.3.png",
+      "name": "Clearwater Skipper",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.big.3.png"
+    },
+    "F_LUSH_EPIC_M1": {
+      "path": "assets/cooking/product5.fish.xl.3.png",
+      "name": "Deepwater Angler",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.xl.3.png"
+    },
+    "F_DUST_EPIC_M1": {
+      "path": "assets/cooking/product.fish.big.3.png",
+      "name": "Bewitching Candlefish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.big.3.png"
+    },
+    "F_ODD_COM_M2": {
+      "path": "assets/cooking/product5.fish.big.2.png",
+      "name": "Inverted Brainfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.big.2.png"
+    },
+    "FOOD_F_LARGE2": {
+      "path": "assets/cooking/product.fish.trout.png",
+      "name": "Brined Flesh",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.trout.png"
+    },
+    "F_ALL_RARE_L1": {
+      "path": "assets/cooking/product.fish.small.3.png",
+      "name": "Whispering Bonefish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.small.3.png"
+    },
+    "F_TOX_EPIC_L1": {
+      "path": "assets/cooking/product4.fish.xl.3.png",
+      "name": "Shrieking Venttail",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.xl.3.png"
+    },
+    "F_RAD_RARE_L1": {
+      "path": "assets/cooking/product.fish.big.2.png",
+      "name": "Radiant Sunfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.big.2.png"
+    },
+    "F_HOT_EPIC_L1": {
+      "path": "assets/cooking/product3.fish.shark.png",
+      "name": "Magma Shark",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product3.fish.shark.png"
+    },
+    "F_COLD_EPIC_L1": {
+      "path": "assets/cooking/product2.fish.ray.png",
+      "name": "Frostbite Ray",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.ray.png"
+    },
+    "F_LUSH_RARE_L1": {
+      "path": "assets/cooking/product.fish.shark.png",
+      "name": "Marrow Shark",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.shark.png"
+    },
+    "F_DUST_COM_L1": {
+      "path": "assets/cooking/product.fish.xl.3.png",
+      "name": "Twilight Cavefish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.3.png"
+    },
+    "F_DUST_LEG_L1": {
+      "path": "assets/cooking/product.fish.xl.2.png",
+      "name": "Ossified Deinosuchus",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.2.png"
+    },
+    "F_ODD_EPIC_L1": {
+      "path": "assets/cooking/product5.fish.big.3.png",
+      "name": "Giant Witchfin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.big.3.png"
+    },
+    "F_GAS_RARE_L1": {
+      "path": "assets/cooking/product.fish.xl.2.png",
+      "name": "Vapourfin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.2.png"
+    },
+    "FOOD_F_XL2": {
+      "path": "assets/cooking/product.fish.trout.png",
+      "name": "Whole Roast Fish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.trout.png"
+    },
+    "F_ALL_RARE_XL": {
+      "path": "assets/cooking/product.fish.ray.png",
+      "name": "Giant Ray",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.ray.png"
+    },
+    "F_TOX_COM_XL": {
+      "path": "assets/cooking/product.fish.medium.2.png",
+      "name": "Giant Whiskerfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.medium.2.png"
+    },
+    "F_RAD_COM_XL": {
+      "path": "assets/cooking/product.fish.xl.1.png",
+      "name": "Polyscale Bloater",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.1.png"
+    },
+    "F_HOT_COM_XL": {
+      "path": "assets/cooking/product.fish.xl.2.png",
+      "name": "Basalt-Tooth Bloater",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.2.png"
+    },
+    "F_HOT_LEG_XL": {
+      "path": "assets/cooking/product.fish.xl.3.png",
+      "name": "Ancient Irontail",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.3.png"
+    },
+    "F_LUSH_RARE_XL": {
+      "path": "assets/cooking/product.fish.ray.png",
+      "name": "Giant Sunray",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.ray.png"
+    },
+    "F_DUST_COM_XL": {
+      "path": "assets/cooking/product.fish.big.1.png",
+      "name": "Greater Rocktooth",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.big.1.png"
+    },
+    "F_DUST_LEG_XL": {
+      "path": "assets/cooking/product5.fish.shark.png",
+      "name": "Megalodon",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.shark.png"
+    },
+    "F_DEEP_EPIC_XL": {
+      "path": "assets/cooking/product.fish.xl.1.png",
+      "name": "Colossal Jawfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.1.png"
+    },
+    "FOOD_F_CLAM": {
+      "path": "assets/cooking/product.fish.scallop.png",
+      "name": "Mollusc Flesh",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.scallop.png"
+    },
+    "F_ALL_EPIC_S1": {
+      "path": "assets/cooking/product.fish.clam.png",
+      "name": "Shrieking Oyster",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.clam.png"
+    },
+    "F_TOX_RARE_S2": {
+      "path": "assets/cooking/product4.fish.clam.png",
+      "name": "Weltscale Clam",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.clam.png"
+    },
+    "F_RAD_RARE_S1": {
+      "path": "assets/cooking/product.fish.clam.png",
+      "name": "Ionised Clam",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.clam.png"
+    },
+    "F_HOT_EPIC_S1": {
+      "path": "assets/cooking/product.fish.clam.png",
+      "name": "Cadmium Pearlcase",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.clam.png"
+    },
+    "F_COLD_COM_S2": {
+      "path": "assets/cooking/product2.fish.clam.png",
+      "name": "Frozen Whelk",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.clam.png"
+    },
+    "F_COLD_RARE_S1": {
+      "path": "assets/cooking/product2.fish.clam.png",
+      "name": "Frostshell Clam",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.clam.png"
+    },
+    "F_ODD_RARE_S2": {
+      "path": "assets/cooking/product5.fish.clam.png",
+      "name": "Erased Clam",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.clam.png"
+    },
+    "F_GAS_COM_S2": {
+      "path": "assets/cooking/product.fish.clam.png",
+      "name": "Pressurised Clam",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.clam.png"
+    },
+    "F_GAS_COM_S3": {
+      "path": "assets/cooking/product5.fish.clam.png",
+      "name": "Inert Whelk",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.clam.png"
+    },
+    "F_GAS_RARE_S1": {
+      "path": "assets/cooking/product5.fish.clam.png",
+      "name": "Ionised Oyster",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.clam.png"
+    },
+    "F_GAS_LEG_M1": {
+      "path": "assets/cooking/product2.fish.clam.png",
+      "name": "Mother-of-Quicksilver",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.clam.png"
+    },
+    "F_GAS_LEG_L1": {
+      "path": "assets/cooking/product4.fish.clam.png",
+      "name": "Hyper-cockle",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.clam.png"
+    },
+    "FOOD_F_TURTLE": {
+      "path": "assets/cooking/product.fish.scallop.png",
+      "name": "Boiled Flipper",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.scallop.png"
+    },
+    "F_ALL_EPIC_M1": {
+      "path": "assets/cooking/product.fish.turtle.png",
+      "name": "Moon Turtle",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.turtle.png"
+    },
+    "F_COLD_EPIC_M1": {
+      "path": "assets/cooking/product2.fish.turtle.png",
+      "name": "Iceshell Turtle",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.turtle.png"
+    },
+    "F_DEEP_COM_L1": {
+      "path": "assets/cooking/product4.fish.turtle.png",
+      "name": "Wandering Shellback",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.turtle.png"
+    },
+    "FOOD_F_PRAWN": {
+      "path": "assets/cooking/product.fish.prawn.png",
+      "name": "Shell Puree",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.prawn.png"
+    },
+    "F_ALL_EPIC_L1": {
+      "path": "assets/cooking/product.fish.prawn.png",
+      "name": "Colossal Shrimp",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.prawn.png"
+    },
+    "F_RAD_EPIC_S1": {
+      "path": "assets/cooking/product5.fish.prawn.png",
+      "name": "Geno-Prawn",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.prawn.png"
+    },
+    "F_HOT_COM_M1": {
+      "path": "assets/cooking/product.fish.prawn.png",
+      "name": "Boiled Snapper",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.prawn.png"
+    },
+    "F_COLD_RARE_S2": {
+      "path": "assets/cooking/product2.fish.prawn.png",
+      "name": "Frozen Isopod",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.prawn.png"
+    },
+    "F_GAS_COM_M1": {
+      "path": "assets/cooking/product.fish.prawn.png",
+      "name": "Jelly Prawn",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.prawn.png"
+    },
+    "F_GAS_RARE_M1": {
+      "path": "assets/cooking/product5.fish.prawn.png",
+      "name": "Metallic Shrimp",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.prawn.png"
+    },
+    "F_DEEP_RARE_M2": {
+      "path": "assets/cooking/product.fish.coral.3.png",
+      "name": "Luminescent Coral",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.coral.3.png"
+    },
+    "FOOD_F_XL3": {
+      "path": "assets/cooking/product.fish.salmon.png",
+      "name": "Seafood 'Feast'",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.salmon.png"
+    },
+    "F_ALL_EPIC_XL": {
+      "path": "assets/cooking/product.fish.big.3.png",
+      "name": "Thunderfin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.big.3.png"
+    },
+    "F_TOX_RARE_XL": {
+      "path": "assets/cooking/product4.fish.ray.png",
+      "name": "Bitterscale Ray",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.ray.png"
+    },
+    "F_RAD_RARE_XL": {
+      "path": "assets/cooking/product5.fish.shark.png",
+      "name": "Boiling Shark",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.shark.png"
+    },
+    "F_HOT_RARE_XL": {
+      "path": "assets/cooking/product.fish.xl.1.png",
+      "name": "Colossal Meltfin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.1.png"
+    },
+    "F_COLD_RARE_XL": {
+      "path": "assets/cooking/product2.fish.xl.1.png",
+      "name": "Giant Icefin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.xl.1.png"
+    },
+    "F_LUSH_EPIC_XL": {
+      "path": "assets/cooking/product4.fish.xl.1.png",
+      "name": "Colossal Mossback",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.xl.1.png"
+    },
+    "F_DUST_RARE_XL": {
+      "path": "assets/cooking/product.fish.big.2.png",
+      "name": "Saltscale Bloater",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.big.2.png"
+    },
+    "F_ODD_LEG_XL": {
+      "path": "assets/cooking/product5.fish.xl.1.png",
+      "name": "Many-Mouthed Lunker",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.xl.1.png"
+    },
+    "F_GAS_RARE_XL": {
+      "path": "assets/cooking/product2.fish.xl.1.png",
+      "name": "Crystalfin Shark",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.xl.1.png"
+    },
+    "F_DEEP_LEG_XL": {
+      "path": "assets/cooking/product.leviathanfish.png",
+      "name": "Leviathan Spawn",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.leviathanfish.png"
+    },
+    "FOOD_F_SNAIL": {
+      "path": "assets/cooking/product.fish.scallop.png",
+      "name": "Snail Fillet",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.scallop.png"
+    },
+    "F_ALL_LEG_S1": {
+      "path": "assets/cooking/product.fish.snail.png",
+      "name": "Singing Sea-Snail",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.snail.png"
+    },
+    "F_HOT_COM_S3": {
+      "path": "assets/cooking/product5.fish.snail.png",
+      "name": "Ash Snail",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.snail.png"
+    },
+    "F_COLD_LEG_XL": {
+      "path": "assets/cooking/product2.fish.snail.png",
+      "name": "Nautilia",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.snail.png"
+    },
+    "F_ODD_COM_XL": {
+      "path": "assets/cooking/product4.fish.snail.png",
+      "name": "Breach Crawler",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.snail.png"
+    },
+    "F_GAS_EPIC_S1": {
+      "path": "assets/cooking/product.fish.snail.png",
+      "name": "Evaporating Snail",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.snail.png"
+    },
+    "FOOD_F_JELLY": {
+      "path": "assets/cooking/product.fish.squid.png",
+      "name": "Jellymeat",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.squid.png"
+    },
+    "F_ALL_LEG_M1": {
+      "path": "assets/cooking/product3.fish.jelly.png",
+      "name": "Golden Jellyfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product3.fish.jelly.png"
+    },
+    "F_TOX_COM_M2": {
+      "path": "assets/cooking/product4.fish.jelly.png",
+      "name": "Toxic Jelly",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.jelly.png"
+    },
+    "F_RAD_LEG_S1": {
+      "path": "assets/cooking/product.fish.jelly.png",
+      "name": "Many-Eyed Jellyfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.jelly.png"
+    },
+    "F_HOT_LEG_L1": {
+      "path": "assets/cooking/product5.fish.jelly.png",
+      "name": "Jelly of the Veil",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.jelly.png"
+    },
+    "F_COLD_LEG_S1": {
+      "path": "assets/cooking/product2.fish.jelly.png",
+      "name": "Crystal Jelly",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.jelly.png"
+    },
+    "F_LUSH_RARE_S2": {
+      "path": "assets/cooking/product.fish.jelly.png",
+      "name": "Mellifluous Jellyfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.jelly.png"
+    },
+    "F_LUSH_LEG_S1": {
+      "path": "assets/cooking/product5.fish.jelly.png",
+      "name": "Glass Angel",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.jelly.png"
+    },
+    "F_ODD_COM_S3": {
+      "path": "assets/cooking/product5.fish.jelly.png",
+      "name": "Aurora Jellyfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.jelly.png"
+    },
+    "F_ODD_LEG_L1": {
+      "path": "assets/cooking/product5.fish.jelly.png",
+      "name": "Child of Helios",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.jelly.png"
+    },
+    "F_GAS_RARE_M2": {
+      "path": "assets/cooking/product5.fish.jelly.png",
+      "name": "Mineralised Jellyfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.jelly.png"
+    },
+    "F_DEEP_COM_M2": {
+      "path": "assets/cooking/product.fish.jelly.png",
+      "name": "Whispering Jelly",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.jelly.png"
+    },
+    "FOOD_F_LARGE3": {
+      "path": "assets/cooking/product.fish.salmon.png",
+      "name": "Seared Fillet",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.salmon.png"
+    },
+    "F_ALL_LEG_L1": {
+      "path": "assets/cooking/product.fish.xl.3.png",
+      "name": "Dragonfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.3.png"
+    },
+    "F_TOX_LEG_L1": {
+      "path": "assets/cooking/product.fish.xl.2.png",
+      "name": "Bleached Bonefish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.2.png"
+    },
+    "F_HOT_COM_L1": {
+      "path": "assets/cooking/product5.fish.medium.1.png",
+      "name": "Sulphurfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.medium.1.png"
+    },
+    "F_COLD_COM_L1": {
+      "path": "assets/cooking/product2.fish.medium.1.png",
+      "name": "Glacier Carp",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.medium.1.png"
+    },
+    "F_COLD_LEG_L1": {
+      "path": "assets/cooking/product2.fish.xl.3.png",
+      "name": "Iceblood Gulper",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.xl.3.png"
+    },
+    "F_LUSH_EPIC_L1": {
+      "path": "assets/cooking/product.fish.xl.2.png",
+      "name": "Sunspine Basker",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.2.png"
+    },
+    "F_DUST_RARE_L1": {
+      "path": "assets/cooking/product5.fish.ray.png",
+      "name": "Mantis Ray",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.ray.png"
+    },
+    "F_ODD_COM_L1": {
+      "path": "assets/cooking/product5.fish.big.1.png",
+      "name": "Shimmering Lashtail",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.big.1.png"
+    },
+    "F_DEEP_LEG_L1": {
+      "path": "assets/cooking/product5.fish.xl.2.png",
+      "name": "The Hunter Below",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.xl.2.png"
+    },
+    "FOOD_F_WORM": {
+      "path": "assets/cooking/product.fish.octopus.png",
+      "name": "Poached Worms",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.octopus.png"
+    },
+    "F_TOX_COM_S1": {
+      "path": "assets/cooking/product4.fish.worm.png",
+      "name": "Bileworm",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.worm.png"
+    },
+    "F_TOX_COM_S3": {
+      "path": "assets/cooking/product.fish.worm.png",
+      "name": "Sea Cucumber",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.worm.png"
+    },
+    "F_DUST_COM_S3": {
+      "path": "assets/cooking/product.fish.worm.png",
+      "name": "Briny Worm",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.worm.png"
+    },
+    "F_ODD_RARE_M1": {
+      "path": "assets/cooking/product5.fish.worm.png",
+      "name": "Writhing Brainworm",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.worm.png"
+    },
+    "F_ODD_EPIC_S1": {
+      "path": "assets/cooking/product5.fish.worm.png",
+      "name": "All-Seeing Worm",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.worm.png"
+    },
+    "F_GAS_COM_S1": {
+      "path": "assets/cooking/product.fish.worm.png",
+      "name": "Gas-Worm",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.worm.png"
+    },
+    "F_GAS_COM_M2": {
+      "path": "assets/cooking/product4.fish.worm.png",
+      "name": "Encrusted Worm",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.worm.png"
+    },
+    "F_GAS_LEG_S1": {
+      "path": "assets/cooking/product5.fish.worm.png",
+      "name": "Mandelbrot Worm",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.worm.png"
+    },
+    "F_DEEP_RARE_S2": {
+      "path": "assets/cooking/product4.fish.worm.png",
+      "name": "Marine Glowworm",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.worm.png"
+    },
+    "F_DEEP_LEG_M1": {
+      "path": "assets/cooking/product4.fish.eel.png",
+      "name": "Brain Eel",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.eel.png"
+    },
+    "FOOD_F_MED3": {
+      "path": "assets/cooking/product.fish.salmon.png",
+      "name": "Smoked Fish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.salmon.png"
+    },
+    "F_TOX_RARE_M1": {
+      "path": "assets/cooking/product.fish.medium.1.png",
+      "name": "Acidic Pufferfish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.medium.1.png"
+    },
+    "F_RAD_COM_M1": {
+      "path": "assets/cooking/product.fish.default.png",
+      "name": "Forktailed Splicer",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.default.png"
+    },
+    "F_RAD_RARE_M2": {
+      "path": "assets/cooking/product.fish.xl.3.png",
+      "name": "Depleted Razorjaw",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.3.png"
+    },
+    "F_HOT_COM_M2": {
+      "path": "assets/cooking/product.fish.small.1.png",
+      "name": "Lavascale Trout",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.small.1.png"
+    },
+    "F_COLD_COM_M2": {
+      "path": "assets/cooking/product2.fish.big.3.png",
+      "name": "Thawed Diamondfin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.big.3.png"
+    },
+    "F_COLD_LEG_M1": {
+      "path": "assets/cooking/product2.fish.big.2.png",
+      "name": "Ghostfin",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product2.fish.big.2.png"
+    },
+    "F_LUSH_RARE_M1": {
+      "path": "assets/cooking/product.fish.medium.2.png",
+      "name": "Blue Ribbontail",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.medium.2.png"
+    },
+    "F_DUST_COM_M1": {
+      "path": "assets/cooking/product.fish.medium.2.png",
+      "name": "Chalkscale Nibber",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.medium.2.png"
+    },
+    "F_DUST_LEG_M1": {
+      "path": "assets/cooking/product.fish.xl.3.png",
+      "name": "Titanworm Larva",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.xl.3.png"
+    },
+    "F_ODD_RARE_M2": {
+      "path": "assets/cooking/product5.fish.medium.2.png",
+      "name": "Stargazer",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.medium.2.png"
+    },
+    "FOOD_F_SQUID": {
+      "path": "assets/cooking/product.fish.squid.png",
+      "name": "Steamed Rubber",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.squid.png"
+    },
+    "F_TOX_LEG_M1": {
+      "path": "assets/cooking/product5.fish.squid.png",
+      "name": "Vampire Squid",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.squid.png"
+    },
+    "F_RAD_EPIC_XL": {
+      "path": "assets/cooking/product.fish.squid.png",
+      "name": "Alpha Squid",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.squid.png"
+    },
+    "F_RAD_LEG_L1": {
+      "path": "assets/cooking/product4.fish.squid.png",
+      "name": "Gamma Squid",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.squid.png"
+    },
+    "F_ODD_EPIC_XL": {
+      "path": "assets/cooking/product4.fish.squid.png",
+      "name": "Void Squid",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product4.fish.squid.png"
+    },
+    "F_GAS_COM_L1": {
+      "path": "assets/cooking/product.fish.squid.png",
+      "name": "Plasmatic Squid",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.squid.png"
+    },
+    "F_DEEP_RARE_XL": {
+      "path": "assets/cooking/product5.fish.squid.png",
+      "name": "Colossal Squid",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product5.fish.squid.png"
+    },
+    "FOOD_F_S15": {
+      "path": "assets/cooking/product.fish.octopus.png",
+      "name": "Haunted Fillet",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.octopus.png"
+    },
+    "S15_FISH": {
+      "path": "assets/cooking/product.fish.octopus.png",
+      "name": "The Angler",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.octopus.png"
+    },
+    "FOOD_F_STEW": {
+      "path": "assets/cooking/product.refined.vegstew.png",
+      "name": "Seafood Stew",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.vegstew.png"
+    },
+    "ANY_FISH_COOKED": {
+      "path": "assets/cooking/product.fish.default.png",
+      "name": "Any Cooked Seafood",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.default.png"
+    },
+    "FOOD_F_STEW2": {
+      "path": "assets/cooking/product.fish.scallop.png",
+      "name": "Sea's Bounty",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.scallop.png"
+    },
+    "FOOD_F_MIX": {
+      "path": "assets/cooking/product.fish.scallop.png",
+      "name": "Salty Platter",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.scallop.png"
+    },
+    "ANY_FISH_RAW": {
+      "path": "assets/cooking/product.fish.default.png",
+      "name": "Any Raw Seafood",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.default.png"
+    },
+    "FOOD_F_PIE": {
+      "path": "assets/cooking/product.refined.tart.png",
+      "name": "Marine Pie",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.tart.png"
+    },
+    "FOOD_F_RICE": {
+      "path": "assets/cooking/product.fish.trout.png",
+      "name": "Fish and Rice",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.trout.png"
+    },
+    "FOOD_F_CHIPS": {
+      "path": "assets/cooking/product.fish.trout.png",
+      "name": "Starched Fish",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.trout.png"
+    },
+    "FOOD_F_EGGS": {
+      "path": "assets/cooking/product.fish.scallop.png",
+      "name": "Assorted Roe",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.scallop.png"
+    },
+    "F_DEEP_COM_S1": {
+      "path": "assets/cooking/product.fish.small.2.png",
+      "name": "De-pressurised Blob",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/fish/product.fish.small.2.png"
+    },
+    "FOOD_F_JEELS": {
+      "path": "assets/cooking/product.fish.octopus.png",
+      "name": "Jellied Eel",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.fish.octopus.png"
+    },
+    "FOOD_R_FOSSIL": {
+      "path": "assets/cooking/product.refined.bones.png",
+      "name": "Softened Marrow",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.refined.bones.png"
+    },
+    "FOOD_STEW_FOSS": {
+      "path": "assets/cooking/product.bone.soup.png",
+      "name": "Bone Broth",
+      "source": "TEXTURES/UI/FRONTEND/ICONS/cookingproducts/product.bone.soup.png"
+    }
+  }
+}

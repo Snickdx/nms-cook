@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+
+  <title>NMS Cook — Planets &amp; Recipes Companion</title>
+  <meta name="description" content="No Man's Sky companion for planet scanner labels, raw cooking ingredients, and Nutrient Processor meal recipes." />
+  <meta name="application-name" content="NMS Cook" />
+  <meta name="author" content="NMS Cook" />
+  <meta name="keywords" content="No Man's Sky, NMS, cooking, Nutrient Processor, planets, ingredients, recipes, PWA" />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <meta name="color-scheme" content="dark" />
+  <meta name="theme-color" content="#0b1419" media="(prefers-color-scheme: dark)" />
+  <meta name="theme-color" content="#0b1419" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#0b1419" />
+  <meta name="msapplication-TileColor" content="#0b1419" />
+  <meta name="msapplication-navbutton-color" content="#0b1419" />
+  <meta name="msapplication-TileImage" content="icons/icon-192.png" />
+  <meta name="msapplication-config" content="browserconfig.xml" />
+
+  <!-- PWA / installability -->
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="NMS Cook" />
+  <meta name="format-detection" content="telephone=no" />
+  <meta name="google" content="notranslate" />
+
+  <!-- Open Graph / social -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="NMS Cook" />
+  <meta property="og:title" content="NMS Cook — Planets &amp; Recipes Companion" />
+  <meta property="og:description" content="Lookup planet labels, raw cooking ingredients, and Nutrient Processor recipes for No Man's Sky." />
+  <meta property="og:url" content="https://snickdx.github.io/nms-cook/" />
+  <meta property="og:image" content="https://snickdx.github.io/nms-cook/screenshots/wide.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:alt" content="NMS Cook app screenshot" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="NMS Cook — Planets &amp; Recipes Companion" />
+  <meta name="twitter:description" content="Planet labels, cooking ingredients, and meal recipes for No Man's Sky." />
+  <meta name="twitter:image" content="https://snickdx.github.io/nms-cook/screenshots/wide.png" />
+
+  <link rel="manifest" href="manifest.json" />
+  <link rel="canonical" href="https://snickdx.github.io/nms-cook/" />
+
+  <!-- Icons / favicon -->
+  <link rel="icon" href="icons/favicon.ico" sizes="any" />
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16.png" />
+  <link rel="icon" type="image/svg+xml" href="icons/icon.svg" />
+  <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png" />
+  <link rel="mask-icon" href="icons/icon.svg" color="#2ec4b0" />
+  <link rel="shortcut icon" href="icons/favicon.ico" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="shell" id="app">
+    <header class="topbar">
+      <button type="button" class="nav-toggle" id="navToggle" aria-controls="sideNav" aria-expanded="false" aria-label="Open navigation">
+        <span aria-hidden="true"></span>
+      </button>
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span class="brand-name">NMS Cook</span>
+      </div>
+      <p class="brand-meta" id="dataMeta">Loading taxonomy…</p>
+      <button type="button" class="install-btn" id="installBtn" hidden>Install</button>
+    </header>
+
+    <div class="shell-body">
+      <div class="nav-backdrop" id="navBackdrop" hidden></div>
+
+      <nav class="sidenav" id="sideNav" aria-label="App sections">
+        <p class="sidenav-label">Lookup</p>
+        <button type="button" class="nav-item is-active" id="tab-planets" aria-current="page" data-tab="planets">
+          <span class="nav-item-title">Planets</span>
+          <span class="nav-item-sub">→ Ingredients</span>
+        </button>
+        <button type="button" class="nav-item" id="tab-ingredient" data-tab="ingredient">
+          <span class="nav-item-title">Ingredient</span>
+          <span class="nav-item-sub">→ Planets</span>
+        </button>
+        <p class="sidenav-label">Cooking</p>
+        <button type="button" class="nav-item" id="tab-recipes" data-tab="recipes">
+          <span class="nav-item-title">Recipes</span>
+          <span class="nav-item-sub">Meals &amp; stages</span>
+        </button>
+        <p class="sidenav-label">Guides</p>
+        <button type="button" class="nav-item" id="tab-milk" data-tab="milk">
+          <span class="nav-item-title">Milk types</span>
+          <span class="nav-item-sub">Fauna &amp; harvest</span>
+        </button>
+      </nav>
+
+      <div class="content">
+        <main class="workspace" id="workspace">
+          <aside class="pane picker" id="pickerPane">
+            <div class="pane-controls pane-controls-stack pane-controls-compact" id="pickerPlanetControls" hidden>
+              <div class="pane-controls-row">
+                <label class="field grow field-inline">
+                  <input type="search" id="labelFilter" placeholder="Type a scanner label…" autocomplete="off" aria-label="Filter labels" />
+                </label>
+                <div class="control-actions" id="labelActions">
+                  <button type="button" class="btn ghost" id="clearLabels">Clear</button>
+                </div>
+              </div>
+              <div class="pill-row" id="selectedPills" hidden aria-label="Selected labels"></div>
+            </div>
+            <div class="pane-controls pane-controls-stack pane-controls-compact" id="pickerIngredientControls" hidden>
+              <div class="pane-controls-row">
+                <label class="field grow field-inline">
+                  <input type="search" id="ingredientSearch" list="ingredientList" placeholder="Search planet ingredients…" autocomplete="off" aria-label="Search ingredients" />
+                  <datalist id="ingredientList"></datalist>
+                </label>
+                <div class="control-actions">
+                  <button type="button" class="btn ghost" id="clearIngredient">Clear</button>
+                </div>
+              </div>
+              <div class="pane-controls-row">
+                <label class="field grow field-inline">
+                  <select id="ingredientCategoryFilter" aria-label="Filter by category">
+                    <option value="">All categories</option>
+                    <option value="planet">Planet forage</option>
+                    <option value="fauna">Fauna byproducts</option>
+                    <option value="cooking">Cooking materials</option>
+                    <option value="substance">Substances</option>
+                  </select>
+                </label>
+                <label class="field field-inline field-sort">
+                  <select id="ingredientSort" aria-label="Sort ingredients">
+                    <option value="name">Name A–Z</option>
+                    <option value="meals-desc">Meals ↓</option>
+                  </select>
+                </label>
+              </div>
+              <label class="switch-row" title="Show Nutrient Processor materials beyond planet forage">
+                <input type="checkbox" id="includeMaterials" role="switch" />
+                <span class="switch-track" aria-hidden="true"></span>
+                <span class="switch-text">Include materials</span>
+              </label>
+            </div>
+            <div class="pane-controls pane-controls-stack pane-controls-compact" id="pickerRecipeControls" hidden>
+              <div class="pane-controls-row">
+                <label class="field grow field-inline">
+                  <input type="search" id="recipeFilter" placeholder="Search dishes…" autocomplete="off" aria-label="Search dishes" />
+                </label>
+                <div class="control-actions" id="recipeActions">
+                  <button type="button" class="btn ghost" id="clearRecipeFilter">Clear</button>
+                </div>
+              </div>
+              <div class="pane-controls-row">
+                <label class="field grow field-inline">
+                  <select id="recipeEffectFilter" aria-label="Filter by effect">
+                    <option value="">All effects</option>
+                  </select>
+                </label>
+                <label class="field field-inline field-sort">
+                  <select id="recipeSort" aria-label="Sort meals">
+                    <option value="bonus-desc">Bonus ↓</option>
+                    <option value="bonus-asc">Bonus ↑</option>
+                    <option value="name">Name A–Z</option>
+                  </select>
+                </label>
+              </div>
+              <div class="pane-controls-row recipe-switch-row">
+                <label class="switch-row switch-mode" title="Group dishes by consume effect or Nutrient Ingestor effect">
+                  <span class="switch-text" data-mode-side="consume">Consume</span>
+                  <input type="checkbox" id="recipeEffectMode" role="switch" aria-label="Effect category: consume or ingestor" />
+                  <span class="switch-track" aria-hidden="true"></span>
+                  <span class="switch-text" data-mode-side="ingestor">Ingestor</span>
+                </label>
+                <label class="switch-row" title="Only list meals whose raw/root ingredients you marked as owned — cooked intermediates are not required">
+                  <input type="checkbox" id="recipeMakeableOnly" role="switch" />
+                  <span class="switch-track" aria-hidden="true"></span>
+                  <span class="switch-text">Makeable</span>
+                </label>
+              </div>
+            </div>
+            <div class="pane-scroll" id="labelPicker"></div>
+          </aside>
+
+          <section class="pane results" id="resultsPane">
+            <div class="pane-scroll" id="results"></div>
+          </section>
+
+          <aside class="pane detail" id="detailPane" hidden>
+            <div class="pane-controls detail-controls">
+              <div class="detail-head-left">
+                <p class="detail-pane-label">Material</p>
+                <label class="have-switch have-switch-labeled" id="detailOwnSwitch" title="Mark as in stock">
+                  <input type="checkbox" id="detailOwnInput" role="switch" aria-label="In stock" />
+                  <span class="have-track" aria-hidden="true"></span>
+                  <span class="switch-text">In stock</span>
+                </label>
+              </div>
+              <button type="button" class="btn ghost" id="closePreview">Close</button>
+            </div>
+            <div class="pane-scroll detail-preview" id="detailPreview"></div>
+          </aside>
+        </main>
+      </div>
+    </div>
+  </div>
+
+  <script src="vendor/dagre.min.js"></script>
+  <script src="app.js" type="module"></script>
+</body>
+</html>

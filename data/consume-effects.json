@@ -1,0 +1,2827 @@
+{
+  "FOOD_P_POOP": {
+    "name": "Wild Yeast",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "1 Words Translated 3 Min"
+  },
+  "FOOD_P_STELLAR": {
+    "name": "Silicon Egg",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "16% Hazard Protection Battery 4 Min"
+  },
+  "FOOD_R_CHOC": {
+    "name": "Bittersweet Cocoa",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "23% Hazard Protection Battery 7 Min"
+  },
+  "FOOD_P_LUSHWILD": {
+    "name": "Impulse Beans",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "23% Life Support Tanks 2:30 Min"
+  },
+  "FOOD_J_HOT": {
+    "name": "Fire Water",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "50% Heat Resistance 7 Min"
+  },
+  "FOOD_P_HOTWILD": {
+    "name": "Fireberry",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "24% Heat Resistance 2:30 Min"
+  },
+  "FOOD_R_VEG": {
+    "name": "Steamed Vegetables",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "23% Shield Strength 5 Min"
+  },
+  "FOOD_P_COLDWILD": {
+    "name": "Frozen Tubers",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "22% Cold Resistance 2:30 Min"
+  },
+  "FOOD_P_TOXWILD": {
+    "name": "Jade Peas",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "27% Toxic Resistance 2:30 Min"
+  },
+  "FOOD_P_GLITCH": {
+    "name": "Hexaberry",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "15% Hazard Protection Battery 3:30 Min"
+  },
+  "FOOD_P_HOTFARM": {
+    "name": "Solartillo",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "25% Heat Resistance 3 Min"
+  },
+  "FOOD_P_TOXFARM": {
+    "name": "Non-Toxic Mushroom",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "29% Toxic Resistance 3 Min"
+  },
+  "FOOD_P_RADFARM": {
+    "name": "Sievert Beans",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "30% Radiation Resistance 3 Min"
+  },
+  "FOOD_P_CAVE": {
+    "name": "Marrow Flesh",
+    "consumeEffect": "10% Hazard Protection",
+    "ingestEffect": "14% Hazard Protection Battery 3 Min"
+  },
+  "FOOD_V_MOLE": {
+    "name": "Foraged Mushrooms",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "16% Sprint Distance 2 Min"
+  },
+  "FOOD_R_FLOUR": {
+    "name": "Refined Flour",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "108% Sprint Distance 18 Min"
+  },
+  "FOOD_P_ALL1": {
+    "name": "Heptaploid Wheat",
+    "consumeEffect": "10% Hazard Protection",
+    "ingestEffect": "12% Hazard Protection Battery 2 Min"
+  },
+  "FOOD_P_COLDFARM": {
+    "name": "Glass Grains",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "28% Cold Resistance 3 Min"
+  },
+  "FOOD_P_WATER": {
+    "name": "Kelp Rice",
+    "consumeEffect": "10% Hazard Protection",
+    "ingestEffect": "36% Breathing Efficiency 3 Min"
+  },
+  "FOOD_R_SUGAR": {
+    "name": "Processed Sugar",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "37% Solar Panel Power 5 Min"
+  },
+  "FOOD_P_ALL2": {
+    "name": "Sweetroot",
+    "consumeEffect": "10% Hazard Protection",
+    "ingestEffect": "12% Hazard Protection Battery 2 Min"
+  },
+  "FOOD_P_RADWILD": {
+    "name": "Grahberry",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "23% Radiation Resistance 2:30 Min"
+  },
+  "FOOD_P_DUSTFARM": {
+    "name": "Cactus Nectar",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "34% Cold Resistance 3 Min"
+  },
+  "FOOD_J_ALL3": {
+    "name": "Root Juice",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "50% Solar Panel Power 6 Min"
+  },
+  "FOOD_P_ALL3": {
+    "name": "Pulpy Roots",
+    "consumeEffect": "10% Hazard Protection",
+    "ingestEffect": "12% Hazard Protection Battery 2 Min"
+  },
+  "FOOD_J_DUST": {
+    "name": "Refreshing Drink",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "79% Life Support Tanks 7 Min"
+  },
+  "FOOD_P_DUSTWILD": {
+    "name": "Aloe Flesh",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "24% Heat Resistance 2:30 Min"
+  },
+  "FOOD_P_LUSHFARM": {
+    "name": "Pilgrimberry",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "29% Life Support Tanks 3 Min"
+  },
+  "FOOD_P_DEATH": {
+    "name": "Meat Flakes",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "14% Hazard Protection Battery 3 Min"
+  },
+  "FOOD_R_EGGS": {
+    "name": "Baked Eggs",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "42% Life Support Tanks 4 Min"
+  },
+  "FIENDCORE": {
+    "name": "Larval Core",
+    "consumeEffect": "n/a",
+    "ingestEffect": "-3% Solar Panel Power 6 Sec"
+  },
+  "FOOD_V_EGG": {
+    "name": "Creature Egg",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "13% Sprint Distance 1:30 Min"
+  },
+  "FOOD_V_STRIDER": {
+    "name": "Tall Eggs",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "16% Sprint Distance 2 Min"
+  },
+  "FOOD_V_DIPLO": {
+    "name": "Giant Egg",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "15% Sprint Distance 2 Min"
+  },
+  "FOOD_R_MERINGUE": {
+    "name": "Delicate Meringue",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "9% Sprint Recovery Time 7 Min"
+  },
+  "FOOD_R_GCREAM": {
+    "name": "Proto-Cream",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "41% Sprint Distance 6 Min"
+  },
+  "FOOD_V_GEK": {
+    "name": "Warm Proto-Milk",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "16% Sprint Distance 2 Min"
+  },
+  "FOOD_V_FLYER": {
+    "name": "Craw Milk",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "3% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_R_CREAM": {
+    "name": "Cream",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "34% Sprint Distance 5 Min"
+  },
+  "FOOD_V_COW": {
+    "name": "Fresh Milk",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "16% Sprint Distance 2 Min"
+  },
+  "FOOD_V_MILK": {
+    "name": "Wild Milk",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "11% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_R_HONEY": {
+    "name": "Synthetic Honey",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "37% Solar Panel Power 5 Min"
+  },
+  "FOOD_V_PCAT": {
+    "name": "Syrupy Nectar",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "16% Sprint Distance 2 Min"
+  },
+  "FOOD_R_BUTTER": {
+    "name": "Churned Butter",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "189% Jetpack Tanks 5 Min"
+  },
+  "FOOD_R_GBUTTER": {
+    "name": "Proto-Butter",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "227% Jetpack Tanks 6 Min"
+  },
+  "FOOD_R_OIL": {
+    "name": "Clarified Oil",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "207% Jetpack Boost"
+  },
+  "FOOD_R_BBUTTER": {
+    "name": "Bone Butter",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "31% Shield Strength 7 Min"
+  },
+  "FOOD_R_GOIL": {
+    "name": "Proto-Oil",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "228% Jetpack Tanks 6 Min"
+  },
+  "FOOD_R_FCUSTARD": {
+    "name": "Salty Custard",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "14% Sprint Recovery Time 10 Min"
+  },
+  "FOOD_R_MCUSTARD": {
+    "name": "Monstrous Custard",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "7% Sprint Recovery Time 10 Min"
+  },
+  "FOOD_R_CUSTARD": {
+    "name": "Viscous Custard",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "6% Sprint Recovery Time 7 Min"
+  },
+  "FOOD_R_SCUSTARD": {
+    "name": "Stellar Custard",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "9% Sprint Recovery Time"
+  },
+  "FOOD_R_CHEESE": {
+    "name": "Tangy Cheese",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "39% Sprint Distance 6 Min"
+  },
+  "FOOD_R_GCHEESE": {
+    "name": "ProtoCheese",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "51% Sprint Distance 8 Min"
+  },
+  "FOOD_R_HONEYBUT": {
+    "name": "Honey Butter",
+    "consumeEffect": "40% Life Support",
+    "ingestEffect": "69% Life Support Tanks 6 Min"
+  },
+  "FOOD_R_HONEYGEK": {
+    "name": "Honied Proto-Butter",
+    "consumeEffect": "40% Life Support",
+    "ingestEffect": "88% Life Support Tanks 8 Min"
+  },
+  "FOOD_R_SWEETBUT": {
+    "name": "Sweetened Butter",
+    "consumeEffect": "40% Life Support",
+    "ingestEffect": "68% Life Support Tanks 6 Min"
+  },
+  "FOOD_R_SWEETGEK": {
+    "name": "Sweetened Proto-Butter",
+    "consumeEffect": "40% Life Support",
+    "ingestEffect": "89% Life Support Tanks 8 Min"
+  },
+  "FOOD_R_BLOBBUT": {
+    "name": "Gooey Butter",
+    "consumeEffect": "40% Life Support",
+    "ingestEffect": "75% Solar Panel Power 8 Min"
+  },
+  "FOOD_R_BLOBGEK": {
+    "name": "Gooey ProtoButter",
+    "consumeEffect": "40% Life Support",
+    "ingestEffect": "55% Solar Panel Power 6 Min"
+  },
+  "FOOD_R_DOUGH": {
+    "name": "Dough",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "34% Sprint Distance 5 Min"
+  },
+  "FOOD_R_BREAD": {
+    "name": "Bread",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "22% Hazard Protection Battery 6 Min"
+  },
+  "FOOD_R_PASTRY": {
+    "name": "Pastry",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "23% Shield Strength 5 Min"
+  },
+  "FOOD_R_CARAMEL": {
+    "name": "Crunchy Caramel",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "67% Life Support Tanks 6 Min"
+  },
+  "FOOD_R_DONUT": {
+    "name": "Lumpen Doughnut",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "25% Hazard Protection Battery 7 Min"
+  },
+  "FOOD_R_GONUT": {
+    "name": "Proto-Beignet",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "26% Hazard Protection Battery 8 Min"
+  },
+  "FOOD_DNUT_CUST": {
+    "name": "Custard Doughnut",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "29% Mining Speed 10 Min"
+  },
+  "FOOD_R_BCUSTARD": {
+    "name": "Very Thick Custard",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "32% Shield Strength 7 Min"
+  },
+  "FOOD_DNUT_FCUST": {
+    "name": "Salty Doughnut",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "30% Mining Speed 10 Min"
+  },
+  "FOOD_DNUT_MCUST": {
+    "name": "Monstrous Doughnut",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "-37% Recharge Time 10%"
+  },
+  "FOOD_DNUT_SCUST": {
+    "name": "The Stellarator",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "64% Resources Mined 10 Min"
+  },
+  "FOOD_DNUT_HON": {
+    "name": "Honey Doughnut",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "28% Mining Speed 10 Min"
+  },
+  "FOOD_DNUT_HONB": {
+    "name": "Honeybutter Doughnut",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "29% Mining Speed 10 Min"
+  },
+  "FOOD_DNUT_BLOB": {
+    "name": "Gooey ProtoDoughnut",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "28% Mining Speed 10 Min"
+  },
+  "FOOD_DNUT_CARM": {
+    "name": "Caramel Doughnut",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "60% Resources Mined 10 Min"
+  },
+  "FOOD_DNUT_CHOC": {
+    "name": "Cocoa Doughnut",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "-38% Recharge Time 10 Min"
+  },
+  "FOOD_DNUT_MEAT": {
+    "name": "Proteinous Doughnut",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "51% Resources Mined 10 Min"
+  },
+  "FOOD_M_MEAT": {
+    "name": "Meaty Chunks",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "2% Sprint Recovery Time 1 Min"
+  },
+  "FOOD_JAM_GLITCH": {
+    "name": "Anomalous Jam",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "49% Sprint Distance 8 Min"
+  },
+  "FOOD_JAM_HOT": {
+    "name": "Ever-burning Jam",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "52% Heat Resistance 8 Min"
+  },
+  "FOOD_JAM_DUST": {
+    "name": "Cactus Jelly",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "51% Cold Resistance 8 Min"
+  },
+  "FOOD_JAM_CAT": {
+    "name": "Furball Jelly",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "26% Hazard Protection Battery 8 Min"
+  },
+  "FOOD_V_CAT": {
+    "name": "Leopard-Fruit",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "16% Sprint Distance 2 Min"
+  },
+  "FOOD_JAM_CRAB": {
+    "name": "Wriggling Jam",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "26% Hazard Protection Battery 8 Min"
+  },
+  "FOOD_DNUT_AJAM": {
+    "name": "Anomalous Doughnut",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,443% Fauna Analysis Rewards 10 Min"
+  },
+  "FOOD_DNUT_JAM": {
+    "name": "Jam Doughnut",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "87% Solar Panel Power 10 Min"
+  },
+  "FOOD_DNUT_CJAM": {
+    "name": "Wriggling Doughnut",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6548% Flora Analysis Rewards 10 Min"
+  },
+  "FOOD_R_SMOKED": {
+    "name": "Smoked Meat",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "33% Heat Resistance 5 Min"
+  },
+  "FOOD_R_MEAT": {
+    "name": "Processed Meat",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "20% Hazard Protection Battery 5 Min"
+  },
+  "FOOD_M_FLYER": {
+    "name": "Meaty Wings",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "9% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_M_FIEND": {
+    "name": "Fiendish Roe",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "8% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_M_BLOB": {
+    "name": "Offal Sac",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "5% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_M_GEK": {
+    "name": "ProtoSausage",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "5% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_M_DIPLO": {
+    "name": "Diplo Chunks",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "3% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_M_REX": {
+    "name": "Scaly Meat",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "7% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_M_CAT": {
+    "name": "Feline Liver",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "10% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_M_STRIDER": {
+    "name": "Strider Sausage",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "8% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_M_COW": {
+    "name": "Raw Steak",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "9% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_M_CRAB": {
+    "name": "Leg Meat",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "2% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_M_MOLE": {
+    "name": "Scooped Innards",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "5% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_M_BONE": {
+    "name": "Crystal Flesh",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "6% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_M_DRILL": {
+    "name": "Latticed Sinew",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "3% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_M_BEETLE": {
+    "name": "Crunchy Wings",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "4% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_M_BALL": {
+    "name": "Lumpy Brainstem",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "8% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_M_DIGGER": {
+    "name": "Dirty Meat",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "11% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_M_BUG": {
+    "name": "Juicy Thorax",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "3% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_R_PIECASE": {
+    "name": "Pie Case",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "55% Life Support Tanks 5 Min"
+  },
+  "FOOD_PIE_MEAT": {
+    "name": "Mystery Meat Pie",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "28% Hazard Protection Battery 8 Min"
+  },
+  "FOOD_PIE_SMEAT": {
+    "name": "Smokey Meat Pie",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "25% Hazard Protection Battery 8 Min"
+  },
+  "FOOD_PIE_VEG": {
+    "name": "High-Fibre Pie",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "26% Hazard Protection Battery 8 Min"
+  },
+  "FOOD_PIE_FIEND": {
+    "name": "Haunted Pie",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "65% Sprint Distance 10 Min"
+  },
+  "FOOD_PIE_ORGAN": {
+    "name": "Chewy Organ Pie",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "11% Sprint Recovery Time 10 Min"
+  },
+  "FOOD_PIE_GEK": {
+    "name": "Proto-Sausage Pie",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "8% Sprint Recovery Time 10 Min"
+  },
+  "FOOD_PIE_FISH": {
+    "name": "Fish Pie",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "47% Breathing Efficiency 8 Min"
+  },
+  "FOOD_PIE_BERRY": {
+    "name": "Fruity Pudding",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "61% Heat Resistance 10 Min"
+  },
+  "FOOD_PIE_GLOW": {
+    "name": "Glowing Pie",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "55% Radiation Resistance 10 Min"
+  },
+  "FOOD_PIE_MUSH": {
+    "name": "Fungal Tart",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "40% Shield Strength 10 Min"
+  },
+  "FOOD_PIE_CACTUS": {
+    "name": "Spikey Tart",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "62% Heat Resistance 10 Min"
+  },
+  "FOOD_PIE_WEIRD": {
+    "name": "Anomalous Tart",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "54% Resources Mined 10 Min"
+  },
+  "FOOD_PIE_ROOTS": {
+    "name": "Mushed Root Pie",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "8% Sprint Recovery Time 10 Min"
+  },
+  "FOOD_PIE_HONEY": {
+    "name": "Honey Tart",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "113% Life Support Tanks 10 Min"
+  },
+  "FOOD_PIE_GREASE": {
+    "name": "Solidified Grease Pie",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "316% Jetpack Tanks 10 Min"
+  },
+  "FOOD_V_REX": {
+    "name": "Regis Grease",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "5% Life Support Tanks 1 Min"
+  },
+  "FOOD_V_BUG": {
+    "name": "Nourishing Slime",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "16% Sprint Distance 2 Min"
+  },
+  "FOOD_PIE_CAT": {
+    "name": "Jellied Fur Tart",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "16% Sprint Recovery Time 10 Min"
+  },
+  "FOOD_PIE_CRABJ": {
+    "name": "Wriggling Tart",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "307% Jetpack Tanks 10 Min"
+  },
+  "FOOD_PIE_JAM": {
+    "name": "Jam Tart",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "42% Shield Strength 10 Min"
+  },
+  "FOOD_PIE_CHOC": {
+    "name": "Cocoa Tart",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "9% Sprint Recovery Time 10 Min"
+  },
+  "FOOD_PIE_CREAM": {
+    "name": "Creamy Treat",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "9% Sprint Recovery Time 10 Min"
+  },
+  "FOOD_R_BCREAM": {
+    "name": "Bone Cream",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "32% Shield Strength 7 Min"
+  },
+  "FOOD_PIE_CUST": {
+    "name": "Custard Tart",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "10% Sprint Recovery Time 10 Min"
+  },
+  "FOOD_PIE_MCUST": {
+    "name": "The Spawning Tart",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "61% Sprint Distance 10 Min"
+  },
+  "FOOD_PIE_SCUST": {
+    "name": "Stellar Custard Tart",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "314% Jetpack Tanks 10 Min"
+  },
+  "FOOD_PIE_CHEESE": {
+    "name": "Baked Cheese Tart",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "30% Hazard Protection Battery 10 Min"
+  },
+  "FOOD_R_BCHEESE": {
+    "name": "Bone Cheese",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "32% Shield Strength 7 Min"
+  },
+  "FOOD_PIE_CARM": {
+    "name": "Caramel Tart",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "7% Sprint Recovery Time 10 Min"
+  },
+  "FOOD_PIE_VCHEE": {
+    "name": "Cheesy Vegetable Pie",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "32% Hazard Protection Battery 10 Min"
+  },
+  "FOOD_EGGPIE_M": {
+    "name": "Whispering Omelette",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "10% Sprint Recovery Time 6:30 Min"
+  },
+  "FOOD_EGGPIE": {
+    "name": "Omelette",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "50% Solar Panel Power 6:30 Min"
+  },
+  "FOOD_EGGPIE_GM": {
+    "name": "Parasitic Omelette",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "54% Solar Panel Power 6:30 Min"
+  },
+  "FOOD_EGGPIE_G": {
+    "name": "Proto-Omelette",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "62% Solar Panel Power 6:30 Min"
+  },
+  "FOOD_MEAT_STEW": {
+    "name": "Mystery Meat Stew",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "15% Sprint Recovery Time 8 Min"
+  },
+  "FOOD_ORGAN_STEW": {
+    "name": "Stewed Organs",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "9% Sprint Recovery Time 6:30 Min"
+  },
+  "FOOD_VEG_STEW": {
+    "name": "Fibrous Stew",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "13% Sprint Recovery Time 8 Min"
+  },
+  "FOOD_S_VEG": {
+    "name": "Flavoursome Sauce",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "24% Hazard Protection Battery 7 Min"
+  },
+  "FOOD_S_HOT": {
+    "name": "Scorching Sauce",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "43% Heat Resistance 7 Min"
+  },
+  "FOOD_S_CREAM": {
+    "name": "Creamy Sauce",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "23% Hazard Protection Battery 7 Min"
+  },
+  "FOOD_S_CHEESE": {
+    "name": "Partially-Liquid Cheese",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "23% Hazard Protection Battery 7 Min"
+  },
+  "FOOD_STEW_O_CH": {
+    "name": "Tangy Organ Surprise",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "63% Sprint Distance 10 Min"
+  },
+  "FOOD_STEW_BONE": {
+    "name": "Crystalline Soup",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "39% Resources Mined 6:30 Min"
+  },
+  "FOOD_STEW_BEET": {
+    "name": "Gelatinous Goop",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "5% Sprint Recovery Time 6:30 Min"
+  },
+  "FOOD_STEW_V_CH": {
+    "name": "Tangy Vegetable Stew",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "63% Sprint Distance 10 Min"
+  },
+  "FOOD_STEW_M_CH": {
+    "name": "Cheese-and-Flesh Stew",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "60% Sprint Distance 10 Min"
+  },
+  "FOOD_STEW_DRILL": {
+    "name": "Well-Stirred Stew",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "47% Resources Mined 6:30 Min"
+  },
+  "FOOD_STEW_DIG": {
+    "name": "Soiled Soup",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "21% Mining Speed 6:30 Min"
+  },
+  "FOOD_STEW_O_CR": {
+    "name": "Creamed Organ Soup",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "62% Sprint Distance 10 Min"
+  },
+  "FOOD_STEW_V_CR": {
+    "name": "Cream of Vegetable Soup",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "9% Sprint Recovery Time 10 Min"
+  },
+  "FOOD_STEW_M_CR": {
+    "name": "Thick Meat Stew",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "11% Sprint Recovery Time 10 Min"
+  },
+  "FOOD_STEW_O_HOT": {
+    "name": "Devilled Organs",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "54% Heat Resistance 10 Min"
+  },
+  "FOOD_STEW_V_HOT": {
+    "name": "Fiery Vegetable Stew",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "63% Heat Resistance 10 Min"
+  },
+  "FOOD_STEW_M_HOT": {
+    "name": "Spicy Fleshballs",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "64% Heat Resistance 10 Min"
+  },
+  "FOOD_STEW_O_VEG": {
+    "name": "Flavoursome Organs",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "43% Shield Strength 10 Min"
+  },
+  "FOOD_STEW_V_VEG": {
+    "name": "Delicious Vegetable Stew",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "42% Shield Strength 10 Min"
+  },
+  "FOOD_STEW_M_VEG": {
+    "name": "Herb-Encrusted Flesh",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "42% Shield Strength 10 Min"
+  },
+  "FOOD_R_CAKEMIX": {
+    "name": "Cake Batter",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "12% Sprint Recovery Time 4 Min"
+  },
+  "FOOD_R_GCAKEMIX": {
+    "name": "Proto-Batter",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "27% Sprint Recovery Time 4 Min"
+  },
+  "FOOD_R_MCAKEMIX": {
+    "name": "Wailing Batter",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "12% Sprint Recovery Time 4 Min"
+  },
+  "FOOD_R_PCATBUT": {
+    "name": "Butter Syrup",
+    "consumeEffect": "40% Life Support",
+    "ingestEffect": "68% Solar Panel Power 8 Min"
+  },
+  "FOOD_R_MERMIX": {
+    "name": "Extra-Fluffy Batter",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "26% Sprint Recovery Time 4 Min"
+  },
+  "FOOD_CK_HONEY": {
+    "name": "Glittering Honey Cake",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "52% Resources Mined 10 Min"
+  },
+  "FOOD_CK_BLOBBUT": {
+    "name": "Questionably Sweet Cake",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "64% Resources Mined 10 Min"
+  },
+  "FOOD_CK_CREAM": {
+    "name": "Cream Buns",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "57% Resources Mined 10 Min"
+  },
+  "FOOD_CK_CHOC": {
+    "name": "Chocolate Cake",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "54 % Recources Mined 10 min"
+  },
+  "FOOD_CK_CARM": {
+    "name": "Caramel-Encrusted Cake",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "55% Resources Mined 10 Min"
+  },
+  "FOOD_CK_CACTUS": {
+    "name": "Esophageal Surprise",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "56 % Heat Resistance 10 min"
+  },
+  "FOOD_CK_JGLITCH": {
+    "name": "Perpetual Cake",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "329% Jetpack Tanks 10 Min"
+  },
+  "FOOD_CK_JHOT": {
+    "name": "Ever-Boiling Cake",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "52 % Heat Resistance 10 min"
+  },
+  "FOOD_CK_JAM": {
+    "name": "Traditional Cake",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "-39% Recharge Time 10 Min"
+  },
+  "FOOD_CK_CUST": {
+    "name": "Custard Fancy",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "39 % Recharge time 10 min"
+  },
+  "FOOD_CK_FCUST": {
+    "name": "Briney Delight",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "59% Toxic Resistance 10 Min"
+  },
+  "FOOD_CK_SCUST": {
+    "name": "Interstellar Fancy",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "328% Jetpack Tanks 10 Min"
+  },
+  "FOOD_CG_BLOB": {
+    "name": "Most Curious Cake",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "6,469% Fauna Analysis Rewards 10 Min"
+  },
+  "FOOD_CG_CREAM": {
+    "name": "Cream Curiosity",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "43% Shield Strength 10 Min"
+  },
+  "FOOD_CG_CHOC": {
+    "name": "Chocolate Curiosity",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "93 % Solar Panel Power 10 min"
+  },
+  "FOOD_CG_CARM": {
+    "name": "Caramel Curiosity",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "6,583% Mineral Analysis Rewards 10 Min"
+  },
+  "FOOD_CG_HONEY": {
+    "name": "Honied Proto-Cake",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "85% Solar Panel Power 10 Min"
+  },
+  "FOOD_CG_CACTUS": {
+    "name": "Prickly Curiosity",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "64% Heat Resistance 10 Min"
+  },
+  "FOOD_CG_JGLITCH": {
+    "name": "Unsolvable Jam Turnover",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "307% Jetpack Tanks 10 Min"
+  },
+  "FOOD_CG_JHOT": {
+    "name": "Startling Fancy",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "54 % Heat Resistance 10 Min"
+  },
+  "FOOD_CG_JAM": {
+    "name": "Jam Curiosity",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "6154 % Fauna Analysis Rewards 10 Min"
+  },
+  "FOOD_CG_CUST": {
+    "name": "Custard Curiosity",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "6,388% Fauna Analysis Rewards 10 Min"
+  },
+  "FOOD_CG_FCUST": {
+    "name": "Salty Surprise",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "6,428% Fauna Analysis Rewards 10 Min"
+  },
+  "FOOD_CG_SCUST": {
+    "name": "Interstellar Curiosity",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "314% Jetpack Tanks 10 Min"
+  },
+  "FOOD_CB_CREAM": {
+    "name": "Sweet Cream Dreams",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "6,022% Mineral Analysis Rewards 10 Min"
+  },
+  "FOOD_CB_CHOC": {
+    "name": "Gooey Chocolate Cake",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "6,173% Mineral Analysis Rewards 10 Min"
+  },
+  "FOOD_CB_CARM": {
+    "name": "Gooey Caramel Cake",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "6208 % Mineral Analysis Rewards"
+  },
+  "FOOD_CB_HONEY": {
+    "name": "Honey-Soaked Fancy",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "6,323% Mineral Analysis Rewards 10 Min"
+  },
+  "FOOD_CB_APPLE": {
+    "name": "Gooey Fruit Surprise",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "6513 % Mineral Analysis Rewards"
+  },
+  "FOOD_CB_CACTUS": {
+    "name": "Honied Throat-Sticker",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "6,354% Mineral Analysis Rewards 10 Min"
+  },
+  "FOOD_CB_JGLITCH": {
+    "name": "Perpetual Honeycake",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "326% Jetpack Tanks 10 Min"
+  },
+  "FOOD_CB_JHOT": {
+    "name": "Gooey Mouthburner",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "51 % Heat Resistance 10 min"
+  },
+  "FOOD_CB_JAM": {
+    "name": "Jam Oozers",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "6534 % Mineral Analysis Rewards 10 min"
+  },
+  "FOOD_CB_CUST": {
+    "name": "Gooey Custard Fancy",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "6,070% Mineral Analysis Rewards 10 Min"
+  },
+  "FOOD_CB_FCUST": {
+    "name": "Salt-Laced Honey Cake",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "6,214% Mineral Analysis Rewards 10 Min"
+  },
+  "FOOD_CM_BLOBBUT": {
+    "name": "Gooey Screamer",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,129% Fauna Analysis Rewards 10 Min"
+  },
+  "FOOD_CB_SCUST": {
+    "name": "Starbirth Delight",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "312% Jetpack Tanks 10 Min"
+  },
+  "FOOD_CM_CREAM": {
+    "name": "Doomed Cream Cake",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,251% Flora Analysis Rewards 10 Min"
+  },
+  "FOOD_CM_CHOC": {
+    "name": "Haunted Chocolate Dreams",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,535% Flora Analysis Rewards 10 Min"
+  },
+  "FOOD_CM_CARM": {
+    "name": "Wailing Caramel Cake",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,068% Flora Analysis Rewards 10 Min"
+  },
+  "FOOD_CM_HONEY": {
+    "name": "Monstrous Honey Cake",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,218% Fauna Analysis Rewards 10 Min"
+  },
+  "FOOD_CM_CACTUS": {
+    "name": "Choking Monstrosity Cake",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,342% Flora Analysis Rewards 10 Min"
+  },
+  "FOOD_CM_JGLITCH": {
+    "name": "Cake of Glass",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "325 % Jetpack Tanks 10 min"
+  },
+  "FOOD_CM_JHOT": {
+    "name": "Cake of Burning Dread",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "54 % Heat Resistance, 10 min"
+  },
+  "FOOD_CM_JAM": {
+    "name": "Appalling Jam Sponge",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6564 % Flora Analysis Rewards 10 min"
+  },
+  "FOOD_MC_BLOB": {
+    "name": "Gooey Honey Puff",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,384% Fauna Analysis Rewards 10 Min"
+  },
+  "FOOD_MC_CREAM": {
+    "name": "Extra-Fluffy Cream Cake",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,422% Fauna Analysis Rewards 10 Min"
+  },
+  "FOOD_MC_CHOC": {
+    "name": "Chocolate Dream",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "43 % Shield Strength"
+  },
+  "FOOD_MC_CARM": {
+    "name": "Fluffy Caramel Delight",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "95% Solar Panel Power 10 Min"
+  },
+  "FOOD_MC_HONEY": {
+    "name": "Honied Angel Cake",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,214% Flora Analysis Rewards 10 Min"
+  },
+  "FOOD_MC_APPLE": {
+    "name": "Angelic Fruitcake",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,205% Mineral Analysis Rewards 10 Min"
+  },
+  "FOOD_MC_CACTUS": {
+    "name": "Soft and Spiky Surprise",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6270 % Flora Analysis Rewards 10 min"
+  },
+  "FOOD_MC_JGLITCH": {
+    "name": "Perpetual Jam Fluffer",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "302 % Jetpack Panks 10 min"
+  },
+  "FOOD_MC_JHOT": {
+    "name": "Burning Jam Fluffer",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "58% Heat Resistance 10 Min"
+  },
+  "FOOD_MC_JAM": {
+    "name": "Jam Fluffer",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6141 % Fauna Analysis Rewards 10 min"
+  },
+  "FOOD_MC_CUST": {
+    "name": "Soft Custard Fancy",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6355 % Fauna Analysis Rewards 10 min"
+  },
+  "FOOD_MM_CREAM": {
+    "name": "Unbound Cream Horn",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,362% Fauna Analysis Rewards 10 Min"
+  },
+  "FOOD_MM_CHOC": {
+    "name": "Volatile Chocolate Fancy",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "43% Shield Strength 10 Min"
+  },
+  "FOOD_MM_CARM": {
+    "name": "Caramelised Nightmare",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "97% Solar Panel Power 10 Min"
+  },
+  "FOOD_MM_HONEY": {
+    "name": "Tortured Honey Cake",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,139 % Fauna Analysis Rewards 10 min"
+  },
+  "FOOD_MM_APPLE": {
+    "name": "Cake of Sin",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,463% Mineral Analysis Rewards 10 Min"
+  },
+  "FOOD_MM_CACTUS": {
+    "name": "Fluffy Throatripper",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,181% Flora Analysis Rewards 10 Min"
+  },
+  "FOOD_MM_JGLITCH": {
+    "name": "Unbound Monstrosity",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "315% Jetpack Tanks 10 Min"
+  },
+  "FOOD_MM_JHOT": {
+    "name": "Burning Jam Surprise",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "65% Heat Resistance 10 Min"
+  },
+  "FOOD_MM_JAM": {
+    "name": "Writhing Jam Puff",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,387% Fauna Analysis Rewards 10 Min"
+  },
+  "FOOD_MM_CUST": {
+    "name": "Cake of the Lost",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,059% Fauna Analysis Rewards 10 min"
+  },
+  "FOOD_R_EYEBALLS": {
+    "name": "Horrifying Mush",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "2 Words Translated 5 Min"
+  },
+  "EYEBALL": {
+    "name": "Hypnotic Eye",
+    "consumeEffect": "n/a",
+    "ingestEffect": "16% Cold Resistance 6 Sec"
+  },
+  "F_ODD_LEG_S1": {
+    "name": "Abyssal Horror Egg",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,214% Fauna Analysis Rewards 3 Mins"
+  },
+  "FOOD_R_EYESTEW": {
+    "name": "Abyssal Stew",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "2 Words Translated 10 Min"
+  },
+  "FOOD_V_BONE": {
+    "name": "Bone Nuggets",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "15% Sprint Distance 2 Min"
+  },
+  "FOOD_R_EYEICE": {
+    "name": "Iced Screams",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "54% Cold Resistance 10 Min"
+  },
+  "FOOD_ICE": {
+    "name": "Ice Cream",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "65% Cold Resistance 10 Min"
+  },
+  "FOOD_ICE_FISH": {
+    "name": "Briney Rime",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "63% Cold Resistance 10 Min"
+  },
+  "FOOD_ICE_FIEND": {
+    "name": "Deathly-Cold Ice Cream",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "64% Breathing Efficiency"
+  },
+  "FOOD_ICE_STAR": {
+    "name": "Stellar Ice Cream",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "308% Jetpack Tanks 10 Min"
+  },
+  "FOOD_ICE_CHOC": {
+    "name": "Chocolate Ice Cream",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "54% Cold Resistance 10 Min"
+  },
+  "FOOD_ICE_CARM": {
+    "name": "Caramel Ice Cream",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "53% Cold Resistance 10 Min"
+  },
+  "FOOD_ICE_HONEY": {
+    "name": "Honey Ice Cream",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "56% Cold Resistance 10 Min"
+  },
+  "FOOD_ICE_GLITCH": {
+    "name": "Perpetual Ice Cream",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "320% Jetpack Tanks 10 Min"
+  },
+  "FOOD_ICE_HOT": {
+    "name": "Spiced Ice",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "58% Heat Resistance 10 Min"
+  },
+  "FOOD_ICE_FRUIT": {
+    "name": "Fruity Ice Cream",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "57% Cold Resistance 10 Min"
+  },
+  "NANOTUBES": {
+    "name": "Carbon Nanotubes",
+    "consumeEffect": "n/a",
+    "ingestEffect": "8% Hazard Protection 6 Sec"
+  },
+  "FOOD_J_SALT": {
+    "name": "Salty Juice",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "58% Breathing Efficiency 9 Min"
+  },
+  "FOOD_R_BONEMILK": {
+    "name": "Bone Milk",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "32% Shield Strength 7 Min"
+  },
+  "FOOD_ICE_BONE": {
+    "name": "Icey Marrow",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "52% Resources Mined 10 Min"
+  },
+  "FOOD_EGGPIE_B": {
+    "name": "Scrambled Marrow",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "50% Toxic Resistance 6:30 Min"
+  },
+  "FOOD_EGGPIE_MU": {
+    "name": "Fungal Omelette",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "46% Toxic Resistance 6:30 Min"
+  },
+  "FOOD_PIE_MOLE": {
+    "name": "Earthy Pie",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "57% Resources Mined 10 Min"
+  },
+  "FOOD_PIE_BONE": {
+    "name": "The Toothbreaker",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "52% Resources Mined 10 Min"
+  },
+  "FOOD_PIE_DRILL": {
+    "name": "Gristle Pie",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "56% Resources Mined 10 Min"
+  },
+  "FOOD_PIE_BEET": {
+    "name": "Leathery Tart",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "8% Sprint Recovery Time 10 Min"
+  },
+  "FOOD_PIE_BALL": {
+    "name": "Gritty Meat Pie",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "58% Resources Mined 10 Min"
+  },
+  "FOOD_PIE_DIG": {
+    "name": "The Pie Of Knowledge",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "56% Resources Mined 10 Min"
+  },
+  "FOOD_V_ROBOT": {
+    "name": "Chewy Wires",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "15% Sprint Distance 2 Min"
+  },
+  "FOOD_W_CASE": {
+    "name": "Gelatinous Membrane",
+    "consumeEffect": "1% Health",
+    "ingestEffect": "1,679% Mineral Analysis Rewards 2 Min"
+  },
+  "FOOD_W_MEAT": {
+    "name": "Nightmare Sausage",
+    "consumeEffect": "1% Health",
+    "ingestEffect": "1,612% Flora Analysis Rewards 2 Min"
+  },
+  "FISHCORE": {
+    "name": "Hadal Core",
+    "consumeEffect": "n/a",
+    "ingestEffect": "21% Breathing Efficiency 6 Sec"
+  },
+  "FOOD_W_SWEETM": {
+    "name": "Syrupy Viscera",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "15% Sprint Distance 2 Min"
+  },
+  "FOOD_B_DOUGH": {
+    "name": "Sugar Dough",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "13% Hazard Protection Battery 2 Min"
+  },
+  "FOOD_B_PLAIN": {
+    "name": "Simple Biscuit",
+    "consumeEffect": "5% Life Support",
+    "ingestEffect": "16% Hazard Protection Battery 4 Min"
+  },
+  "FOOD_B_SALT": {
+    "name": "Salty Cruncher",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "22% Hazard Protection Battery 6:36 Min"
+  },
+  "FOOD_B_JAM": {
+    "name": "Jammy Rounds",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "41% Sprint Distance 6:36 Min"
+  },
+  "FOOD_B_CAT": {
+    "name": "Cough Biscuits",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "44% Cold Resistance 6:36 Min"
+  },
+  "FOOD_B_HOT": {
+    "name": "Burning Surprise",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "45% Heat Resistance 6:36 Min"
+  },
+  "FOOD_B_WEIRD": {
+    "name": "Baked Anomaly",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "2 Words Translated 6:36 Min"
+  },
+  "FOOD_B_CHEESE": {
+    "name": "Curdy Cracker",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "235% Jetpack Tanks 6:36 Min"
+  },
+  "FOOD_B_WORM": {
+    "name": "Wriggling Tack",
+    "consumeEffect": "40% Life Support",
+    "ingestEffect": "39% Radiation Resistance 6:36 Min"
+  },
+  "FOOD_B_FISH": {
+    "name": "Fish Biscuit",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "47% Breathing Efficiency 6:36 Min"
+  },
+  "FOOD_B_CACTUS": {
+    "name": "Tooth Pickers",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "43% Heat Resistance 6:36 Min"
+  },
+  "FOOD_B_FIEND": {
+    "name": "Haunted Wafer",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "44% Toxic Resistance 6:36 Min"
+  },
+  "FOOD_B_MUSHROOM": {
+    "name": "Spore Dunkers",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "4,233% Flora Analysis Rewards 6:36 Min"
+  },
+  "FOOD_B_CHOCO": {
+    "name": "Cocoa Creams",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "71% Life Support Tanks 6:36 Min"
+  },
+  "FOOD_B_CARAMEL": {
+    "name": "Sticky Finger",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "74% Life Support Tanks 6:36 Min"
+  },
+  "FOOD_B_CREAM": {
+    "name": "Cream Fingers",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "22% Hazard Protection Battery 6:36 Min"
+  },
+  "FOOD_B_MILK": {
+    "name": "Enriched Biscuit",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "22% Hazard Protection Battery 6:36 Min"
+  },
+  "FOOD_B_HONEY": {
+    "name": "Honey Waffle",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "5% Sprint Recovery Time 6:36 Min"
+  },
+  "FOOD_B_HERB": {
+    "name": "Herbal Crunchie",
+    "consumeEffect": "Jetpack Boost Duration 5 Sec",
+    "ingestEffect": "4,474% Flora Analysis Rewards 6:36 Min"
+  },
+  "NIPNIPBUDS": {
+    "name": "NipNip Buds",
+    "consumeEffect": "n/a",
+    "ingestEffect": "-100% Unspecified 6 Sec"
+  },
+  "FOOD_B_VEG": {
+    "name": "Healthy Wheatblock",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "4,191% Flora Analysis Rewards 6:36 Min"
+  },
+  "FOOD_B_FLOWER": {
+    "name": "Floral Wafer",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "4,136% Flora Analysis Rewards 6:36 Min"
+  },
+  "FOOD_B_MEAT": {
+    "name": "Questionable Biscuit",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "14% Sprint Recovery Time 6:36 Min"
+  },
+  "FOOD_B_BURN": {
+    "name": "Well-Smoked Biscuit",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "25% Heat Resistance 2 Min"
+  },
+  "FOOD_B_BUG": {
+    "name": "Chewy Biscuit",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "42% Toxic Resistance 6:36 Min"
+  },
+  "FOOD_JAM_BUG": {
+    "name": "Sweetened Mucous",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "27% Hazard Protection Battery 8 Min"
+  },
+  "FOOD_DNUT_BJAM": {
+    "name": "Mucal Doughnut",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "56% Toxic Resistance 10 Min"
+  },
+  "FOOD_MM_BUGJAM": {
+    "name": "Squirming Fancy",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "6,047% Fauna Analysis Rewards 10 Min"
+  },
+  "FOOD_MC_BUGJAM": {
+    "name": "Frosted Mire",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "6,123% Fauna Analysis Rewards 10 Min"
+  },
+  "FOOD_CM_BUGJAM": {
+    "name": "Primordial Sponge",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "6,553% Flora Analysis Rewards 10 Min"
+  },
+  "FOOD_CB_BUGJAM": {
+    "name": "Nourishing Oozer",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "6,384% Mineral Analysis Rewards 10 Min"
+  },
+  "FOOD_CG_BUGJAM": {
+    "name": "Mucal Curiosity",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "6,160% Fauna Analysis Rewards 10 Min"
+  },
+  "FOOD_CK_BUGJAM": {
+    "name": "Gelatinous Sponge",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "-36% Recharge Time 10 Min"
+  },
+  "FOOD_ICE_BUG": {
+    "name": "Slime Pop",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "68% Toxic Resistance 10 Min"
+  },
+  "FOOD_PIE_BUGJAM": {
+    "name": "Muculent Tart",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "120% Life Support Tanks 10 Min"
+  },
+  "FOOD_PIE_BMEAT": {
+    "name": "Seeping Pie",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "116% Life Support Tanks 10 Min"
+  },
+  "FOOD_STEW_BUG": {
+    "name": "Popping Stew",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "39% Toxic Resistance 6:30"
+  },
+  "FOOD_EGGPIE_BUG": {
+    "name": "Bugs-in-a-Blanket",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "41% Toxic Resistance 6:30 Min"
+  },
+  "FOOD_MM_PCAT": {
+    "name": "Ambrosial Curse",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "6,523% Fauna Analysis Rewards 10 Min"
+  },
+  "FOOD_MC_PCAT": {
+    "name": "Nectar Islands",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "6,532% Fauna Analysis Rewards 10 Min"
+  },
+  "FOOD_CM_PCATBUT": {
+    "name": "Cake of Eternal Sleep",
+    "consumeEffect": "3% Health",
+    "ingestEffect": "42% Shield Strength 10 Min"
+  },
+  "FOOD_R_PCAKEMIX": {
+    "name": "Syrupy Batter",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "28% Sprint Distance 4 Min"
+  },
+  "FOOD_CK_PCATBUT": {
+    "name": "Syrup-Drenched Delight",
+    "consumeEffect": "3% Health",
+    "ingestEffect": "62% Resources Mined 10 Min"
+  },
+  "FOOD_CG_PCAT": {
+    "name": "Nectar Sponge Cake",
+    "consumeEffect": "3% Health",
+    "ingestEffect": "6,440% Fauna Analysis Rewards 10 Min"
+  },
+  "FOOD_R_PCATGEK": {
+    "name": "Syrupy Proto-Butter",
+    "consumeEffect": "40% Life Support",
+    "ingestEffect": "51% Solar Panel Power 6 Min"
+  },
+  "FOOD_DNUT_PCAT": {
+    "name": "Pollen Puffball",
+    "consumeEffect": "20% Life Support",
+    "ingestEffect": "-39% Recharge Time 10 Min"
+  },
+  "FOOD_CP_CREAM": {
+    "name": "Creamy Clouds of Nectar",
+    "consumeEffect": "50% Health",
+    "ingestEffect": "6,156% Mineral Analysis Rewards 10 Min"
+  },
+  "FOOD_CP_CHOC": {
+    "name": "Chocolate Oozer",
+    "consumeEffect": "50% Health",
+    "ingestEffect": "6,049% Mineral Analysis Rewards 10 Min"
+  },
+  "FOOD_CP_CARM": {
+    "name": "Syrupy Caramel Slice",
+    "consumeEffect": "50% Health",
+    "ingestEffect": "6,203% Mineral Analysis Rewards 10 Min"
+  },
+  "FOOD_CP_HONEY": {
+    "name": "Ambrosial Wonder",
+    "consumeEffect": "50% Health",
+    "ingestEffect": "6,293% Mineral Analysis Rewards 10 Min"
+  },
+  "FOOD_CP_CACTUS": {
+    "name": "Hybrid Cake",
+    "consumeEffect": "50% Health",
+    "ingestEffect": "6,112% Mineral Analysis Rewards 10 Min"
+  },
+  "FOOD_CP_JGLITCH": {
+    "name": "Xeno-Sponge",
+    "consumeEffect": "50% Health",
+    "ingestEffect": "301% Jetpack Tanks 10 Min"
+  },
+  "FOOD_CP_JHOT": {
+    "name": "Syrupy Tingler",
+    "consumeEffect": "50% Health",
+    "ingestEffect": "51% Heat Resistance 10 Min"
+  },
+  "FOOD_CP_JAM": {
+    "name": "Jammy Burster",
+    "consumeEffect": "50% Health",
+    "ingestEffect": "6,245% Mineral Analysis Rewards 10 Min"
+  },
+  "FOOD_CP_CUST": {
+    "name": "Sponge of Ambrosia",
+    "consumeEffect": "50% Health",
+    "ingestEffect": "6,269% Mineral Analysis Rewards 10 Min"
+  },
+  "FOOD_CP_SCUST": {
+    "name": "Starpollen Surprise",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "319% Jetpack Tanks"
+  },
+  "FOOD_M_GRUB": {
+    "name": "Juicy Grub",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "11% Sprint Recovery Time 1:30 Min"
+  },
+  "FOOD_R_HORROR": {
+    "name": "Purged Ribs",
+    "consumeEffect": "3% Health",
+    "ingestEffect": "57% Toxic Resistance 7:30 Min"
+  },
+  "FOOD_M_HORROR": {
+    "name": "Rancid Flesh",
+    "consumeEffect": "1 - 3% Health",
+    "ingestEffect": "5% Life Support Tanks 1 Min"
+  },
+  "FOOD_STEW_EVIL": {
+    "name": "The Worst Stew",
+    "consumeEffect": "Jetpack Boost Duration 8 Sec",
+    "ingestEffect": "50% Toxic Resistance 6:30"
+  },
+  "FOOD_F_SMALL1": {
+    "name": "Fish Fry",
+    "consumeEffect": "40% Life Support Power",
+    "ingestEffect": "&#8203;"
+  },
+  "F_ALL_COM_S1": {
+    "name": "Tiny Scuttlefish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "28% Breathing Efficiency 30 Secs"
+  },
+  "F_TOX_COM_S2": {
+    "name": "Venomous Triggerfin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 30 Secs"
+  },
+  "F_RAD_COM_S2": {
+    "name": "Spotted Protofin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 30 Secs"
+  },
+  "F_HOT_COM_S1": {
+    "name": "Oilfin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "21% Breathing Efficiency 30 Secs"
+  },
+  "F_HOT_RARE_S2": {
+    "name": "Pyrefin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "28% Breathing Efficiency 1 Min"
+  },
+  "F_COLD_EPIC_S1": {
+    "name": "Rimescale Snapper",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "21% Breathing Efficiency 1 Min"
+  },
+  "F_LUSH_COM_S3": {
+    "name": "Common Shimmertail",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "23% Breathing Efficiency 3 Secs"
+  },
+  "F_DUST_LEG_S1": {
+    "name": "Fragile Icthyoscale",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,269% Fauna Analysis Rewards 3 Mins"
+  },
+  "F_DEEP_COM_S2": {
+    "name": "Deepwater Minnow",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "23% Breathing Efficiency 30 Secs"
+  },
+  "FOOD_F_CRAB": {
+    "name": "Peeled Claws",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "&#8203;"
+  },
+  "F_ALL_COM_S2": {
+    "name": "Mud Crab",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "26% Breathing Efficiency 30 Secs"
+  },
+  "F_HOT_LEG_S1": {
+    "name": "Starshell Crab",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,162% Fauna Analysis Rewards 3 Mins"
+  },
+  "F_COLD_COM_XL": {
+    "name": "Giant Hairy Crab",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "33% Breathing Efficiency 2 Mins"
+  },
+  "F_DUST_RARE_M2": {
+    "name": "Silicate Crab",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "28% Breathing Efficiency 1:30 Min"
+  },
+  "F_ODD_EPIC_M1": {
+    "name": "Screaming Crab",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "31% Breathing Efficiency 3 Mins"
+  },
+  "F_ODD_LEG_M1": {
+    "name": "Atlantidian Crab",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,607% Fauna Analysis Rewards 3:30 Mins"
+  },
+  "F_GAS_EPIC_M1": {
+    "name": "Quartzshell Crab",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "33% Breathing Efficiency 3 Mins"
+  },
+  "F_DEEP_EPIC_M1": {
+    "name": "Abyssal Crab",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "34% Breathing Efficiency 3 Mins"
+  },
+  "F_DEEP_LEG_S1": {
+    "name": "Sentient Crab",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,287% Fauna Analysis Rewards 3 Mins"
+  },
+  "FOOD_F_SMALL2": {
+    "name": "Whitebait",
+    "consumeEffect": "1% Health",
+    "ingestEffect": "&#8203;"
+  },
+  "F_ALL_COM_S3": {
+    "name": "Pondskipper",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "23% Breathing Efficiency 30 Secs"
+  },
+  "F_TOX_EPIC_S1": {
+    "name": "Waspfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "21% Breathing Efficiency 1 Min"
+  },
+  "F_HOT_COM_S2": {
+    "name": "Common Sunfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "&#8203;"
+  },
+  "F_COLD_COM_S1": {
+    "name": "Ice Darter",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "24% Breathing Efficiency 30 Secs"
+  },
+  "F_LUSH_COM_S1": {
+    "name": "Shadowfin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "28% Breathing Efficiency 30 Secs"
+  },
+  "F_LUSH_RARE_S1": {
+    "name": "Sweetwater Minnow",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "22% Breathing Efficiency 1 Min"
+  },
+  "F_DUST_COM_S2": {
+    "name": "Lesser Dustfin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "28% Breathing Efficiency 30 Secs"
+  },
+  "F_ODD_COM_S1": {
+    "name": "Vectorfin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "21% Breathing Efficiency 30 Secs"
+  },
+  "F_DEEP_RARE_S1": {
+    "name": "Spratfin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "29% Breathing Efficiency 1 Min"
+  },
+  "FOOD_F_EEL": {
+    "name": "Fleshy Cylinder",
+    "consumeEffect": "20% Life Support Power",
+    "ingestEffect": "43% Breathing Efficiency 5:30 Mins"
+  },
+  "F_ALL_COM_M1": {
+    "name": "Reef Eel",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "32% Breathing Efficiency 1 Min"
+  },
+  "F_TOX_COM_M1": {
+    "name": "Blistering Eel",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "24% Breathing Efficiency 1 Min"
+  },
+  "F_TOX_EPIC_XL": {
+    "name": "Viper Eel",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "29% Breathing Efficiency 3:30 Mins"
+  },
+  "F_RAD_EPIC_L1": {
+    "name": "Cyclopic Eel",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "28% Breathing Efficiency 3 Mins"
+  },
+  "F_HOT_RARE_M1": {
+    "name": "Flashfire Eel",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "33% Breathing Efficiency 1:30 Min"
+  },
+  "F_COLD_COM_M1": {
+    "name": "Midnight Eel",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "22% Breathing Efficiency 1 Min"
+  },
+  "F_LUSH_COM_XL": {
+    "name": "Warden Eel",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "34% Breathing Efficiency 2 Mins"
+  },
+  "F_LUSH_LEG_M1": {
+    "name": "Mist Serpent",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,450% Fauna Analysis Rewards 3:30 Mins"
+  },
+  "F_DUST_RARE_M1": {
+    "name": "Electric Eel",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "29% Breathing Efficiency 1:30 Min"
+  },
+  "F_ODD_RARE_XL": {
+    "name": "Sunspot Eel",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "38% Breathing Efficiency 3 Mins"
+  },
+  "F_GAS_COM_XL": {
+    "name": "Cyclonic Eel",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "29% Breathing Efficiency 1 Min"
+  },
+  "F_DEEP_RARE_M1": {
+    "name": "Bloated Eel",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "22% Breathing Efficiency 1:30 Min"
+  },
+  "FOOD_F_MED1": {
+    "name": "Edible Chum",
+    "consumeEffect": "2% Health",
+    "ingestEffect": "&#8203;"
+  },
+  "F_ALL_COM_M2": {
+    "name": "Rockfin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 1 Min"
+  },
+  "F_TOX_RARE_M2": {
+    "name": "Toxic Stonefish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "27% Breathing Efficiency 1:30 Min"
+  },
+  "F_RAD_COM_M2": {
+    "name": "Inverted Snapper",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "26% Breathing Efficiency 1 Min"
+  },
+  "F_RAD_EPIC_M1": {
+    "name": "Immortal Flatfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "37% Breathing Efficiency 3 Mins"
+  },
+  "F_HOT_RARE_M2": {
+    "name": "Solar Roach",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 1:30 Min"
+  },
+  "F_COLD_RARE_M1": {
+    "name": "Brineskipper",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "25% Breathing Efficiency 1:30 Min"
+  },
+  "F_LUSH_COM_M1": {
+    "name": "Wandering Kelpfin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "28% Breathing Efficiency 1 Min"
+  },
+  "F_LUSH_RARE_M2": {
+    "name": "Jungle Redfin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 1:30 Min"
+  },
+  "F_DUST_COM_M2": {
+    "name": "Sweeperfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "31% Breathing Efficiency 1 Min"
+  },
+  "F_ODD_COM_M1": {
+    "name": "Murmurfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 1 Min"
+  },
+  "F_DEEP_COM_M1": {
+    "name": "Silent Angler",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "23% Breathing Efficiency 1 Min"
+  },
+  "FOOD_F_LARGE1": {
+    "name": "Marine Steak",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "&#8203;"
+  },
+  "F_ALL_COM_L1": {
+    "name": "Greenscale Bloater",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 1:30 Min"
+  },
+  "F_TOX_RARE_L1": {
+    "name": "Venomtooth Wriggler",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "29% Breathing Efficiency 2 Mins"
+  },
+  "F_RAD_COM_L1": {
+    "name": "Glowing Catfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "28% Breathing Efficiency 1:30 Min"
+  },
+  "F_HOT_RARE_L1": {
+    "name": "Fumarole Gulper",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 2 Mins"
+  },
+  "F_COLD_RARE_L1": {
+    "name": "Frozen Knifejaw",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "26% Breathing Efficiency 2 Mins"
+  },
+  "F_LUSH_COM_L1": {
+    "name": "Flourishing Shalefish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "24% Breathing Efficiency 1:30 Min"
+  },
+  "F_LUSH_LEG_L1": {
+    "name": "Reef Guardian",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,755% Fauna Analysis Rewards 3:53 Mins"
+  },
+  "F_DUST_EPIC_L1": {
+    "name": "Ferrite Bowfin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "37% Breathing Efficiency 3 Mins"
+  },
+  "F_ODD_RARE_L1": {
+    "name": "Non-Euclidean Flatfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "25% Breathing Efficiency 2 Mins"
+  },
+  "F_GAS_EPIC_L1": {
+    "name": "Tendrilla",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "26% Breathing Efficiency 1 Min"
+  },
+  "F_DEEP_RARE_L1": {
+    "name": "Shrieking Flatfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "32% Breathing Efficiency 2 Mins"
+  },
+  "FOOD_F_XL1": {
+    "name": "Fishy Slab",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "&#8203;"
+  },
+  "F_ALL_COM_XL": {
+    "name": "Stonescale Shark",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "34% Breathing Efficiency 2 Mins"
+  },
+  "F_ALL_LEG_XL": {
+    "name": "The Lunker",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,711% Fauna Analysis Rewards 3:53 Mins"
+  },
+  "F_TOX_LEG_XL": {
+    "name": "Translucent Gulper",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,641% Fauna Analysis Rewards 3:53 Mins"
+  },
+  "F_RAD_LEG_XL": {
+    "name": "Helix Sawfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,699% Fauna Analysis Rewards 3:53 Mins"
+  },
+  "F_HOT_EPIC_XL": {
+    "name": "Hellion Bass",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "39% Brathing Efficiency 3:30 Mins"
+  },
+  "F_COLD_EPIC_XL": {
+    "name": "Black-Eyed Shark",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "38% Breathing Efficiency 3:30 Mins"
+  },
+  "F_LUSH_LEG_XL": {
+    "name": "Blind Titancore",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,807% Fauna Analysis Rewards 3:53 Mins"
+  },
+  "F_DUST_EPIC_XL": {
+    "name": "Cave Prowler",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "39% Breathing Efficiency 3:30 Mins"
+  },
+  "F_GAS_LEG_XL": {
+    "name": "The Maw of Titan",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,388% Fauna Analysis Rewards 3:30 Mins"
+  },
+  "FOOD_F_SMALL3": {
+    "name": "Pickled Fish",
+    "consumeEffect": "1% Health",
+    "ingestEffect": "37% Breathing Efficiency 4:30 Mins"
+  },
+  "F_ALL_RARE_S1": {
+    "name": "Needlefish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 1 Min"
+  },
+  "F_RAD_COM_S1": {
+    "name": "Bulging Snapper",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "23% Breathing Efficiency 30 Secs"
+  },
+  "F_RAD_RARE_S2": {
+    "name": "Nucleic Skipper",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "29% Breathing Efficiency 1 Min"
+  },
+  "F_HOT_RARE_S1": {
+    "name": "Lamptip Ray",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "32% Breathing Efficiency 1 Min"
+  },
+  "F_COLD_COM_S3": {
+    "name": "Frostscale Trout",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "22% Breathing Efficiency 30 Secs"
+  },
+  "F_LUSH_COM_S2": {
+    "name": "Warty Frogfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 30 Secs"
+  },
+  "F_LUSH_EPIC_S1": {
+    "name": "Wispscale Darter",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 1 Min"
+  },
+  "F_DUST_RARE_S1": {
+    "name": "Bladdersac",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "32% Breathing Efficiency 1 Min"
+  },
+  "F_ODD_COM_S2": {
+    "name": "Hexscale Minnow",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "20% Breathing Efficiency 30 Secs"
+  },
+  "F_DEEP_COM_S3": {
+    "name": "Sac-fish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "19% Breathing Efficiency 30 Secs"
+  },
+  "F_DEEP_EPIC_S1": {
+    "name": "Ghost Skipper",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "28% Breathing Efficiency 1 Min"
+  },
+  "FOOD_F_STARFISH": {
+    "name": "Delicate Legs",
+    "consumeEffect": "20% Life Support Power",
+    "ingestEffect": "&#8203;"
+  },
+  "F_ALL_RARE_S2": {
+    "name": "Spiny Starfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "26% Breathing Efficiency 1 Min"
+  },
+  "F_TOX_RARE_S1": {
+    "name": "Caustic Urchin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "27% Breathing Efficiency 1 Min"
+  },
+  "F_TOX_LEG_S1": {
+    "name": "Emeril Sunstar",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,198% Fauna Analysis Rewards 3 Mins"
+  },
+  "F_DUST_RARE_S2": {
+    "name": "Shalebound Starfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "25% Breathing Efficiency 1 Min"
+  },
+  "F_DUST_EPIC_S1": {
+    "name": "Golden Urchin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "23% Breathing Efficiency 1 Min"
+  },
+  "F_ODD_RARE_S1": {
+    "name": "Anemone Anomaly",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "31% Breathing Efficiency 1 Min"
+  },
+  "F_GAS_RARE_S2": {
+    "name": "Pulp Urchin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "27% Breathing Efficiency 2 Mins"
+  },
+  "FOOD_F_OCTOPUS": {
+    "name": "Grilled Tentacle",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "&#8203;"
+  },
+  "F_ALL_RARE_M1": {
+    "name": "Hypnotic Octopus",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "27% Breathing Efficiency 1:30 Min"
+  },
+  "F_TOX_COM_L1": {
+    "name": "Green-Ring Octopus",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "31% Breathing Efficiency 1:30 Min"
+  },
+  "F_HOT_EPIC_M1": {
+    "name": "Candelabra Octopus",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 3 Mins"
+  },
+  "F_GAS_EPIC_XL": {
+    "name": "Wrackjaw",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "28% Breathing Efficiency 3 Mins"
+  },
+  "F_DEEP_COM_XL": {
+    "name": "Bleached Octopus",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "28% Breathing Efficiency 2 Mins"
+  },
+  "FOOD_F_MED2": {
+    "name": "Grilled Fillet",
+    "consumeEffect": "2% Health",
+    "ingestEffect": "35% Breathing Efficiency 5 Mins"
+  },
+  "F_ALL_RARE_M2": {
+    "name": "Longjaw Snapper",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "26% Breathing Efficiency 1:30 Min"
+  },
+  "F_TOX_EPIC_M1": {
+    "name": "Scorpionfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "28% Breathing Efficiency 3 Mins"
+  },
+  "F_RAD_RARE_M1": {
+    "name": "Twisted Gulper",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "25% Breathing Efficiency 1:30 Min"
+  },
+  "F_RAD_LEG_M1": {
+    "name": "Aberrant Duskfin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,515% Fauna Analysis Rewards 3:30 Mins"
+  },
+  "F_HOT_LEG_M1": {
+    "name": "Mirrorscale Skipper",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,476% Fauna Analysis Rewards 3:30 Mins"
+  },
+  "F_COLD_RARE_M2": {
+    "name": "Pale Snowtail",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "32% Breathing Efficiency 1:30 Min"
+  },
+  "F_LUSH_COM_M2": {
+    "name": "Clearwater Skipper",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 1 Min"
+  },
+  "F_LUSH_EPIC_M1": {
+    "name": "Deepwater Angler",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "37% Breathing Efficiency 3 Mins"
+  },
+  "F_DUST_EPIC_M1": {
+    "name": "Bewitching Candlefish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "28% Breathing Efficiency 3 Mins"
+  },
+  "F_ODD_COM_M2": {
+    "name": "Inverted Brainfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "21% Breathing Efficiency 1 Min"
+  },
+  "FOOD_F_LARGE2": {
+    "name": "Brined Flesh",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "&#8203;"
+  },
+  "F_ALL_RARE_L1": {
+    "name": "Whispering Bonefish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 2 Mins"
+  },
+  "F_TOX_EPIC_L1": {
+    "name": "Shrieking Venttail",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "39% Breathing Efficiency 3 Mins"
+  },
+  "F_RAD_RARE_L1": {
+    "name": "Radiant Sunfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "27% Breathing Efficiency 2 Mins"
+  },
+  "F_HOT_EPIC_L1": {
+    "name": "Magma Shark",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "29% Breathing Efficiency 3 Mins"
+  },
+  "F_COLD_EPIC_L1": {
+    "name": "Frostbite Ray",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "27% Breathing Efficiency 3 Mins"
+  },
+  "F_LUSH_RARE_L1": {
+    "name": "Marrow Shark",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "24% Breathing Efficiency 2 Mins"
+  },
+  "F_DUST_COM_L1": {
+    "name": "Twilight Cavefish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "24% Breathing Efficiency 1:30 Min"
+  },
+  "F_DUST_LEG_L1": {
+    "name": "Ossified Deinosuchus",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,780% Fauna Analysis Rewards 3:53 Mins"
+  },
+  "F_ODD_EPIC_L1": {
+    "name": "Giant Witchfin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "33% Breathing Efficiency 3 Mins"
+  },
+  "F_GAS_RARE_L1": {
+    "name": "Vapourfin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "33% Breathing Efficiency 1:30 Min"
+  },
+  "FOOD_F_XL2": {
+    "name": "Whole Roast Fish",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "44% Breathing Efficiency 6 Mins"
+  },
+  "F_ALL_RARE_XL": {
+    "name": "Giant Ray",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "38% Breathing Efficiency 3 Mins"
+  },
+  "F_TOX_COM_XL": {
+    "name": "Giant Whiskerfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "28% Breathing Efficiency 2 Mins"
+  },
+  "F_RAD_COM_XL": {
+    "name": "Polyscale Bloater",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "24% Breathing Efficiency 2 Mins"
+  },
+  "F_HOT_COM_XL": {
+    "name": "Basalt-Tooth Bloater",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "35% Breathing Efficiency 2 Mins"
+  },
+  "F_HOT_LEG_XL": {
+    "name": "Ancient Irontail",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,800% Fauna Analysis Rewards 3:53 Mins"
+  },
+  "F_LUSH_RARE_XL": {
+    "name": "Giant Sunray",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "29% Breathing Efficiency 3 Mins"
+  },
+  "F_DUST_COM_XL": {
+    "name": "Greater Rocktooth",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 2 Mins"
+  },
+  "F_DUST_LEG_XL": {
+    "name": "Megalodon",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,805% Fauna Analysis Rewards 3:53 Mins"
+  },
+  "F_DEEP_EPIC_XL": {
+    "name": "Colossal Jawfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "33% Breathing Efficiency 3:03 Mins"
+  },
+  "FOOD_F_CLAM": {
+    "name": "Mollusc Flesh",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "44% Breathing Efficiency 5:30 Mins"
+  },
+  "F_ALL_EPIC_S1": {
+    "name": "Shrieking Oyster",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "24% Breathing Efficiency 1 Min"
+  },
+  "F_TOX_RARE_S2": {
+    "name": "Weltscale Clam",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "24% Breathing Efficiency 1 Min"
+  },
+  "F_RAD_RARE_S1": {
+    "name": "Ionised Clam",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "24% Breathing Efficiency 1 Min"
+  },
+  "F_HOT_EPIC_S1": {
+    "name": "Cadmium Pearlcase",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "29% Breathing Efficiency 1 Min"
+  },
+  "F_COLD_COM_S2": {
+    "name": "Frozen Whelk",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "28% Breathing Efficiency 30 Secs"
+  },
+  "F_COLD_RARE_S1": {
+    "name": "Frostshell Clam",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "23% Breathing Efficiency 1 Min"
+  },
+  "F_ODD_RARE_S2": {
+    "name": "Erased Clam",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 1 Min"
+  },
+  "F_GAS_COM_S3": {
+    "name": "Inert Whelk",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "25% Breathing Efficiency 30 Secs"
+  },
+  "F_GAS_RARE_S1": {
+    "name": "Ionised Oyster",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "31% Breathing Efficiency 1:30 Min"
+  },
+  "F_GAS_LEG_M1": {
+    "name": "Mother-of-Quicksilver",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "39% Breathing Efficiency 3:30 Mins"
+  },
+  "F_GAS_LEG_L1": {
+    "name": "Hyper-cockle",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,152% Fauna Analysis Rewards 3 Mins"
+  },
+  "FOOD_F_TURTLE": {
+    "name": "Boiled Flipper",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "&#8203;"
+  },
+  "F_ALL_EPIC_M1": {
+    "name": "Moon Turtle",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 3 Mins"
+  },
+  "F_COLD_EPIC_M1": {
+    "name": "Iceshell Turtle",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "38% Breathing Efficiency 3 Mins"
+  },
+  "F_DEEP_COM_L1": {
+    "name": "Wandering Shellback",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "25% Breathing Efficiency 1:30 Min"
+  },
+  "FOOD_F_PRAWN": {
+    "name": "Shell Puree",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "43% Breathing Efficiency 5:30 Mins"
+  },
+  "F_ALL_EPIC_L1": {
+    "name": "Colossal Shrimp",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "36% Breathing Efficiency 3 Mins"
+  },
+  "F_RAD_EPIC_S1": {
+    "name": "Geno-Prawn",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "31% Breathing Efficiency 1 Mins"
+  },
+  "F_HOT_COM_M1": {
+    "name": "Boiled Snapper",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "29% Breathing Efficiency 1 Min"
+  },
+  "F_COLD_RARE_S2": {
+    "name": "Frozen Isopod",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "21% Breathing Efficiency 1 Min"
+  },
+  "F_GAS_COM_M1": {
+    "name": "Jelly Prawn",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "20% Breathing Efficiency 30 Secs"
+  },
+  "F_GAS_RARE_M1": {
+    "name": "Metallic Shrimp",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "27% Breathing Efficiency 1 Min"
+  },
+  "F_DEEP_RARE_M2": {
+    "name": "Luminescent Coral",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "27% Breathing Efficiency 1:30 Min"
+  },
+  "F_ALL_EPIC_XL": {
+    "name": "Thunderfin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "33% Breathing Efficiency 3:30 Mins"
+  },
+  "F_TOX_RARE_XL": {
+    "name": "Bitterscale Ray",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "36% Breathing Efficiency 3 Mins"
+  },
+  "F_RAD_RARE_XL": {
+    "name": "Boiling Shark",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "35% Breathing Efficiency 3 Mins"
+  },
+  "F_HOT_RARE_XL": {
+    "name": "Colossal Meltfin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "32% Breathing Efficiency 3 Mins"
+  },
+  "F_COLD_RARE_XL": {
+    "name": "Giant Icefin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "37% Breathing Efficiency 3 Mins"
+  },
+  "F_LUSH_EPIC_XL": {
+    "name": "Colossal Mossback",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "41% Breathing Efficiency 3:30 Mins"
+  },
+  "F_DUST_RARE_XL": {
+    "name": "Saltscale Bloater",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "40% Breathing Efficiency 3 Mins"
+  },
+  "F_ODD_LEG_XL": {
+    "name": "Many-Mouthed Lunker",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,616% Fauna Analysis Rewards 3:53 Mins"
+  },
+  "F_GAS_RARE_XL": {
+    "name": "Crystalfin Shark",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "24% Breathing Efficiency 1:30 Min"
+  },
+  "F_DEEP_LEG_XL": {
+    "name": "Leviathan Spawn",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,625% Fauna Analysis Rewards 3:53 Mins"
+  },
+  "FOOD_F_SNAIL": {
+    "name": "Snail Fillet",
+    "consumeEffect": "20% Life Support Power",
+    "ingestEffect": "&#8203;"
+  },
+  "F_ALL_LEG_S1": {
+    "name": "Singing Sea-Snail",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,241% Fauna Analysis Rewards 3 Mins"
+  },
+  "F_HOT_COM_S3": {
+    "name": "Ash Snail",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "29% Breathing Efficiency 30 Secs"
+  },
+  "F_COLD_LEG_XL": {
+    "name": "Nautilia",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,822% Fauna Annalysis Rewards 3:53 Mins"
+  },
+  "F_ODD_COM_XL": {
+    "name": "Breach Crawler",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "27% Breathing Efficiency 2 Mins"
+  },
+  "F_GAS_EPIC_S1": {
+    "name": "Evaporating Snail",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "26% Breathing Efficiency 2 Mins"
+  },
+  "FOOD_F_JELLY": {
+    "name": "Jellymeat",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "38% Breathing Efficiency 5:30 Mins"
+  },
+  "F_ALL_LEG_M1": {
+    "name": "Golden Jellyfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,548% Fauna Analysis Rewards 3:30 Mins"
+  },
+  "F_TOX_COM_M2": {
+    "name": "Toxic Jelly",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "27% Breathing Efficiency 1 Min"
+  },
+  "F_RAD_LEG_S1": {
+    "name": "Many-Eyed Jellyfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,302% Fauna Analysis Rewards 3 Mins"
+  },
+  "F_HOT_LEG_L1": {
+    "name": "Jelly of the Veil",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,617% Fauna Analysis Rewards 3:53 Mins"
+  },
+  "F_COLD_LEG_S1": {
+    "name": "Crystal Jelly",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,233% Fauna Analysis Rewards 3 Mins"
+  },
+  "F_LUSH_RARE_S2": {
+    "name": "Mellifluous Jellyfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "28% Breathing Efficiency 1 Min"
+  },
+  "F_LUSH_LEG_S1": {
+    "name": "Glass Angel",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,174% Fauna Analysis Rewards 3 Mins"
+  },
+  "F_ODD_COM_S3": {
+    "name": "Aurora Jellyfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "26% Breathing Efficiency 30 Secs"
+  },
+  "F_ODD_LEG_L1": {
+    "name": "Child of Helios",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,765% Fauna Analysis Rewards 3:53 Mins"
+  },
+  "F_GAS_RARE_M2": {
+    "name": "Mineralised Jellyfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "32% Breathing Efficiency 1 Min"
+  },
+  "F_DEEP_COM_M2": {
+    "name": "Whispering Jelly",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "26% Breathing Efficiency 1 Min"
+  },
+  "FOOD_F_LARGE3": {
+    "name": "Seared Fillet",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "&#8203;"
+  },
+  "F_ALL_LEG_L1": {
+    "name": "Dragonfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,683% Fauna Analysis Rewards 3:53 Mins"
+  },
+  "F_TOX_LEG_L1": {
+    "name": "Bleached Bonefish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,661% Fauna Analysis Rewards 3:53 Mins"
+  },
+  "F_HOT_COM_L1": {
+    "name": "Sulphurfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "28% Breathing Efficiency 1:30 Min"
+  },
+  "F_COLD_COM_L1": {
+    "name": "Glacier Carp",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "34% Breathing Efficiency 1:30 Min"
+  },
+  "F_COLD_LEG_L1": {
+    "name": "Iceblood Gulper",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,840% Fauna Analysis Rewards 3:53 Mins"
+  },
+  "F_LUSH_EPIC_L1": {
+    "name": "Sunspine Basker",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "34% Breathing Efficiency 3 Mins"
+  },
+  "F_DUST_RARE_L1": {
+    "name": "Mantis Ray",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "35% Breathing Efficiency 2 Mins"
+  },
+  "F_ODD_COM_L1": {
+    "name": "Shimmering Lashtail",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "23% Breathing Efficiency 1:30 Min"
+  },
+  "F_DEEP_LEG_L1": {
+    "name": "The Hunter Below",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,865% Fauna Analysis Rewards 3:53 Mins"
+  },
+  "FOOD_F_WORM": {
+    "name": "Poached Worms",
+    "consumeEffect": "2% Health",
+    "ingestEffect": "43% Breathing Efficiency 5:30 Mins"
+  },
+  "F_TOX_COM_S1": {
+    "name": "Bileworm",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "25% Breathing Efficiency 30 Secs"
+  },
+  "F_TOX_COM_S3": {
+    "name": "Sea Cucumber",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "21% Breathing Efficiency 30 Secs"
+  },
+  "F_DUST_COM_S3": {
+    "name": "Briny Worm",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "21% Breathing Efficiency 30 Secs"
+  },
+  "F_ODD_RARE_M1": {
+    "name": "Writhing Brainworm",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "25% Breathing Efficiency 1:30 Min"
+  },
+  "F_ODD_EPIC_S1": {
+    "name": "All-Seeing Worm",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "24% Breathing Efficiency 1 Min"
+  },
+  "F_GAS_COM_M2": {
+    "name": "Encrusted Worm",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "25% Breathing Efficiency 30 Secs"
+  },
+  "F_GAS_LEG_S1": {
+    "name": "Mandelbrot Worm",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "39% Breathing Efficiency 3 Mins"
+  },
+  "F_DEEP_RARE_S2": {
+    "name": "Marine Glowworm",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "21% Breathing Efficiency 1 Min"
+  },
+  "F_DEEP_LEG_M1": {
+    "name": "Brain Eel",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,452% Fauna Analysis Rewards 3:30 Mins"
+  },
+  "FOOD_F_MED3": {
+    "name": "Smoked Fish",
+    "consumeEffect": "2% Health",
+    "ingestEffect": "&#8203;"
+  },
+  "F_TOX_RARE_M1": {
+    "name": "Acidic Pufferfish",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "25% Breathing Efficiency 1:30 Min"
+  },
+  "F_RAD_COM_M1": {
+    "name": "Forktailed Splicer",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "32% Breathing Efficiency 1 Min"
+  },
+  "F_RAD_RARE_M2": {
+    "name": "Depleted Razorjaw",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "27% Breathing Efficiency 1:30 Min"
+  },
+  "F_HOT_COM_M2": {
+    "name": "Lavascale Trout",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "23% Breathing Efficiency 1 Min"
+  },
+  "F_COLD_COM_M2": {
+    "name": "Thawed Diamondfin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "25% Breathing Efficiency 1 Min"
+  },
+  "F_COLD_LEG_M1": {
+    "name": "Ghostfin",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,548% Fauna Analysis Rewards 3:30 Mins"
+  },
+  "F_LUSH_RARE_M1": {
+    "name": "Blue Ribbontail",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "32% Breathing Efficiency 1:30 Min"
+  },
+  "F_DUST_COM_M1": {
+    "name": "Chalkscale Nibber",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "22% Breathing Efficiency 1 Min"
+  },
+  "F_DUST_LEG_M1": {
+    "name": "Titanworm Larva",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,563% Fauna Analysis Rewards 3:30 Mins"
+  },
+  "F_ODD_RARE_M2": {
+    "name": "Stargazer",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "33% Breathing Efficiency 1:30 Min"
+  },
+  "FOOD_F_SQUID": {
+    "name": "Steamed Rubber",
+    "consumeEffect": "2% Health",
+    "ingestEffect": "42% Breathing Efficiency 5:30 Mins"
+  },
+  "F_TOX_LEG_M1": {
+    "name": "Vampire Squid",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,590% Fauna Analysis Rewards 3:30 Mins"
+  },
+  "F_RAD_EPIC_XL": {
+    "name": "Alpha Squid",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "33% Breathing Efficiency 3:30 Mins"
+  },
+  "F_RAD_LEG_L1": {
+    "name": "Gamma Squid",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "2,680% Fauna Analysis Rewards 3:53 Mins"
+  },
+  "F_ODD_EPIC_XL": {
+    "name": "Void Squid",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 3:30 Mins"
+  },
+  "F_GAS_COM_L1": {
+    "name": "Plasmatic Squid",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "30% Breathing Efficiency 1 Min"
+  },
+  "F_DEEP_RARE_XL": {
+    "name": "Colossal Squid",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "&#8203;"
+  },
+  "FOOD_F_S15": {
+    "name": "Haunted Fillet",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "50% Breathing Efficiency 7:30 Mins"
+  },
+  "S15_FISH": {
+    "name": "The Angler",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "-100% Unspecified 0:06 Mins"
+  },
+  "FOOD_F_STEW": {
+    "name": "Seafood Stew",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "58% Breathing Efficiency 8 Mins"
+  },
+  "FOOD_F_MIX": {
+    "name": "Salty Platter",
+    "consumeEffect": "25% Hazard Protection",
+    "ingestEffect": "48% Breathing Efficiency 8:30 Mins"
+  },
+  "FOOD_F_PIE": {
+    "name": "Marine Pie",
+    "consumeEffect": "40% Life Support Power",
+    "ingestEffect": "51% Breathing Efficiency 8:30 Mins"
+  },
+  "FOOD_F_RICE": {
+    "name": "Fish and Rice",
+    "consumeEffect": "1% Health",
+    "ingestEffect": "44% Breathing Efficiency 7:30 Mins"
+  },
+  "FOOD_F_CHIPS": {
+    "name": "Starched Fish",
+    "consumeEffect": "Sprint Overload 15 Sec",
+    "ingestEffect": "45% Breathing Efficiency 7:30 Mins"
+  },
+  "FOOD_F_EGGS": {
+    "name": "Assorted Roe",
+    "consumeEffect": "50% Health",
+    "ingestEffect": "56% Breathing Efficiency 7:30 Mins"
+  },
+  "F_DEEP_COM_S1": {
+    "name": "De-pressurised Blob",
+    "consumeEffect": "&#8203;",
+    "ingestEffect": "20% Breathing Efficiency 30 Secs"
+  },
+  "FOOD_F_JEELS": {
+    "name": "Jellied Eel",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "46% Breathing Efficiency 7:30 Mins"
+  },
+  "FOOD_R_FOSSIL": {
+    "name": "Softened Marrow",
+    "consumeEffect": "2% Health",
+    "ingestEffect": "9% Sprint Recovery Time 3 Min"
+  },
+  "FOOD_STEW_FOSS": {
+    "name": "Bone Broth",
+    "consumeEffect": "50% Hazard Protection",
+    "ingestEffect": "42% Resources Mined 6:36"
+  }
+}
